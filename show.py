@@ -1,9 +1,13 @@
 import pandas as pd
+import requests
+import json
 
 from spotipy.oauth2 import SpotifyOAuth
 from secrets import *
 
 scope = ""
+search_url = "https://api.spotify.com/v1/search?" 
+
 
 class Show:
 
@@ -23,12 +27,53 @@ class Show:
         return auth_manager.get_access_token(as_dict=False)
 
 
-    def fill_spotify(self):
+    def fill_spotify(self, include_stats: bool = True):
         
         if not self.token:
             self.token = self._get_token()
 
-        print(self.token)
+
+        i = 0        
+        ids = []
+        song_names = self.df['song'].values
+        artist_names = self.df['artist'].values
+
+        while i < len(song_names):
+
+            track = song_names[i]
+            artist = artist_names[i]
+            q_type = "track"
+
+            track.replace(" ", "%20")
+            artist.replace(" ", "%20")
+
+            q = f"track:{track}%20artist:{artist}"
+
+            query = f'{search_url}q={q}&type={q_type}&limit=1'
+            response = requests.get(query, headers={"Content-Type": "application/json",
+                                                    "Authorization": "Bearer " + self.token})
+
+            if response.status_code == 200: # continue as normal
+                json_response = response.json()
+                if len(json_response['tracks']['items']) != 0:
+                    ids.append(json_response['tracks']['items'][0]['name'])
+                else:
+                    print(f"track #{i} ({track} by {artist}) not found.\n")
+                    ids.append(None)
+                i += 1
+            elif response.status_code == 401: # authentication failed, get new token
+                self.token = self._get_token()
+            elif response.status_code == 429: # rate limited, wait and try again
+                retry_time = response.headers["Retry-After"]
+                print(f"hit rate limit, waiting {retry_time}s.")
+                sleep(retry_time)
+            else: # some other error, just fill array with empty song
+                print(f"error code {response.status_code} on track #{i} ({track} by {artist}).\n")
+                ids.append(None)
+                i += 1
+
+        print(song_names)
+        print(ids)
 
 
     def export(self):
