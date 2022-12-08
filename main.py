@@ -50,6 +50,7 @@ if __name__ == "__main__":
     example_show = Show(example_df)
     example_show.fill_spotify()
 
-    print(example_show)
-
+    example_show.to_csv()
+    test = Show.from_csv('show_out/test-show.csv')
+    pass
     # print(df)

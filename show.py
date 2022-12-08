@@ -1,3 +1,7 @@
+from __future__ import annotations
+
+import os.path
+
 import pandas as pd
 import requests
 import json
@@ -32,12 +36,26 @@ class Show:
         self.dj_name = data['dj_name'].mode()[0]
         self.dj_id = data['dj_id'].mode()[0]
         self.channel = data['channel'].mode()[0]
-        self.df = data.drop(columns=['show_title', 'dj_id', 'dj_name', 'channel'])
+        self.df = data
 
-    def _get_token(self) -> str:
+    @staticmethod
+    def _get_token() -> str:
         auth_manager = SpotifyOAuth(client_id=client_id, client_secret=client_secret, show_dialog=True,
                                     redirect_uri=redirect_uri, scope=None)
         return auth_manager.get_access_token(as_dict=False)
+
+    @staticmethod
+    def from_csv(filename: str) -> Show:
+
+        if not filename:
+            raise Exception("csv File name cannot be None")
+
+        if not os.path.isfile(filename):
+            raise Exception(f"file \"{filename}\" not found locally")
+
+        df = pd.read_csv(filename)
+
+        return Show(df)
 
     def fill_spotify(self, include_stats: bool = True):
 
@@ -58,8 +76,8 @@ class Show:
             import re
 
             # remove special characters from track
-            track = re.sub(r"[]", "", track)
-            artist = re.sub(r"[]", "", artist)
+            # track = re.sub(r"[]", "", track)
+            # artist = re.sub(r"[]", "", artist)
 
             q = f"track:{track}%20artist:{artist}"
 
@@ -70,9 +88,9 @@ class Show:
             if response.status_code == 200:  # continue as normal
                 json_response = response.json()
                 if len(json_response['tracks']['items']) != 0:
-                    ids.append(json_response['tracks']['items'][0]['name'])
+                    ids.append(json_response['tracks']['items'][0]['id'])
                 else:
-                    print(f"track #{i} ({track} by {artist}) not found.")
+                    # print(f"track #{i} ({track} by {artist}) not found.")
                     ids.append(ids[i - 1]) if len(ids) > 0 else ids.append(None)  # if not found, append previous entry
                 i += 1
             elif response.status_code == 401:  # authentication failed, get new token
@@ -87,14 +105,15 @@ class Show:
                 i += 1
 
         # if our first entry wasn't found, then we replace it with the next one
+        #TODO: if the first two entries are null, this doesn't help. Maybe a while loop?
         if ids[0] is None:
             ids[0] = ids[1]
 
-        print(song_names)
-        print(ids)
+        ids = pd.Series(ids)
+        self.df['id'] = ids
 
-    def export(self):
-        pass
+    def to_csv(self, filepath: str = "show_out/test-show.csv"):
+        self.df.to_csv(filepath)
 
     def __str__(self) -> str:
         return f"{self.title} on {self.channel}, presented by {self.dj_name}: {len(self.df)} total spins."
