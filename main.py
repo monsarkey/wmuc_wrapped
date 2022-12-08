@@ -6,14 +6,14 @@ from show import Show
 if __name__ == "__main__":
 
     # placeholder
-    csv = "spin_data/spins_8mo_11-17-22.csv" 
+    csv = "spin_data/spins_8mo_11-17-22.csv"
 
     # reading in csv, changing column headers
     df = pd.read_csv(csv, header=0, names=['date', 'show_title', 'dj_id', 'dj_name', 'date2', 'artist', 'song', \
                                             'album', 'duration', 'isrc', 'release_date'])
 
     # dropping extra column
-    df = df.drop(columns=["date2"])
+    df = df.drop(columns=["date2", "duration"])
 
     # we split FM and DIG channels off from show titles
     titles = df.show_title
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     valid_FM = (df['channel'] == 'FM').values
 
     valid_channels = np.logical_or(valid_DIG, valid_FM)
-    
+
     # filter and re-index
     df = df[valid_channels]
     # df = df.reset_index()
@@ -51,6 +51,6 @@ if __name__ == "__main__":
     example_show.fill_spotify()
 
     example_show.to_csv()
-    test = Show.from_csv('show_out/test-show.csv')
+    test = Show.from_csv("show_out/test-show.csv")
     pass
     # print(df)

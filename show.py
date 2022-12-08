@@ -13,6 +13,7 @@ from secrets import *
 
 scope = ""
 search_url = "https://api.spotify.com/v1/search?"
+audio_features_url = "https://api.spotify.com/v1/audio-features?"
 
 percent_encoding = {
     " ": "%20",
@@ -36,6 +37,7 @@ class Show:
         self.dj_name = data['dj_name'].mode()[0]
         self.dj_id = data['dj_id'].mode()[0]
         self.channel = data['channel'].mode()[0]
+        self.spin_count = len(data)
         self.df = data
 
     @staticmethod
@@ -67,15 +69,18 @@ class Show:
         song_names = self.df['song'].values
         artist_names = self.df['artist'].values
 
-        while i < len(song_names):
+        num_tracks = len(song_names)
+
+        while i < num_tracks:
 
             track = song_names[i]
             artist = artist_names[i]
             q_type = "track"
 
-            import re
+            #TODO: remove special characters from track
 
-            # remove special characters from track
+            # import re
+
             # track = re.sub(r"[]", "", track)
             # artist = re.sub(r"[]", "", artist)
 
@@ -105,15 +110,57 @@ class Show:
                 i += 1
 
         # if our first entry wasn't found, then we replace it with the next one
-        #TODO: if the first two entries are null, this doesn't help. Maybe a while loop?
+        # TODO: if the first two entries are null, this doesn't help. Maybe a while loop?
         if ids[0] is None:
             ids[0] = ids[1]
 
-        ids = pd.Series(ids)
-        self.df['id'] = ids
+        self.df['id'] = pd.Series(ids)
+
+        # get audio features if required
+        if include_stats:
+
+            # change which audio features we're looking for here
+            required_features = ['danceability', 'energy', 'loudness', 'acousticness', 'instrumentalness',
+                                 'valence', 'tempo', 'duration_ms', 'time_signature']
+
+            # we can request track info in batches of 100
+            num_requests = (num_tracks // 100) + 1
+
+            dfs = []
+
+            for i in range(num_requests):
+
+                start_idx = i * 100
+
+                if i == num_requests - 1:
+                    id_str = '%2C'.join(ids[start_idx:(start_idx + num_tracks % 100)])
+                else:
+                    id_str = '%2C'.join(ids[start_idx:(start_idx + 100)])
+
+                query = f'{audio_features_url}ids={id_str}'
+                response = requests.get(query, headers={"Content-Type": "application/json",
+                                                        "Authorization": "Bearer " + self.token})
+
+                if response.status_code == 200:  # continue as normal
+                    json_response = response.json()
+                    dfs.append(pd.DataFrame(json_response['audio_features']))
+                elif response.status_code == 401:  # authentication failed, get new token
+                    self.token = self._get_token()
+                elif response.status_code == 429:  # rate limited, wait and try again
+                    retry_time = response.headers["Retry-After"]
+                    print(f"hit rate limit, waiting {retry_time}s.")
+                    time.sleep(float(retry_time))
+                else:  # some other error, just fill array with previous id
+                    print(f"error code {response.status_code} on request #{i}.")
+
+            # join request DataFrames into one
+            features_df = pd.concat(dfs).reset_index().drop(columns='index')
+            features_df = features_df[required_features]
+
+            self.df = pd.concat([self.df, features_df], axis=1)
 
     def to_csv(self, filepath: str = "show_out/test-show.csv"):
         self.df.to_csv(filepath)
 
     def __str__(self) -> str:
-        return f"{self.title} on {self.channel}, presented by {self.dj_name}: {len(self.df)} total spins."
+        return f"{self.title} on {self.channel}, presented by {self.dj_name}: {self.spin_count} total spins."
