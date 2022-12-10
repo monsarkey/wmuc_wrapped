@@ -1,0 +1,6900 @@
+,artist,Count
+0,Taylor Swift,151
+1,Weezer,115
+2,Elliott Smith,67
+3,Alex G,65
+4,Fleetwood Mac,63
+5,David Bowie,63
+6,The Rolling Stones,60
+7,The Beatles,59
+8,Mitski,52
+9,The 1975,51
+10,John Prine,48
+11,Talking Heads,47
+12,Beach House,46
+13,Phoebe Bridgers,42
+14,Rina Sawayama,42
+15,Arctic Monkeys,42
+16,Frank Ocean,41
+17,The Strokes,40
+18,Queen,40
+19,Lana Del Rey,39
+20,Björk,39
+21,Cocteau Twins,36
+22,Beyoncé,33
+23,Elton John,33
+24,Pink Floyd,32
+25,Lorde,32
+26,Harry Styles,31
+27,Omar Apollo,30
+28,The Jimi Hendrix Experience,29
+29,Stevie Wonder,29
+30,Radiohead,29
+31,Lady Gaga,29
+32,Vampire Weekend,29
+33,ABBA,29
+34,The Cure,29
+35,Gorillaz,29
+36,Tame Impala,29
+37,Steve Lacy,28
+38,Eagles,27
+39,BTS,27
+40,Grimes,26
+41,Fiona Apple,26
+42,Big Thief,26
+43,The Cranberries,26
+44,The Smashing Pumpkins,25
+45,The Killers,25
+46,The Smiths,25
+47,Charlie Puth,25
+48,SEVENTEEN,24
+49,The Mermen,24
+50,Charli XCX,23
+51,Nirvana,23
+52,Billy Joel,23
+53,Cage the Elephant,23
+54,Electric Light Orchestra,22
+55,MGMT,22
+56,Thelonious Monk,21
+57,Declan McKenna,21
+58,TWICE,21
+59,Bread,21
+60,Led Zeppelin,21
+61,Mamalarky,20
+62,Arca,20
+63,SZA,20
+64,Mazzy Star,20
+65,beabadoobee,20
+66,Dolly Parton,20
+67,Ariana Grande,20
+68,Joe Hisaishi,19
+69,Alvvays,19
+70,Michael Jackson,19
+71,Sufjan Stevens,19
+72,Florence + the Machine,19
+73,Pavement,19
+74,The Neighbourhood,19
+75,Peach Pit,19
+76,Clairo,18
+77,NIKI,18
+78,Jimi Hendrix,18
+79,Metric,18
+80,King Gizzard & The Lizard Wizard,18
+81,R.E.M.,18
+82,Sleater-Kinney,18
+83,The Who,18
+84,Aphex Twin,18
+85,Kendrick Lamar,18
+86,Mac Miller,17
+87,George Harrison,17
+88,Black Sabbath,17
+89,Faye Webster,17
+90,Charlie Parker,17
+91,Carly Rae Jepsen,17
+92,my bloody valentine,17
+93,Wilco,17
+94,Daryl Hall & John Oates,17
+95,America,17
+96,John Lennon,17
+97,Japanese Breakfast,17
+98,The Breeders,17
+99,Eiichi Otaki,17
+100,Seatbelts,16
+101,iwashiro taro,16
+102,Paramore,16
+103,BLACKPINK,16
+104,My Chemical Romance,16
+105,The Chairs,16
+106,The Doors,16
+107,Yves Tumor,16
+108,Steely Dan,16
+109,Simon & Garfunkel,16
+110,Creedence Clearwater Revival,15
+111,Artist Name(s),15
+112,Chicago,15
+113,Glass Animals,15
+114,ROSALÍA,15
+115,Belle and Sebastian,15
+116,Blood Orange,15
+117,Liz Phair,15
+118,Kenny Beats,15
+119,Conan Gray,15
+120,Bob Marley & The Wailers,15
+121,The Police,15
+122,Animal Collective,15
+123,Phoenix,15
+124,Beastie Boys,15
+125,The Beach Boys,14
+126,Slowdive,14
+127,Bladee,14
+128,Childish Gambino,14
+129,No Doubt,14
+130,Snail Mail,14
+131,Norah Jones,14
+132,The Green Pajamas,14
+133,Glee Cast,14
+134,Bon Iver,14
+135,Nick Drake,14
+136,Neko Case,14
+137,Death Cab for Cutie,14
+138,The Weeknd,14
+139,Stereolab,14
+140,The Clash,13
+141,Paul Simon,13
+142,Stars,13
+143,Beck,13
+144,Britney Spears,13
+145,Strawberry Alarm Clock,13
+146,Orson Wells,13
+147,Deftones,13
+148,Jesse Jo Stark,13
+149,Rihanna,13
+150,Wallows,13
+151,Drake,13
+152,One Direction,13
+153,Kanye West,13
+154,Courtney Barnett,13
+155,Bob Dylan,13
+156,Smino,13
+157,Blue Öyster Cult,13
+158,Angel Olsen,13
+159,Weyes Blood,13
+160,Crumb,13
+161,Tears for Fears,13
+162,Toto,13
+163,Coldplay,13
+164,Robert Gordon,13
+165,Marvin Gaye,13
+166,Yo La Tengo,13
+167,Men I Trust,13
+168,PinkPantheress,13
+169,Green Day,13
+170,Grateful Dead,13
+171,Tanukichan,12
+172,Robert Lester Folsom,12
+173,K Suave,12
+174,Miley Cyrus,12
+175,Surf Curse,12
+176,Yoko Ono,12
+177,Amy Winehouse,12
+178,Halsey,12
+179,Pixies,12
+180,Jon Brion,12
+181,The Cars,12
+182,Tom Waits,12
+183,Panic! At the Disco,12
+184,Fall Out Boy,12
+185,Vashti Bunyan,12
+186,Bleachers,12
+187,Wednesday,12
+188,Bad Bunny,12
+189,Neutral Milk Hotel,12
+190,Soccer Mommy,12
+191,Sublime,12
+192,Albert Collins,12
+193,Travesty LTD,12
+194,Maggie Rogers,12
+195,Joji,11
+196,Daft Punk,11
+197,Duster,11
+198,Billy Crespo,11
+199,The Sundays,11
+200,Kate Bush,11
+201,Travesty Ltd,11
+202,Makaya McCraven,11
+203,Asunojokei,11
+204,Dire Straits,11
+205,Bee Gees,11
+206,Interpol,11
+207,Etta James,11
+208,Ryuichi Sakamoto,11
+209,Spirit,11
+210,The Kinks,11
+211,Warren Zevon,11
+212,Sonic Youth,11
+213,Flying Lotus,11
+214,Melody's Echo Chamber,10
+215,CAKE,10
+216,Blondie,10
+217,Miles Davis,10
+218,Winter,10
+219,The Internet,10
+220,Tom Petty & The Heartbreakers,10
+221,Sobs,10
+222,Van Morrison,10
+223,JID,10
+224,The Velvet Underground,10
+225,Bill Withers,10
+226,Nas,10
+227,Foo Fighters,10
+228,Siouxsie & The Banshees,10
+229,Lamp,10
+230,Marc Anthony,10
+231,Thundercat,10
+232,Spoon,10
+233,Car Seat Headrest,10
+234,Sade,10
+235,Yeah Yeah Yeahs,10
+236,Jim Croce,10
+237,Ten Years After,10
+238,Earl Sweatshirt,10
+239,Jimmy Buffett,10
+240,Lucy Dacus,10
+241,Eric Clapton,10
+242,DOMi & JD BECK,10
+243,Bruce Springsteen,10
+244,Duran Duran,9
+245,FKA twigs,9
+246,The Regrettes,9
+247,The White Stripes,9
+248,Oneohtrix Point Never,9
+249,Faye Wong,9
+250,Margo Guryan,9
+251,The Mamas & The Papas,9
+252,Prince,9
+253,"Earth, Wind & Fire",9
+254,Freddie Gibbs,9
+255,Title Fight,9
+256,Marina and The Diamonds,9
+257,The Replacements,9
+258,James Brown,9
+259,Tegan and Sara,9
+260,LE SSERAFIM,9
+261,Lou Reed,9
+262,Josh Ritter,9
+263,Wes Montgomery,9
+264,St. Vincent,9
+265,U2,9
+266,Hole,9
+267,TV Girl,9
+268,Hozier,9
+269,Yann Tiersen,9
+270,Le Tigre,9
+271,Lil Nas X,9
+272,Caroline Polachek,9
+273,Susumu Hirasawa,9
+274,Todd Snider,9
+275,Muse,9
+276,Adele,9
+277,Hayley Kiyoko,9
+278,Janelle Monáe,9
+279,Solange,9
+280,Rilo Kiley,9
+281,Turnstile,9
+282,Missy Elliott,9
+283,King Krule,9
+284,Townes Van Zandt,9
+285,Lush,9
+286,New Order,9
+287,Kali Uchis,9
+288,The Shins,8
+289,Dua Lipa,8
+290,Warpaint,8
+291,Steve Miller Band,8
+292,Arlo Parks,8
+293,Flipphoneshwty,8
+294,Jefferson Airplane,8
+295,Wolf Alice,8
+296,Laufey,8
+297,wave to earth,8
+298,Floating Points,8
+299,Panda Bear,8
+300,Kid Cudi,8
+301,Kim Eaton,8
+302,Joan Jett & the Blackhearts,8
+303,Maroon 5,8
+304,Joey Alexander,8
+305,NCT 127,8
+306,Olivia Rodrigo,8
+307,Bratmobile,8
+308,The Mountain Goats,8
+309,Bobby Valentín,8
+310,Kris Kristofferson,8
+311,Broadcast,8
+312,Spice Girls,8
+313,Rage Against the Machine,8
+314,Ethel Cain,8
+315,The Stone Coyotes,8
+316,Erykah Badu,8
+317,John Mayer,8
+318,Built to Spill,8
+319,Ween,8
+320,John Denver,8
+321,Boards of Canada,8
+322,Nala Sinephro,8
+323,Quicksilver Messenger Service,8
+324,Billie Eilish,8
+325,Hippo Campus,8
+326,Loretta Lynn,8
+327,Alanis Morissette,8
+328,Hojean,8
+329,SASAMI,8
+330,Oasis,8
+331,The Avalanches,8
+332,HAIM,8
+333,The Apples In Stereo,8
+334,Victor Manuelle,8
+335,Michael Kamen,8
+336,The Flaming Lips,8
+337,"Tyler, The Creator",8
+338,Mac DeMarco,8
+339,Bastille,8
+340,Primus,8
+341,Destroy Boys,8
+342,The Allman Brothers Band,8
+343,UMI,8
+344,Haley Heynderickx,8
+345,Van Halen,8
+346,Zedd,8
+347,Donovan,8
+348,IU,8
+349,Chet Baker,8
+350,The Helio Sequence,8
+351,Lizzo,8
+352,Jackson Browne,8
+353,Todd Rundgren,8
+354,Sweet Trip,8
+355,Isaiah Rashad,8
+356,Red Hot Chili Peppers,8
+357,Mountain,8
+358,Depeche Mode,7
+359,"Bobby ""Boris"" Pickett & The Crypt-Kickers",7
+360,Too Much Joy,7
+361,Basement,7
+362,Tom Misch,7
+363,Blur,7
+364,Tom Petty,7
+365,Bladee & Ecco2k,7
+366,Vulfpeck,7
+367,ONE OK ROCK,7
+368,Xiu Xiu,7
+369,Elvin Bishop,7
+370,Dr. John,7
+371,blue smiley,7
+372,Ramones,7
+373,CHVRCHES,7
+374,BROCKHAMPTON,7
+375,Djo,7
+376,Robert Palmer,7
+377,Destiny's Child,7
+378,Pretty Sick,7
+379,Modest Mouse,7
+380,Wet Leg,7
+381,Crush,7
+382,Willie Nelson,7
+383,Cults,7
+384,Death Grips,7
+385,NewJeans,7
+386,Pharoah Sanders,7
+387,John Williams,7
+388,Phil Collins,7
+389,Art Blakey & The Jazz Messengers,7
+390,Sharon Van Etten,7
+391,Joy Division,7
+392,Journey,7
+393,PLASTIC SVN,7
+394,Perfume Genius,7
+395,Patti Smith,7
+396,st vertebrae,7
+397,A. G. Cook,7
+398,Orla Gartland,7
+399,Flume,7
+400,Iceage,7
+401,Ryo Fukui,7
+402,Imagine Dragons,7
+403,J Dilla,7
+404,Parquet Courts,7
+405,Godiego,7
+406,Jim Weider,7
+407,Al Green,7
+408,Seals & Crofts,7
+409,Fishmans,7
+410,LANY,7
+411,Henry Mancini,7
+412,Aerosmith,7
+413,Kesha,7
+414,Kero Kero Bonito,7
+415,OutKast,7
+416,All India Radio,7
+417,The Psychedelic Furs,7
+418,Kitty Craft,7
+419,MJ Lenderman,7
+420,MF DOOM,7
+421,Kaptain Kopter & The Fabulous Twirlybirds,7
+422,Franz Ferdinand,7
+423,Marianne Faithfull,7
+424,Kacey Musgraves,7
+425,Snow Strippers,7
+426,Asake,7
+427,Tedeschi Trucks Band,7
+428,The Beths,7
+429,Various Artists,6
+430,Lil Uzi Vert,6
+431,Air,6
+432,Mother Mother,6
+433,Pale Saints,6
+434,Supertramp,6
+435,Aimee Mann,6
+436,Charly Bliss,6
+437,Autechre,6
+438,Cigarettes After Sex,6
+439,Reel Big Fish,6
+440,Regina Spektor,6
+441,Restraining Order,6
+442,Taeko Onuki,6
+443,Leslie West,6
+444,Noah Kahan,6
+445,Cream,6
+446,Alessia Cara,6
+447,Cryogeyser,6
+448,Two Door Cinema Club,6
+449,Helena Deland,6
+450,Alicia Keys,6
+451,Low,6
+452,Lucinda Williams,6
+453,dodie,6
+454,Sega Bodega,6
+455,Nina Simone,6
+456,Violent Femmes,6
+457,Spiritualized,6
+458,Wham!,6
+459,La Dispute,6
+460,Spacemen 3,6
+461,Julia Jacklin,6
+462,Sophie,6
+463,Neil Young,6
+464,Justin Bieber,6
+465,Willow,6
+466,"Snarky Puppy,Metropole Orkest",6
+467,XXXTENTACION,6
+468,Smerz,6
+469,Smash Mouth,6
+470,Katy Perry,6
+471,Kelly Clarkson,6
+472,Kenny Loggins,6
+473,"10,000 Maniacs",6
+474,Pet Shop Boys,6
+475,A Tribe Called Quest,6
+476,AC/DC,6
+477,WILLOW,6
+478,Quarters of Change,6
+479,Janko Nilovic,6
+480,Lemon Demon,6
+481,Raveena,6
+482,Yes,6
+483,Jeff Buckley,6
+484,Panda Bear & Sonic Boom,6
+485,of Montreal,6
+486,Nico,6
+487,Stevie Nicks,6
+488,Laundry Day,6
+489,Jinsang,6
+490,Joan Baez,6
+491,Parliament,6
+492,Sex Pistols,6
+493,John Fahey,6
+494,All Time Low,6
+495,Yuri Gagarin (SWE),6
+496,Kim Petras,6
+497,girl in red,6
+498,Dry Cleaning,6
+499,boy pablo,6
+500,OneRepublic,6
+501,M83,6
+502,Dead or Alive,6
+503,The Lears,6
+504,Plumtree,6
+505,SOPHIE,6
+506,MARINA,6
+507,Anderson .Paak,6
+508,Deerhoof,6
+509,Def Leppard,6
+510,Andrew Gold,6
+511,Gracie Abrams,6
+512,Roberto Faz,6
+513,Ari Lennox,6
+514,The Commodores,6
+515,The Zombies,6
+516,a-ha,6
+517,The Cynics,6
+518,Playboi Carti,6
+519,Future Islands,6
+520,alt-J,6
+521,Funkadelic,6
+522,Anri,6
+523,The Front Bottoms,6
+524,Rush,6
+525,Madonna,6
+526,deca joins,6
+527,Eve,6
+528,Ambrosia,6
+529,Roy Rogers,6
+530,The Raincoats,6
+531,The New Pornographers,6
+532,STAYC,6
+533,Tom Teasley,6
+534,The Temptations,6
+535,Dayglow,6
+536,naran ratan,6
+537,Eddy Conga Y Su Orquesta,6
+538,Fontaines D.C.,5
+539,John Coltrane,5
+540,Massive Attack,5
+541,The Runaways,5
+542,They Might Be Giants,5
+543,Dominic Fike,5
+544,Standing On The Corner,5
+545,Thin Lizzy,5
+546,Fountains of Wayne,5
+547,The Marías,5
+548,Simple Minds,5
+549,Wendy & Bonnie,5
+550,COIN,5
+551,Mahmoud Ahmed,5
+552,Steve Goodman,5
+553,War,5
+554,The Handsome Family,5
+555,"Steve Jablonsky, Gavin Greenaway & Metro Voices",5
+556,Marvin Santiago,5
+557,REO Speedwagon,5
+558,Caleb Stine,5
+559,Magdalena Bay,5
+560,John Hartford,5
+561,The Paul Butterfield Blues Band,5
+562,El Gran Combo de Puerto Rico,5
+563,Maná,5
+564,LCD Soundsystem,5
+565,The Living Tombstone,5
+566,ENHYPEN,5
+567,Soft Hair,5
+568,The Microphones,5
+569,Drain Gang Archive,5
+570,Father John Misty,5
+571,Mariah Carey,5
+572,Meiko Kaji,5
+573,Stevie Ray Vaughan & Double Trouble,5
+574,Splendora,5
+575,The Postal Service,5
+576,Kaitlyn Aurelia Smith,5
+577,Labi Siffre,5
+578,Shakira,5
+579,Mannequin Pussy,5
+580,Johnny Cash,5
+581,The Wombats,5
+582,Kasabian,5
+583,Son Lux,5
+584,Buffalo Springfield,5
+585,John Hiatt,5
+586,Dr. Dog,5
+587,LudoWic,5
+588,Jenny Owen Youngs,5
+589,Los Hermanos Moreno,5
+590,Lynyrd Skynyrd,5
+591,Lizzy McAlpine,5
+592,Coheed and Cambria,5
+593,TOMORROW X TOGETHER,5
+594,Huey Lewis & The News,5
+595,Montrose,5
+596,Horse Jumper of Love,5
+597,Conjunto Imagen,5
+598,Cortijo y Su Combo,5
+599,Molchat Doma,5
+600,The Black Keys,5
+601,David Cedeño,5
+602,David Byrne,5
+603,Salah Ragab & The Cairo Jazz Band,5
+604,Dave Mason,5
+605,GoldLink,5
+606,Salah Ragab,5
+607,Higher Power,5
+608,Hiatus Kaiyote,5
+609,Darondo,5
+610,Grouper,5
+611,The Band of Heathens,5
+612,Teen Suicide,5
+613,Guy Clark,5
+614,The Backseat Lovers,5
+615,Hannah Montana,5
+616,The B-52's,5
+617,H.E.R.,5
+618,Ricky Eat Acid,5
+619,STRFKR,5
+620,Citizen,5
+621,The Byrds,5
+622,Jeff Rosenstock,5
+623,Jamie xx,5
+624,Fujii Kaze,5
+625,Jay Tausig,5
+626,Carpenters,5
+627,The Fray,5
+628,Casiopea,5
+629,DPR LIVE,5
+630,Cat Power,5
+631,Ravyn Lenae,5
+632,Dijon,5
+633,Mac Ayres,5
+634,Vundabar,5
+635,Jamiroquai,5
+636,Chairlift,5
+637,The Cramps,5
+638,Charles Mingus,5
+639,Incubus,5
+640,Gilla Band,5
+641,Demi Lovato,5
+642,Del Water Gap,5
+643,Cher,5
+644,The Claypool Lennon Delirium,5
+645,Dehd,5
+646,Girlpool,5
+647,Sasy,5
+648,Choco Orta,5
+649,JAY-Z,5
+650,J. Cole,5
+651,J Balvin,5
+652,Iron Butterfly,5
+653,Chuck Berry,5
+654,Casiotone For The Painfully Alone,5
+655,Pearl Jam,5
+656,Billie Holiday,5
+657,Nujabes,5
+658,ZZ Top,5
+659,You'll Never Get to Heaven,5
+660,Paul McCartney,5
+661,Andrew Bird,5
+662,Abuse Of Power,5
+663,ACID WITCH -,5
+664,Bikini Kill,5
+665,Big Star,5
+666,Pierce the Veil,5
+667,Adrianne Lenker,5
+668,Plains,5
+669,XTC,5
+670,Norma Tanega,5
+671,dhruv,5
+672,Old 97's,5
+673,AJR,5
+674,Bill Evans Trio,5
+675,Peach Kelli Pop,5
+676,R3HAB,5
+677,999 Heartake Sabileye,5
+678,Queens of the Stone Age,5
+679,Aretha Franklin,5
+680,Badfinger,5
+681,Avril Lavigne,5
+682,PJ Harvey,5
+683,Yumi Arai,5
+684,yeule,5
+685,100 gecs,5
+686,Portugal. The Man,5
+687,Arcade Fire,5
+688,Courting,4
+689,Herbie Hancock,4
+690,Her's,4
+691,"Crosby, Stills, Nash & Young",4
+692,Reverend Billy C. Wirtz,4
+693,Helvetia,4
+694,Public Image Ltd.,4
+695,Lotic,4
+696,Tatsuro Yamashita,4
+697,Alice Cooper,4
+698,Karen Dalton,4
+699,Wu-Tang Clan,4
+700,Culture Club,4
+701,Hard Working Americans,4
+702,Tootard,4
+703,Toro y Moi,4
+704,Toshiki Kadomatsu,4
+705,Daniel Caesar,4
+706,Touché Amoré,4
+707,Ovlov,4
+708,Dan Fogelberg,4
+709,Tevvez,4
+710,Train,4
+711,Shygirl,4
+712,DPR IAN,4
+713,Alisa Okehazama,4
+714,Krewella,4
+715,Louis Culture,4
+716,Sabrina Carpenter,4
+717,Joe Walsh,4
+718,potsu,4
+719,Harry Nilsson,4
+720,Troye Sivan,4
+721,Haruomi Hosono,4
+722,DEAN,4
+723,Saint Motel,4
+724,Kool & The Gang,4
+725,Love,4
+726,Have A Nice Life,4
+727,Basement Jaxx,4
+728,Counting Crows,4
+729,Colde,4
+730,Alexandre Desplat,4
+731,Movements,4
+732,Muddy Waters,4
+733,Jimmy Cliff,4
+734,Kishi Bashi,4
+735,Muna,4
+736,Vince Guaraldi Trio,4
+737,THE TROUBLE WITH LARRY -,4
+738,Chance the Rapper,4
+739,PVRIS,4
+740,Ray Parker Jr.,4
+741,Vistas,4
+742,Ray Charles,4
+743,Little Feat,4
+744,Inner Wave,4
+745,13th Floor Elevators,4
+746,Santana,4
+747,Akira Senju,4
+748,Iris DeMent,4
+749,Cat Stevens,4
+750,Lionel Richie,4
+751,Phil Cordell,4
+752,Ismael Rivera,4
+753,Carrie Underwood,4
+754,Carole King,4
+755,IVE,4
+756,Lomelda,4
+757,Sly & The Family Stone,4
+758,Vansire,4
+759,Beat Happening,4
+760,Unknown Mortal Orchestra,4
+761,Slow Pulp,4
+762,HYUKOH,4
+763,Remi Wolf,4
+764,Tacocat,4
+765,Klaus Schulze,4
+766,Sidney Gish,4
+767,Jockstrap,4
+768,VEX -,4
+769,Closer Still - Crows - Beware Believers,4
+770,PONY,4
+771,Lord Huron,4
+772,Hope Sandoval & The Warm Inventions,4
+773,Hope Tala,4
+774,Moses,4
+775,Circa Waves,4
+776,No Party for Cao Dong,4
+777,Chumbawamba,4
+778,Peter Ivers,4
+779,Pure Prairie League,4
+780,Red Velvet,4
+781,Christian Leave,4
+782,Mild High Club,4
+783,The Band CAMINO,4
+784,Miki Matsubara,4
+785,The Fratellis,4
+786,Eurythmics,4
+787,Soul Coughing,4
+788,The Growlers,4
+789,The Goldstars,4
+790,The Godfathers,4
+791,Martha,4
+792,Roxy Music,4
+793,Frost Children,4
+794,Anthony Moore,4
+795,England Dan & John Ford Coley,4
+796,Poor Righteous Teachers,4
+797,Elvis Costello & The Attractions,4
+798,Evanescence,4
+799,Eloise,4
+800,800 Cherries,4
+801,Shawn Mendes,4
+802,Electric Guest,4
+803,Machine Girl,4
+804,The Electric Prunes,4
+805,Squarepusher,4
+806,Edwin Lebron,4
+807,The Doobie Brothers,4
+808,Eddy Conga y su Orquesta,4
+809,7038634357,4
+810,The Olivia Tremor Control,4
+811,The Offspring,4
+812,Mike Campbell & The Dirty Knobs,4
+813,The Japanese House,4
+814,Flipturn,4
+815,Arlo Guthrie,4
+816,"Armando ""Pototo"" Duran y Su Orquesta Arena Blanca",4
+817,Niall Horan,4
+818,One Step Closer,4
+819,Rusty Clanton,4
+820,Josh Dorr,4
+821,Shankar-Ehsaan-Loy,4
+822,The Lumineers,4
+823,Shannon & The Clams,4
+824,The Magnetic Fields,4
+825,hemlocke springs,4
+826,Joyce Manor,4
+827,Fela Kuti,4
+828,Four Tet,4
+829,Fairport Convention,4
+830,The Naked Gun,4
+831,The Naked and Famous,4
+832,The National,4
+833,Mako,4
+834,Soundgarden,4
+835,Makeup Girl,4
+836,Joy Crookes,4
+837,The Night Café,4
+838,Ed Sheeran,4
+839,Generacion Suicida,4
+840,Genesis,4
+841,Great Grandpa,4
+842,Don Henley,4
+843,They Are Gutting a Body of Water,4
+844,The Cardigans,4
+845,BLUT AUS NORD -,4
+846,Pretenders,4
+847,The Cab,4
+848,Doechii,4
+849,Disasterpiece,4
+850,M.I.A.,4
+851,Dinosaur Jr.,4
+852,Otis Redding,4
+853,Backstreet Boys,4
+854,A$AP Rocky,4
+855,Nu Genea,4
+856,mxmtoon,4
+857,Grupo Imagen,4
+858,Todd Barton,4
+859,Luna,4
+860,Rascal Flatts,4
+861,The Band,4
+862,Dead Kennedys,4
+863,Starflyer 59,4
+864,"Now, Now",4
+865,HEIZE,4
+866,Thee Sacred Souls,4
+867,Amyl and The Sniffers,4
+868,Don Perignon Y La Puertorriqueña,4
+869,Donna Summer,4
+870,Geoff & Maria Muldaur,4
+871,George Ezra,4
+872,Angèle,4
+873,The Sugarcubes,4
+874,Maude Latour,4
+875,The Derek Trucks Band,4
+876,Lady Lamb,4
+877,John Williams & London Symphony Orchestra,4
+878,ELIO,4
+879,Post Malone,4
+880,Pitbull,4
+881,Ginger Root,4
+882,Megan Thee Stallion,4
+883,The Walters,4
+884,SLEEPYHEAD -,4
+885,Justin Hurwitz,4
+886,The Chocolate Watch Band,4
+887,Melanie,4
+888,Dougie Poole,4
+889,Stan Freberg,4
+890,Pat Benatar,4
+891,Justin Timberlake,4
+892,bdrmm,4
+893,Carly Simon,4
+894,Peter Green Splinter Group,4
+895,Bruce Cockburn,4
+896,Sunset Rollercoaster,4
+897,T. Rex,4
+898,Scrunchies,4
+899,Simple Plan,4
+900,Jessica Pratt,4
+901,Broken Bells,4
+902,Burna Boy,4
+903,Bobby Bare,4
+904,Billy Idol,4
+905,Janis Joplin,4
+906,King Crimson,4
+907,"Black Country, New Road",4
+908,Bo Ramsey,4
+909,Whitney Houston,4
+910,Jefferson Starship,4
+911,Kid Bloom,4
+912,Pharrell Williams,4
+913,Sean Julian,4
+914,Wale,4
+915,Ra Can Row,4
+916,Skrillex,4
+917,Janet Jackson,4
+918,Butthole Surfers,4
+919,Khalid,4
+920,Kid Kapichi,4
+921,Brand New,4
+922,Still Woozy,4
+923,James Taylor,4
+924,Jane Remover,4
+925,Jason Isbell,4
+926,Bobb Trimble,4
+927,Branko Mataja,4
+928,Wito Colon,4
+929,Lily Allen,4
+930,Sun Ra,4
+931,Yabujin,4
+932,Sun Ra and His Arkestra,4
+933,Randy Plaza & Legacia De La Salsa,4
+934,Scorpions,4
+935,Sudan Archives,4
+936,Sawyer Nunes,4
+937,twenty one pilots,4
+938,Jack Johnson,4
+939,Sunny Day Real Estate,4
+940,Lijadu Sisters,4
+941,Kenny Chesney,4
+942,Kevin Ayers,4
+943,Wings,4
+944,Brigitte Bardot,4
+945,Stray Kids,4
+946,Neon Trees,4
+947,Afshin,4
+948,Screamin' Jay Hawkins,4
+949,Summer Walker,4
+950,Bruno Mars,4
+951,Jhené Aiko,4
+952,JIVEBOMB,4
+953,Sky Ferreira,4
+954,Black Cats,4
+955,Lauryn Hill,4
+956,Jessie Reyez,4
+957,"Nat ""King"" Cole",4
+958,Yaeji,4
+959,Elio,3
+960,Dave Edmunds,3
+961,Tomorrow,3
+962,YACHT,3
+963,Rachaellica,3
+964,Piledriver,3
+965,Eliminated - Total Maniac - Total Maniac (S/T),3
+966,Masayoshi Takanaka,3
+967,Lucy Grau,3
+968,Mil-Spec,3
+969,Bananarama,3
+970,Seventeen,3
+971,Darrell Scott,3
+972,Passion Pit,3
+973,GSoul,3
+974,Mason Williams,3
+975,Gus Dapperton,3
+976,Guster,3
+977,Orquesta Costa Brava,3
+978,Rob Moss and Skin-Tight Skin,3
+979,The Babylonian Tiles,3
+980,Leland,3
+981,The Sisters of Mercy,3
+982,Pinback,3
+983,Gamirey,3
+984,The Dukes of Stratosphear,3
+985,El Chicano,3
+986,o0o,3
+987,Tom Tom Club,3
+988,Bahamadia,3
+989,Tommy Bolin,3
+990,Orleans,3
+991,Rixton,3
+992,Midwife,3
+993,Root Boy Slim & The Sex Change Band With The Rootettes,3
+994,David Gates,3
+995,Sting,3
+996,death's dynamic shroud,3
+997,Miike Snow,3
+998,Bailey's Nervous Kats,3
+999,HARU NEMURI,3
+1000,The English Beat,3
+1001,Macie Stewart,3
+1002,Toots & The Maytals,3
+1003,Whirr,3
+1004,The Savage Resurrection,3
+1005,Rick Astley,3
+1006,Wintertime,3
+1007,Hanson,3
+1008,Travis Scott,3
+1009,DUCKWRTH,3
+1010,Terror/Cactus,3
+1011,Trent Reznor & Atticus Ross,3
+1012,070 Shake,3
+1013,Supergrass,3
+1014,Elyse Weinberg,3
+1015,Mary Wilson,3
+1016,Madeon,3
+1017,Orion Sun,3
+1018,Jay Fenner,3
+1019,Harry Belafonte,3
+1020,Harry Gregson-Williams,3
+1021,Hannah Diamond,3
+1022,Ahmed Malek,3
+1023,Bo Burnham,3
+1024,Eminem,3
+1025,Harumi,3
+1026,Duke Ellington & John Coltrane,3
+1027,Joe Rainey,3
+1028,Madison Beer,3
+1029,draag me,3
+1030,Antena,3
+1031,Skinny Girl Diet,3
+1032,Sia,3
+1033,Alice Phoebe Lou,3
+1034,Encore,3
+1035,Hayes Carll,3
+1036,Hans Zimmer,3
+1037,Loyle Carner,3
+1038,Pete Dello and Friends,3
+1039,Lucky Daye,3
+1040,Selena Gomez & The Scene,3
+1041,Danny Elfman,3
+1042,Danny & The Fat Boys,3
+1043,Torres,3
+1044,Ripe,3
+1045,Rosanne Cash,3
+1046,Against Me!,3
+1047,Professor P & DJ Akilles,3
+1048,*NSYNC,3
+1049,Zack Tabudlo,3
+1050,The Rose,3
+1051,Ellie Goulding,3
+1052,Dan Romer,3
+1053,Dan Reeder,3
+1054,Elliot Fullam,3
+1055,Daddy Issues,3
+1056,Minako Yoshida,3
+1057,James Blake,3
+1058,The Fleshtones,3
+1059,Dan Deacon,3
+1060,Automatic,3
+1061,The Ronettes,3
+1062,Hamid Al Shaeri,3
+1063,Tracy Chapman,3
+1064,Texako,3
+1065,When In Rome,3
+1066,Black Marble,3
+1067,Skillibeng,3
+1068,Luce bianca - Words and Actions - Licht demo,3
+1069,Joey Bada$$,3
+1070,Bright Eyes,3
+1071,Tkay Maidza,3
+1072,Orquesta Fuego,3
+1073,B.B. King,3
+1074,Ra Ra Riot,3
+1075,5 Seconds of Summer,3
+1076,Thea Gilmore,3
+1077,Gloria Gaynor,3
+1078,The Chambers Brothers,3
+1079,Gerard Way,3
+1080,Glitterer,3
+1081,The Weepies,3
+1082,Will Kimbrough,3
+1083,Dorothy Ashby,3
+1084,Roberto Faz y Su Conjunto,3
+1085,black midi,3
+1086,Double Virgo,3
+1087,EASHA,3
+1088,John Maus,3
+1089,Prep,3
+1090,Azealia Banks,3
+1091,They Kiss,3
+1092,Oscar Peterson Trio,3
+1093,Brandi Carlile,3
+1094,EPO,3
+1095,Men At Work,3
+1096,Scribz Riley,3
+1097,5 Chinese Brothers,3
+1098,Doja Cat,3
+1099,The Decemberists,3
+1100,Johnnie Frierson,3
+1101,Soft Cell,3
+1102,Dj Sterbyrock,3
+1103,L'Impératrice,3
+1104,Lenny Kravitz,3
+1105,Adventure Time,3
+1106,Orville Peck,3
+1107,Dizzy Gillespie,3
+1108,Boston,3
+1109,Neck Deep,3
+1110,Drivin' N' Cryin',3
+1111,Angel Du$t,3
+1112,ROLE MODEL,3
+1113,Drugdealer,3
+1114,Just Mustard,3
+1115,Dumbo Gets Mad,3
+1116,The Chicks,3
+1117,The Coventry,3
+1118,The Velvet Underground & Nico,3
+1119,Jupiter Coyote,3
+1120,Rodney Crowell,3
+1121,Rod Stewart,3
+1122,The Vaccines,3
+1123,The Coathangers,3
+1124,Portishead,3
+1125,Dreamer Isioma,3
+1126,Junko Ohashi,3
+1127,Laetitia Sadier,3
+1128,marcos g,3
+1129,William Shatner,3
+1130,Sea Girls,3
+1131,Bowling for Soup,3
+1132,The Citizens of Halloween,3
+1133,Duwap Kaine,3
+1134,Mayday Parade,3
+1135,Lauv,3
+1136,Pototo Y Filomeno,3
+1137,The Waybacks and Friends,3
+1138,William Onyeabor,3
+1139,levitation room,3
+1140,Shervin Hajipour,3
+1141,Dizzee Rascal,3
+1142,Garbage,3
+1143,Zoé,3
+1144,Nelly Furtado,3
+1145,Brent Faiyaz,3
+1146,KC and the Sunshine Band,3
+1147,Bachman-Turner Overdrive,3
+1148,Michael Kiwanuka,3
+1149,Deliriant Nerve,3
+1150,The Bevis Frond,3
+1151,Palehound,3
+1152,The Softies,3
+1153,The Sonics,3
+1154,Tinashé,3
+1155,modernlove.,3
+1156,Derek & The Dominos,3
+1157,aespa,3
+1158,Deerhunter,3
+1159,Bad Brains,3
+1160,Tito Rojas,3
+1161,Whitney,3
+1162,D savage,3
+1163,Deep Purple,3
+1164,Grouplove,3
+1165,Luna Li,3
+1166,Toby Fox,3
+1167,Brian Eno,3
+1168,Deathsiege,3
+1169,Nena,3
+1170,Guadalcanal Diary,3
+1171,The Smile,3
+1172,The Bangles,3
+1173,Michel Legrand,3
+1174,Avicii,3
+1175,Otis the 3rd,3
+1176,Phantoms - Spiter - Bathe the Babe in Bats' Blood,3
+1177,Lake Street Dive,3
+1178,Bonnie Raitt,3
+1179,Michael Abels,3
+1180,Tigers Jaw,3
+1181,SHINee,3
+1182,Boney M.,3
+1183,M.I.A,3
+1184,Oh Wonder,3
+1185,Golin,3
+1186,Luther Vandross,3
+1187,Screaming Females,3
+1188,EXO,3
+1189,Golden Earring,3
+1190,Amorphia,3
+1191,Metallica,3
+1192,SPINALL,3
+1193,The Brian Jonestown Massacre,3
+1194,Aminé,3
+1195,Oingo Boingo,3
+1196,Tim Atlas,3
+1197,George Clanton,3
+1198,Johnny & The Headhunters,3
+1199,Michael Cera,3
+1200,The Stooges,3
+1201,Ecco2k,3
+1202,Porter Robinson,3
+1203,Matt and Kim,3
+1204,The Blasting Company,3
+1205,Generation X,3
+1206,Sonic Boom,3
+1207,KAMRAN & HOOMAN,3
+1208,4s4ki,3
+1209,Destroy Lonely,3
+1210,Schoolgirl byebye,3
+1211,DIIV,3
+1212,Fugazi,3
+1213,Chris Brown,3
+1214,Jimmy Thackery & The Drivers,3
+1215,The Monkees,3
+1216,Chloe x Halle,3
+1217,Fox Stevenson,3
+1218,I Set My Friends On Fire,3
+1219,Ben Kweller,3
+1220,Ben Folds Five,3
+1221,S.G. Goodman,3
+1222,Réma,3
+1223,Jiddy,3
+1224,Bloc Party,3
+1225,Héctor Lavoe,3
+1226,Mariano Civico,3
+1227,Mal Blum,3
+1228,Ruel,3
+1229,The Misfits,3
+1230,Young the Giant,3
+1231,LSD and the Search for God,3
+1232,The Millennium,3
+1233,Joshua Bassett,3
+1234,The Mighty Mighty Bosstones,3
+1235,Asap Ant,3
+1236,illuminati hotties,3
+1237,Fats Domino,3
+1238,Asagaya Romantics,3
+1239,Chic,3
+1240,Poison Girl Friend,3
+1241,Al Stewart,3
+1242,Fazerdaze,3
+1243,Poison,3
+1244,Mt. Joy,3
+1245,Frank Sinatra,3
+1246,Hum,3
+1247,Mal,3
+1248,Sturgill Simpson,3
+1249,Evie Sands,3
+1250,Clean Bandit,3
+1251,Sword II,3
+1252,Sky Cries Mary,3
+1253,Styx,3
+1254,Apink,3
+1255,Ex Hex,3
+1256,Apollo Brown & Locksmith,3
+1257,$uicideboy$,3
+1258,Hot Chip,3
+1259,Asia,3
+1260,Sam Cooke,3
+1261,People I Love,3
+1262,Hot Milk,3
+1263,Frankie Negrón,3
+1264,Hugh Masekela,3
+1265,Hotline TNT,3
+1266,Nada Surf,3
+1267,Looking Glass,3
+1268,Stromae,3
+1269,Selena,3
+1270,Cafuné,3
+1271,Valerie June,3
+1272,Bill Frisell,3
+1273,Frankie Chan and Roel A. Garcia,3
+1274,Chumped,3
+1275,AURORA,3
+1276,Sam Fender,3
+1277,Syd,3
+1278,Huey Lewis and the News,3
+1279,La Femme,3
+1280,Kiss,3
+1281,Randy Newman,3
+1282,TAEYEON,3
+1283,Art Lown,3
+1284,Raphy Leavitt,3
+1285,Marc Brauner,3
+1286,Sara Bareilles,3
+1287,Mötley Crüe,3
+1288,Flyte,3
+1289,Kengo Kurozumi,3
+1290,N.E.R.D,3
+1291,Lily Chou-Chou,3
+1292,Quasimoto,3
+1293,Fleet Foxes,3
+1294,Yleiset Syyt,3
+1295,Josephine Foster,3
+1296,Cascada,3
+1297,Itzy,3
+1298,FogHorn,3
+1299,Raulín Rosendo,3
+1300,"Slaughter Beach, Dog",3
+1301,Sipper,3
+1302,Yeat,3
+1303,Betty Chung,3
+1304,Caroline Rose,3
+1305,Yellow Magic Orchestra,3
+1306,NCT DREAM,3
+1307,Sarah Borges,3
+1308,The Kooks,3
+1309,Padkarosda,3
+1310,Jennifer Lopez,3
+1311,Florist,3
+1312,The Kennedys,3
+1313,Cavetown,3
+1314,Wabie,3
+1315,THE VOODOO DOLLS -,3
+1316,Blind Willie McTell,3
+1317,Al Massrieen,3
+1318,Sammy Rae & The Friends,3
+1319,Jorja Smith,3
+1320,Wye Oak,3
+1321,Little Walter,3
+1322,Margot & The Nuclear So and So's,3
+1323,RealYungPhil,3
+1324,Special Interest,3
+1325,feeble little horse,3
+1326,Aaliyah,3
+1327,Nine Inch Nails,3
+1328,Little Simz,3
+1329,Immolation,3
+1330,Calvin Harris,3
+1331,Charlie Burg,3
+1332,Fireboy DML,3
+1333,Cambrian Explosion,3
+1334,Jeff Aug,3
+1335,"Little Nell, Patricia Quinn & Richard O'Brien",3
+1336,Camera Obscura,3
+1337,Kirsty MacColl,3
+1338,Chapterhouse,3
+1339,Silver Apples,3
+1340,Rupert Holmes,3
+1341,T-Bone Walker,3
+1342,Strawberry Switchblade,3
+1343,Indigo Girls,3
+1344,Sleater-Kinney & Courtney Barnett,3
+1345,Marcus Mumford,3
+1346,Wordsworth,3
+1347,Everything But the Girl,3
+1348,Cibo Matto,3
+1349,Gia Margaret,3
+1350,Kansas,3
+1351,Eric Hutchinson,3
+1352,Momma,3
+1353,Lightnin' Hopkins,3
+1354,High Tyde,3
+1355,Saâda Bonaire,3
+1356,Stone Temple Pilots,3
+1357,Joe Cocker,3
+1358,Pia Fraus,3
+1359,Los Lobos,3
+1360,At the Drive-In,3
+1361,Hiroshi Sato,3
+1362,Juan Gabriel,3
+1363,Bauhaus,3
+1364,Psychedelic Porn Crumpets,3
+1365,Modern Baseball,3
+1366,Anxious,3
+1367,Ultimate Spinach,3
+1368,Set It Off,3
+1369,Hoba Hoba Spirit,3
+1370,No Vacation,3
+1371,Cryalot,3
+1372,Blue Wave Theory,3
+1373,Colter Wall,3
+1374,Color Filter,3
+1375,Mom Jeans.,3
+1376,Jonny Greenwood,3
+1377,Molly Tuttle,3
+1378,Yung Lean,3
+1379,"Crosby, Stills & Nash",3
+1380,Knocked Loose,3
+1381,Lots of Hands,3
+1382,Knifeplay,3
+1383,Yusuf / Cat Stevens,3
+1384,Team Dresch,3
+1385,Aterciopelados,3
+1386,Moh Baretta,3
+1387,Pond,3
+1388,Smino & J. Cole,3
+1389,Equipoise Recast - Faceless Burial - At The Foothills Of Deliration,3
+1390,Suzanne Ciani,3
+1391,Jackson 5,3
+1392,Absence Of Mine,3
+1393,Joni Mitchell,3
+1394,We Don't Ride Llamas,3
+1395,Tate McRae,3
+1396,Puce Mary,3
+1397,Marnik,3
+1398,Cosmo Pyke,3
+1399,Hi-Fi Set,3
+1400,Weldon Irvine,3
+1401,At the Graves,3
+1402,Alice In Chains,3
+1403,Mariya Takeuchi,3
+1404,Rex Orange County,3
+1405,Cut Worms,3
+1406,Skullcrusher,3
+1407,Curtis Mayfield,3
+1408,Slutever,3
+1409,Mahalia,3
+1410,Moon Tide Gallery,3
+1411,The Happy Fits,3
+1412,A Flock of Seagulls,3
+1413,Louie Zong,3
+1414,Soulja Boy,3
+1415,Ennio Morricone,3
+1416,Monty Python,3
+1417,JVKE,3
+1418,Cursive,3
+1419,Blue Smiley,3
+1420,Heart,3
+1421,Uyama Hiroto,3
+1422,Albert King,3
+1423,MorMor,3
+1424,Alberto Barros,3
+1425,Eva Cassidy,3
+1426,µ-Ziq,3
+1427,Asobi Seksu,3
+1428,SALES,3
+1429,Oliver Sim,3
+1430,Magnitude,3
+1431,Joyce Wrice,3
+1432,Ramona Lisa,3
+1433,Martin Garrix,3
+1434,Air Supply,3
+1435,Hector Rey,3
+1436,TV on the Radio,3
+1437,Sean Nicholas Savage,2
+1438,grentperez,2
+1439,The Garden,2
+1440,hanggai,2
+1441,Fugees,2
+1442,Ace Hashimoto,2
+1443,John Paesano,2
+1444,Fury,2
+1445,The K's,2
+1446,Foghat,2
+1447,Panic! at the Disco,2
+1448,Patrick Stump,2
+1449,Ari Bald,2
+1450,Madison McFerrin,2
+1451,The Frijid Pink,2
+1452,half•alive,2
+1453,Future,2
+1454,Strawberry Guy,2
+1455,Jenny Lewis,2
+1456,Foals,2
+1457,Origami Angel,2
+1458,Jefre Cantu-Ledesma,2
+1459,Fun.,2
+1460,Ryan Woods,2
+1461,Pantera,2
+1462,Angelo Badalamenti,2
+1463,Ladytron,2
+1464,Jelani Aryeh,2
+1465,john williams,2
+1466,Stone Rebel,2
+1467,Fly Golden Eagle,2
+1468,Getatchew Mekurya,2
+1469,The Damned,2
+1470,Ghost Fame,2
+1471,とみたゆう子,2
+1472,Acetone,2
+1473,A Country Western,2
+1474,A CERTAIN RATIO -,2
+1475,Frigid Pink,2
+1476,Funky DL,2
+1477,Fly By Nightcore,2
+1478,Gerry Rafferty,2
+1479,Mandy Moore & Zachary Levi,2
+1480,MIYAVI,2
+1481,Gerry Cinnamon,2
+1482,Anti Lilly & Devante Hunter,2
+1483,John Parr,2
+1484,"Jasmine Thompson,Trinix",2
+1485,Manchester Orchestra,2
+1486,Galantis,2
+1487,Anna Nalick,2
+1488,Squirrel Flower,2
+1489,The Dismemberment Plan,2
+1490,The Establishment,2
+1491,The Dirty Mac,2
+1492,GOT7,2
+1493,Jean-Luc Ponty,2
+1494,The Everly Brothers,2
+1495,Leah Kate,2
+1496,The Expanding Universe,2
+1497,Geek Music,2
+1498,Geinoh Yamashirogumi,2
+1499,La Luz,2
+1500,カルロス・トシキ&オメガトライブ,2
+1501,Fred again..,2
+1502,Gel,2
+1503,Jordana & TV Girl,2
+1504,Makoto Matsushita,2
+1505,Panchiko,2
+1506,The Dodos,2
+1507,Jerry Goldsmith,2
+1508,Orminge - T.G.T.B. - Stockholm Soul,2
+1509,Aoife O'Donovan,2
+1510,The Dresden Dolls,2
+1511,Speedy West,2
+1512,AnimalJam,2
+1513,The Dream Academy,2
+1514,Ganser,2
+1515,Gary Numan,2
+1516,Sum 41,2
+1517,Jazz Spastiks,2
+1518,j^p^n,2
+1519,Adekunle Gold,2
+1520,Garrett Noah,2
+1521,Leblanc and Carr,2
+1522,Jordin Sparks,2
+1523,The Hu,2
+1524,Jason Derulo,2
+1525,SHEL,2
+1526,Self Defense Family,2
+1527,Spin Doctors,2
+1528,Jon McKiel,2
+1529,Lee Bains + The Glory Fires,2
+1530,The Go! Team,2
+1531,Foreigner,2
+1532,The Depreciation Guild,2
+1533,Magic City Hippies,2
+1534,George Michael,2
+1535,SICK CVNT,2
+1536,Madds Buckley,2
+1537,The Flying Pickets,2
+1538,Adam Melchor,2
+1539,Arcade Fire & Owen Pallett,2
+1540,Antonio Ocasio,2
+1541,Orchestral Manoeuvres In the Dark,2
+1542,French Police,2
+1543,Sun Ra & His Astro-Infinity Arkestra,2
+1544,Free Nationals,2
+1545,Freddie Dredd,2
+1546,Mallrat,2
+1547,Jorge Jimenez Ft. Ray Bayona,2
+1548,The Immediate Family,2
+1549,Foxing,2
+1550,umru,2
+1551,General Public,2
+1552,La Sonora Matancera,2
+1553,Fox Academy,2
+1554,Fousheé,2
+1555,The Greeting Committee,2
+1556,The Dickies,2
+1557,SE SO NEON,2
+1558,The Flannel Attractions,2
+1559,The Isley Brothers,2
+1560,Limes,2
+1561,Giant Claw,2
+1562,JPEGMAFIA,2
+1563,Horii Katsumi Project,2
+1564,Palace,2
+1565,JOHN FRANEAVILLA -,2
+1566,JONATHAN X AND BLACK HEAT -,2
+1567,Hooky,2
+1568,POLO PERKS <3 <3 <3,2
+1569,Hoodoo Gurus,2
+1570,slchld,2
+1571,Taj Mahal,2
+1572,Albert Hammond,2
+1573,Homer & Jethro,2
+1574,"Lorne Balfe, Harold Faltermeyer, Lady Gaga & Hans Zimmer",2
+1575,Steven Falcon,2
+1576,Tacoma Radar,2
+1577,Taio Cruz,2
+1578,Steven Universe,2
+1579,Joanne Robertson,2
+1580,TUPELO CHAIN SEX -,2
+1581,TUMOR CIRCUS -,2
+1582,TULIPS -,2
+1583,Hunx & His Punx,2
+1584,TOWEL -,2
+1585,Sam Gellaitry,2
+1586,Lil Yen,2
+1587,PRIMITIVE HANDS -,2
+1588,TRICKY WOO -,2
+1589,Howard Shore & Ornette Coleman,2
+1590,Joan Osborne,2
+1591,TRIPLE FORBIDDEN TABOO -,2
+1592,TRIPLE XXX GIRLS -,2
+1593,TROUSER -,2
+1594,TROUT LYNCH -,2
+1595,Loona,2
+1596,Hot Mulligan,2
+1597,TRUNK FEDERATION -,2
+1598,Saucy Santana,2
+1599,Save Ferris,2
+1600,TOTO,2
+1601,ARNO KLEINI! -,2
+1602,Jet,2
+1603,Tavares,2
+1604,Alfie Templeman,2
+1605,Stevie Ray Vaughan,2
+1606,Latto,2
+1607,PARTYNEXTDOOR,2
+1608,Jessie Ware,2
+1609,Safety Trance & Arca,2
+1610,Steppenwolf,2
+1611,Aidan Bissett,2
+1612,Loudon Wainwright III,2
+1613,Picturesque,2
+1614,Louie Vega,2
+1615,Teedra Moses,2
+1616,Heavens to Betsy,2
+1617,Heavenly,2
+1618,"Heroes Glory - DOMINANT PATRI - Heroes Glory One Sided 12"" (2022 Reissue)",2
+1619,Saint Etienne,2
+1620,rockwell,2
+1621,Tasha,2
+1622,Los Cantores de Bayamon,2
+1623,Alemayehu Eshete,2
+1624,shirley kwan,2
+1625,Hockey Dad,2
+1626,Talib Kweli,2
+1627,Talib Kweli & Hi-Tek,2
+1628,Talk Down,2
+1629,Stephen Sanchez,2
+1630,Joe Bonamassa,2
+1631,Tally Hall,2
+1632,Stephen Malkmus,2
+1633,Alexandra Savior,2
+1634,Hikaru Utada,2
+1635,Sainté,2
+1636,Joe Corti,2
+1637,Hurlee,2
+1638,Joan Armatrading,2
+1639,Lido Pimienta,2
+1640,THE SPACE INVADERS -,2
+1641,Iramo,2
+1642,Jill Scott,2
+1643,T. TEX EDWARDS & LITHIUM X MAS -,2
+1644,Abbie Ozard,2
+1645,Inova,2
+1646,JEFF DAHL -,2
+1647,THE SENSATIONAL ALEX HARVEY BAND -,2
+1648,Inhaler,2
+1649,Incendiary,2
+1650,Lilly Hiatt,2
+1651,Parannoul,2
+1652,Indigo De Souza,2
+1653,THE TIMES -,2
+1654,Indian Wells,2
+1655,T-Rextasy,2
+1656,India.Arie,2
+1657,THE METERS -,2
+1658,JAWNY,2
+1659,Irma Thomas,2
+1660,THE JIVE TURKEYS -,2
+1661,THE (VERY NICE) PLANTS -,2
+1662,Akbar,2
+1663,THE BLSSM,2
+1664,Akiko Mizuhara,2
+1665,THE BYRDS -,2
+1666,yasuha,2
+1667,Abner Jay,2
+1668,Linda Ronstadt,2
+1669,Lilys,2
+1670,Sarah & Christian Dugas,2
+1671,THE DANDY WARHOLS -,2
+1672,Link Wray,2
+1673,JACK YAK -,2
+1674,Linkin Park,2
+1675,Jim Legxacy,2
+1676,JIMMY SMITH -,2
+1677,In the Woods...,2
+1678,Hypermix Sound System,2
+1679,IDLES,2
+1680,IZ*ONE,2
+1681,Liliana,2
+1682,Samm Henshaw,2
+1683,THE WOLVERTON BROTHERS -,2
+1684,THE YARD APES -,2
+1685,INXS,2
+1686,ILLENIUM,2
+1687,THE YOUNG PROFESSIONALS -,2
+1688,Imprecation - Devil's Furnace - In Nomine Diaboli,2
+1689,Steve Earle,2
+1690,Jiwoo,2
+1691,TLC,2
+1692,Sam Smith,2
+1693,Steve Conte,2
+1694,I Monster,2
+1695,Sylvan Esso,2
+1696,THE WILD STARES -,2
+1697,Jimmy Hall,2
+1698,Ian Munsick,2
+1699,THE WESTERN FRONT -,2
+1700,THE TROLLS -,2
+1701,THE TV BABIES -,2
+1702,Parcels,2
+1703,THE UNTAMED YOUTH -,2
+1704,Sarah and the Sundays,2
+1705,Little Village,2
+1706,System Of A Down,2
+1707,THE VENDETTAS -,2
+1708,Iggy Pop,2
+1709,AZ,2
+1710,THE WALLETS -,2
+1711,THE WANKIN' TEENS -,2
+1712,THE WEE PAPA GIRLS -,2
+1713,Jimmy Eat World,2
+1714,Ice Cube,2
+1715,Heather Woods Broderick,2
+1716,Seu Jorge,2
+1717,lovelytheband,2
+1718,The Blue Nile,2
+1719,Grandaddy,2
+1720,Grand Scheme,2
+1721,AERO GROS M,2
+1722,The Blasters,2
+1723,Grady,2
+1724,midwxst,2
+1725,"Lydia Ganada,Aleebi",2
+1726,Lykke Li,2
+1727,SPIRIT OF THE BEEHIVE,2
+1728,Gov't Mule,2
+1729,Gouge Away,2
+1730,The Blues Magoos,2
+1731,Lyle Lovett,2
+1732,The Bonzo Dog Doo-Dah Band,2
+1733,michel legrand,2
+1734,Gorgeous Bully,2
+1735,Greg Freeman,2
+1736,STATIC AGE -,2
+1737,The Bird and the Bear,2
+1738,morcheeba,2
+1739,Guided By Voices,2
+1740,Guerilla Toss,2
+1741,Luke Hemmings,2
+1742,STEFAN WEISSER -,2
+1743,James Newton Howard,2
+1744,Always Mirin,2
+1745,The Beat Farmers,2
+1746,J.J. Cale,2
+1747,Lunar Vacation,2
+1748,Grizzly Bear,2
+1749,Lung Leg,2
+1750,Pink Fog - Sonja - Loud Arriver,2
+1751,AKIRA WADA with FRIENDS,2
+1752,Gretchen Peters,2
+1753,The Big Moon,2
+1754,michael kamen,2
+1755,John Lee Hooker,2
+1756,Gumm,2
+1757,Girls' Generation,2
+1758,The Chesterfield Kings,2
+1759,Leonard Bernstein & New York Philharmonic,2
+1760,Leon Vynehall,2
+1761,Glass Animals & Raz & Afla,2
+1762,Stagnant Fools - Mock Execution - Killed By Mock Execution,2
+1763,The Chosen Few,2
+1764,MC Campbelle,2
+1765,MC5,2
+1766,The Budos Band,2
+1767,ME REX,2
+1768,METZ,2
+1769,Ginuwine,2
+1770,Andy,2
+1771,AB's,2
+1772,Gillian Welch,2
+1773,MF DOOM & Omega Red,2
+1774,Os Mutantes,2
+1775,Pip Millett,2
+1776,Glen Campbell,2
+1777,Janis Ian,2
+1778,Peter Tosh,2
+1779,The Buggles,2
+1780,Goldfinger,2
+1781,The Butchies,2
+1782,The Buttertones,2
+1783,Shadow Self - Denial of Life - No Reason,2
+1784,Godiego & Ken Narita,2
+1785,Jane's Addiction,2
+1786,meenoi,2
+1787,Go_A,2
+1788,Phantom Planet,2
+1789,Gnarls Barkley,2
+1790,"Lahaka Rhetorit,Yossi Elephant",2
+1791,Oscar Peterson,2
+1792,The Charlie Daniels Band,2
+1793,Pinegrove,2
+1794,The Band Perry,2
+1795,Stegosaurus Rex,2
+1796,Édith Piaf,2
+1797,Lovesliescrushing,2
+1798,Superorganism,2
+1799,Terror,2
+1800,Jakob,2
+1801,Lewis OfMan,2
+1802,Sa!koro,2
+1803,Hans Zimmer & Benjamin Wallfisch,2
+1804,Ryan Gosling & Emma Stone,2
+1805,Larkin Poe,2
+1806,Lubalin,2
+1807,Stealers Wheel,2
+1808,Oxlade,2
+1809,Owl City & Carly Rae Jepsen,2
+1810,Thaiboy Digital,2
+1811,Luckaleannn,2
+1812,Owl City,2
+1813,Tennis,2
+1814,the strokes,2
+1815,Tenci,2
+1816,Love_1,2
+1817,redveil,2
+1818,Teenage Fanclub,2
+1819,Hazel English,2
+1820,quinn,2
+1821,Louis Prima,2
+1822,Louis The Child,2
+1823,Louke Man,2
+1824,Jacques Greene,2
+1825,Jadakiss,2
+1826,Harvey Danger,2
+1827,Survivor,2
+1828,Harto Falión,2
+1829,Pierce Fulton,2
+1830,Joe Satriani,2
+1831,Harry Chapin,2
+1832,Hako Yamasaki,2
+1833,Hailu Mergia & The Walias,2
+1834,James McMurtry,2
+1835,Alps Cru,2
+1836,John Cale,2
+1837,Starry Cat,2
+1838,The Aquadolls,2
+1839,The Arcs,2
+1840,Over The Garden Wall,2
+1841,The Association,2
+1842,H2O,2
+1843,Lukas Nelson & Promise of the Real,2
+1844,The 5th Dimension,2
+1845,Gym Class Heroes,2
+1846,Altan Urag,2
+1847,Jessica Lea Mayfield,2
+1848,Let's Eat Grandma,2
+1849,Peter Bjorn and John,2
+1850,Aluna,2
+1851,Guns N' Roses,2
+1852,HARLO,2
+1853,John Baldry,2
+1854,Luis Enrique,2
+1855,Levon Helm,2
+1856,Allen Toussaint,2
+1857,James Brown & The Famous Flames,2
+1858,Hailee Steinfeld,2
+1859,The Aces,2
+1860,The Adult Net,2
+1861,The Alan Parsons Project,2
+1862,The Alchemist,2
+1863,James Ferraro,2
+1864,James Gang,2
+1865,The All-American Rejects,2
+1866,HONNE,2
+1867,Starship,2
+1868,Stars Of The Lid,2
+1869,Stars Hollow,2
+1870,HELIUM -,2
+1871,Ariana Grande & Nathan Sykes,2
+1872,Eleri Ward,2
+1873,Spanish Harlem Orchestra,2
+1874,Yuko Imai,2
+1875,Clarence Clarity,2
+1876,Refugee Camp All Stars,2
+1877,Sierra Ferrell,2
+1878,VIV AKHALDREN -,2
+1879,VIVA SATELLITE -,2
+1880,Punch Brothers,2
+1881,Morton Subotnick,2
+1882,VKTMS -,2
+1883,Citizen King,2
+1884,Mos Def,2
+1885,Klaatu,2
+1886,VOLUMES OF MADNESS -,2
+1887,Katy Kirby,2
+1888,VUKOVI,2
+1889,Vacations,2
+1890,Cindy,2
+1891,Moses Sumney,2
+1892,Peebs The Prophet,2
+1893,Sigma,2
+1894,1600J,2
+1895,Kiyotaka Sugiyama,2
+1896,VIDI VITTIES -,2
+1897,Traffik Island,2
+1898,Remember Sports,2
+1899,United Common Records,2
+1900,United States Of America,2
+1901,Unknown Artist,2
+1902,Unloved,2
+1903,西城秀樹,2
+1904,Unwound,2
+1905,User2222,2
+1906,Colbie Caillat,2
+1907,"Beck, Bogert & Appice",2
+1908,Yumi Matsutoya,2
+1909,Regulate,2
+1910,Cobra Starship,2
+1911,Katie Lynne Sharbaugh,2
+1912,Morgan Reese,2
+1913,VERTEX T. -,2
+1914,VERTIGO -,2
+1915,Cloud Nothings,2
+1916,Clothilde,2
+1917,VIBRANT FIASCO -,2
+1918,Clipse,2
+1919,Belle & Sebastian,2
+1920,Redbone,2
+1921,Chromatics,2
+1922,Benge,2
+1923,Keiichi Okabe,2
+1924,Veruca Salt,2
+1925,"Chick Corea,The Spanish Heart Band",2
+1926,Vibetree,2
+1927,Ben&Ben,2
+1928,Benches,2
+1929,Ms Nina,2
+1930,Vicetone,2
+1931,Vicky,2
+1932,Cher Lloyd,2
+1933,Youth Lagoon,2
+1934,Push Kings,2
+1935,Mujeres Podridas,2
+1936,Cheap Trick,2
+1937,Vieux Farka Touré,2
+1938,Reba McEntire,2
+1939,Mulatu Astatke,2
+1940,Muluqèn Mèllèssè,2
+1941,Kelela,2
+1942,Charlotte Day Wilson,2
+1943,Chief Keef,2
+1944,Childbirth,2
+1945,Red Aunts,2
+1946,China Anne McClain,2
+1947,Christopher Cross,2
+1948,Christine and the Queens,2
+1949,Christina Perri,2
+1950,Christina Aguilera,2
+1951,Vanilla,2
+1952,Christian Kuria,2
+1953,Christ vs. Warhol,2
+1954,Chrissy Zebby Tembo,2
+1955,Vanilla Fudge,2
+1956,Chris Stapleton,2
+1957,Ninth Realm,2
+1958,Red House Painters,2
+1959,Keane,2
+1960,Vegyn,2
+1961,Vein.fm,2
+1962,Kitchen Dwellers,2
+1963,Venetian Snares,2
+1964,YoungBoy Never Broke Again,2
+1965,Kehlani,2
+1966,Unbreakable Bonds - Sordid Blade - Every Battle Has Its Glory,2
+1967,Coma Cinema,2
+1968,Comacozer,2
+1969,311,2
+1970,DJ Jazzy Jeff & The Fresh Prince,2
+1971,Richie Havens,2
+1972,Richie Cunning,2
+1973,Kaitlyn Aurelia Smith & Emile Mosseri,2
+1974,DJ Atlance,2
+1975,Richard Thompson,2
+1976,Trudy and the Romance,2
+1977,DETENTION -,2
+1978,SiR,2
+1979,Tsegue-Maryam Guebrou,2
+1980,Current Joys,2
+1981,DAY6 (Even of Day),2
+1982,DAY6,2
+1983,Richard & Linda Thompson,2
+1984,Turnover,2
+1985,ZIMBO CHIMPS -,2
+1986,D Savage Archive,2
+1987,Céline Dion,2
+1988,Cyndi Lauper,2
+1989,Cyberbully Mom Club,2
+1990,Mirah,2
+1991,Tritonal,2
+1992,DJ SWAMP -,2
+1993,DJ Shadow,2
+1994,Daily J,2
+1995,Barbra Streisand,2
+1996,Tram,2
+1997,Daddy,2
+1998,Snoop Dogg,2
+1999,Dabeull,2
+2000,Ride,2
+2001,Ricky Montgomery,2
+2002,Barcelona,2
+2003,Bardo Pond,2
+2004,Travis Bretzer,2
+2005,Barenaked Ladies,2
+2006,Ricky Martin,2
+2007,"DOMi & JD BECK, Anderson .Paak, Busta Rhymes & Snoop Dogg",2
+2008,3OH!3,2
+2009,Minoru Muraoka,2
+2010,Minutemen,2
+2011,Rickie Lee Jones,2
+2012,Plums,2
+2013,Curtis Knight & The Squires,2
+2014,2Pac,2
+2015,Comeback Kid,2
+2016,Corella,2
+2017,Peace,2
+2018,ULTRA VULVA -,2
+2019,22º Halo,2
+2020,Cory Wong,2
+2021,Karriem Riggins,2
+2022,Corpse,2
+2023,UNION WAYS -,2
+2024,UNREST -,2
+2025,Corinne Bailey Rae,2
+2026,Cooper Kenward,2
+2027,Rhett Miller,2
+2028,Coolio,2
+2029,Result of Choice,2
+2030,MonoNeon,2
+2031,Converge,2
+2032,Connie Converse,2
+2033,Connie Constance,2
+2034,Monsune,2
+2035,Concrete Blonde,2
+2036,Kate Davis,2
+2037,UKEFINK -,2
+2038,Mojo Nixon & Skid Roper,2
+2039,Courtney Barnett & Kurt Vile,2
+2040,Mojave 3,2
+2041,Twisted Sister,2
+2042,ZHU,2
+2043,ZEBRAHEAD -,2
+2044,Kodak Black,2
+2045,Cuco,2
+2046,Two Shell,2
+2047,PawPaw Rod,2
+2048,Modern Nun,2
+2049,Tyler James Williams,2
+2050,Knuckle Puck,2
+2051,Crowded House,2
+2052,U-BOATS -,2
+2053,Crooked Fingers,2
+2054,Bazzi,2
+2055,Peggy Lee,2
+2056,Public Enemy,2
+2057,Cranes,2
+2058,Craft Spells,2
+2059,Cowboy Junkies,2
+2060,Young Nudy,2
+2061,Charlie Parker & Miles Davis,2
+2062,Charlie Martin,2
+2063,Rabit,2
+2064,Native American Indians,2
+2065,Why Don't We,2
+2066,Widowspeak,2
+2067,Nick Monaco,2
+2068,Breathe Carolina,2
+2069,Wild Nothing,2
+2070,R.I.P.,2
+2071,Brave Little Abacus,2
+2072,Bishop Briggs,2
+2073,Brandy,2
+2074,BoofPaxkMooky,2
+2075,Wiley From Atlanta,2
+2076,Will Hoge,2
+2077,Skiifall,2
+2078,Boz Scaggs,2
+2079,Boz Metzdorf,2
+2080,Willi Carlisle,2
+2081,RONNIE & THE HI-LITES -,2
+2082,Boy Harsher,2
+2083,Bowery Electric,2
+2084,Brian David Gilbert,2
+2085,Nathy Peluso,2
+2086,Whitearmor,2
+2087,White Town,2
+2088,Buckshot,2
+2089,Buckethead,2
+2090,Natalia Lafourcade,2
+2091,Bruno Major,2
+2092,Weston Estate,2
+2093,Natalie Bergman,2
+2094,YELLO -,2
+2095,Nickelback,2
+2096,YBN Cordae,2
+2097,King Harvest,2
+2098,Nick Shoulders,2
+2099,Brother Swan,2
+2100,White Denim,2
+2101,Broken Social Scene,2
+2102,Kevin Shields,2
+2103,Billy Strings,2
+2104,Briston Maroney,2
+2105,Khaled,2
+2106,White Reaper,2
+2107,Skeng,2
+2108,Skatune Network,2
+2109,Nicki Minaj,2
+2110,Blind Melon,2
+2111,Kid Sublime,2
+2112,Black Uhuru,2
+2113,New Politics,2
+2114,Bloodbath64,2
+2115,Blood Red Shoes,2
+2116,RA MU,2
+2117,Wombo,2
+2118,Kimya Dawson,2
+2119,Woo,2
+2120,Kimberley Rew,2
+2121,R.M,2
+2122,Sister Sledge,2
+2123,RAW POWER -,2
+2124,Blah Blah Blah,2
+2125,Sister Nancy,2
+2126,Blaze Foley,2
+2127,Blaze,2
+2128,Blank Banshee,2
+2129,２８１４,2
+2130,Sir Chloe,2
+2131,Blossom Dearie,2
+2132,Witch Fever,2
+2133,Blue Swede,2
+2134,X-TEENS -,2
+2135,"Björk,Kasimyn",2
+2136,Willie Rosario and His Orchestra,2
+2137,Willie Sugarcapps,2
+2138,(G)I-DLE,2
+2139,Kid Rock,2
+2140,Bobby Krlic,2
+2141,Neon Indian,2
+2142,Black Eyed Peas,2
+2143,Black Flag,2
+2144,Bob Seger,2
+2145,Black Fortune,2
+2146,Boa,2
+2147,Bo Diddley,2
+2148,Blvck Hippie,2
+2149,RINI,2
+2150,XCEL -,2
+2151,Bluetech,2
+2152,Black Pumas,2
+2153,"Blue"" Gene Tyranny""",2
+2154,Buddy Guy,2
+2155,YO LA TENGO -,2
+2156,Charlie Maldonado,2
+2157,WESLEY WILLARD AND THE 709'S -,2
+2158,WAR HIPPIES -,2
+2159,WARM JETS -,2
+2160,N.Flying,2
+2161,12 Rods,2
+2162,Cass Elliot,2
+2163,Casiotone for the Painfully Alone,2
+2164,Nightcore,2
+2165,Cash Cash,2
+2166,Rauw Alejandro,2
+2167,Cartola,2
+2168,Slapp Happy,2
+2169,WHEN PEOPLE WERE SHORTER AND LIVED BY THE WATER -,2
+2170,Ratboys,2
+2171,112,2
+2172,NCT U,2
+2173,Rashad & Confidence,2
+2174,WILLIE LOMAX BLUES REVUE w/SPECIAL GUEST JAMES PETERSON -,2
+2175,Between Friends,2
+2176,NEIL FRANCES,2
+2177,Yellow Days,2
+2178,WANT NOT -,2
+2179,Yoke Lore,2
+2180,Cate Le Bon,2
+2181,Catfish and the Bottlemen,2
+2182,Mungo Jerry,2
+2183,Charlie Byrd,2
+2184,Young A 804,2
+2185,Vince Staples,2
+2186,Mura Masa,2
+2187,Real Estate,2
+2188,Peach Tree Rascals,2
+2189,Sleater-Kinney & Margo Price,2
+2190,Kelsea Ballerini,2
+2191,Vishal & Shekhar,2
+2192,Vision of Disorder,2
+2193,Mustard Service,2
+2194,Celia Hollander,2
+2195,Myrta Silva & La Sonora Matancera,2
+2196,Mystery Jets,2
+2197,Niki,2
+2198,Cayetana,2
+2199,Vulgar Savior,2
+2200,125 Rue Montmartre,2
+2201,WIMP FACTOR 14 -,2
+2202,NICHOLAS TREMULIS -,2
+2203,Wench,2
+2204,King No-One,2
+2205,Ramsey Lewis,2
+2206,Waterparks,2
+2207,Nanci Griffith,2
+2208,CEP,2
+2209,Nancy Sinatra,2
+2210,Kerri Chandler,2
+2211,Waxahatchee,2
+2212,Ralphy Santi,2
+2213,YOUNG LUST -,2
+2214,Rainbow,2
+2215,WOLFMOTHER -,2
+2216,We Are The Union,2
+2217,Rain Parade,2
+2218,Naomi Scott,2
+2219,Butch Baby,2
+2220,Naoya Matsuoka,2
+2221,Bill Callahan,2
+2222,Bill Fay,2
+2223,Burial & Four Tet,2
+2224,Bully,2
+2225,YUNGBLUD,2
+2226,CZARFACE,2
+2227,Caamp,2
+2228,Caitlin Rose,2
+2229,WONDER -,2
+2230,Slander,2
+2231,10cc,2
+2232,WORKDOGS -,2
+2233,Kenny Mason,2
+2234,WRONG BODY -,2
+2235,NO Savage,2
+2236,Canned Heat,2
+2237,Candy Claws,2
+2238,NORIKI,2
+2239,NOSFERATU,2
+2240,Camila Meza,2
+2241,Wallice,2
+2242,Years Apart,2
+2243,NUNSLAUGHTER -,2
+2244,Rancid,2
+2245,Yawning Portal,2
+2246,Kings of Leon,2
+2247,Wanna One,2
+2248,Trailer,2
+2249,Kraftwerk,2
+2250,Mindforce,2
+2251,El Alfa,2
+2252,d4vd,2
+2253,Eiffel 65,2
+2254,Eiafuawn,2
+2255,The Skatalites,2
+2256,The Slaps,2
+2257,The Slickee Boys,2
+2258,The Slits,2
+2259,Edo G,2
+2260,Edmony Krater,2
+2261,Edie Brickell & New Bohemians,2
+2262,Edgar Winter,2
+2263,Oklou,2
+2264,The Snuts,2
+2265,Eddie Santiago,2
+2266,The Soft Moon,2
+2267,Ronnie Lane's Slim Chance,2
+2268,Ron Trent,2
+2269,She & Him,2
+2270,Ecostrike,2
+2271,Sonny Rollins,2
+2272,Matilda Mann,2
+2273,BAMFF -,2
+2274,Sonny Stitt,2
+2275,Sophie Mitchell,2
+2276,Elvin Bishop & Charlie Musselwhite,2
+2277,Poppy,2
+2278,Sophie & The Broken Things,2
+2279,Elliott Fullam,2
+2280,彩恵津子,2
+2281,Ella Fitzgerald & Louis Armstrong,2
+2282,Autumn's Grey Solace,2
+2283,Elizabeth Cotten,2
+2284,Elijah Who,2
+2285,The Screaming Tribesmen,2
+2286,Eli Smart,2
+2287,Eli Keszler,2
+2288,Mashina,2
+2289,Stormzy,2
+2290,Ava Max,2
+2291,Rory Gallagher,2
+2292,Electric Company,2
+2293,deadmau5,2
+2294,Echosmith,2
+2295,The SteelDrivers,2
+2296,Echo & The Bunnymen,2
+2297,The Story So Far,2
+2298,caro♡,2
+2299,Duo Salsero,2
+2300,The Undisputed Truth,2
+2301,Junko Yagami,2
+2302,McCoy Tyner,2
+2303,Dude York,2
+2304,Ofege,2
+2305,"The Velvet Underground,Nico",2
+2306,Drop Nineteens,2
+2307,Drive-By Truckers,2
+2308,Dressy Bessy,2
+2309,Meat Puppets,2
+2310,Medicine Head,2
+2311,Dreamgirl,2
+2312,Robin Williams,2
+2313,The Waitresses,2
+2314,The Wake,2
+2315,Dramarama,2
+2316,Meghan Trainor,2
+2317,Kacy & Clayton,2
+2318,The Turtles,2
+2319,702,2
+2320,Songs: Ohia,2
+2321,The Strangelings,2
+2322,EastBayTae,2
+2323,Romanthony,2
+2324,Oils,2
+2325,Ayatollah,2
+2326,EX-ATARI KID -,2
+2327,Julio Jaramillo,2
+2328,Rolando Laserie,2
+2329,The Tammys,2
+2330,The Trammps,2
+2331,Max Coveri,2
+2332,ERIC MINGUS/JIM DVORAK -,2
+2333,Sonder,2
+2334,The The,2
+2335,EDEN,2
+2336,ED SCHRADER'S MUSIC BEAT -,2
+2337,EARTHGANG,2
+2338,Jungle,2
+2339,Elvis Presley,2
+2340,The Resonars,2
+2341,"Austin Millz,Aluna",2
+2342,FRANKIE AVALON -,2
+2343,Feist,2
+2344,Running Like a Rabbit - Enmesher - Tribulator,2
+2345,LUCKI,2
+2346,Polarized - The Ultimate Dreamers - Polarized Single,2
+2347,Asamov,2
+2348,The Moldy Peaches,2
+2349,Falling In Reverse,2
+2350,Omerta,2
+2351,Omega,2
+2352,Fall Apart - Miscreance - Convergence,2
+2353,The Moody Blues,2
+2354,Faith Evans,2
+2355,Failure,2
+2356,Faces,2
+2357,The Mount McKinleys,2
+2358,Sharon Jones & The Dap-Kings,2
+2359,The Murder Capital,2
+2360,FUR,2
+2361,The Murlocs,2
+2362,Felt,2
+2363,Margo Price,2
+2364,Fever Tree,2
+2365,Marbo Beatz,2
+2366,Manny Fuentes,2
+2367,Arlie,2
+2368,Flo Petite,2
+2369,Manu Chao,2
+2370,The La's,2
+2371,Fleshwater,2
+2372,girlpuppy,2
+2373,Marble,2
+2374,Art Pepper,2
+2375,food house,2
+2376,Marc Wavy,2
+2377,Rusted Root,2
+2378,Marcy Playground,2
+2379,Artificial Brain,2
+2380,Margaret Glaspy,2
+2381,Fiji Blue,2
+2382,Fiddlehead,2
+2383,Arturo O'Farrill Sextet,2
+2384,FRODUS -,2
+2385,The Neighborhood,2
+2386,The Rentals,2
+2387,Souly Had,2
+2388,Epidemic,2
+2389,The Presidents of the United States of America,2
+2390,The Proclaimers,2
+2391,Martha Reeves & The Vandellas,2
+2392,Entity ft Need Not Worry,2
+2393,easy life,2
+2394,Ross from Friends,2
+2395,Shawn Colvin,2
+2396,Marty Stuart and His Fabulous Superlatives,2
+2397,English Teacher,2
+2398,Pool Kids,2
+2399,Emperor X,2
+2400,The Rainmakers,2
+2401,Emmylou Harris,2
+2402,"Emma Stone, Callie Hernandez, Sonoya Mizuno & Jessica Rothe",2
+2403,Marvin Gaye & Tammi Terrell,2
+2404,Mary Chapin Carpenter,2
+2405,Mary J. Blige,2
+2406,dosii,2
+2407,Erasmo Carlos,2
+2408,Ergot - Rigorous Institution - Cainsmarsh,2
+2409,Eri,2
+2410,Etta Jones,2
+2411,The Notorious B.I.G.,2
+2412,Evolfo,2
+2413,Everything Everything,2
+2414,Asian Glow,2
+2415,Everyone Asked About You,2
+2416,LOS MICROWAVES -,2
+2417,The Oh Hellos,2
+2418,The Optic Nerve,2
+2419,The Orion Experience,2
+2420,Ataraxia,2
+2421,The Outfield,2
+2422,Mark Funk & Danny Cruz,2
+2423,The Pains of Being Pure At Heart,2
+2424,Mark Morrison,2
+2425,Asylum Street Spankers,2
+2426,Mark Ronson,2
+2427,Sorry,2
+2428,The Pointer Sisters,2
+2429,Of Monsters and Men,2
+2430,Stove,2
+2431,The War on Drugs,2
+2432,Tommy Olivencia Y Su Orquesta,2
+2433,Timbre Haven,2
+2434,Deux Filles,2
+2435,O-Zone,2
+2436,Bahta Gebre-Heywet,2
+2437,NxWorries,2
+2438,Paul Rudder,2
+2439,Tina Turner,2
+2440,KAYTRANADA,2
+2441,Robbie Fulks,2
+2442,David Guetta,2
+2443,Deorro,2
+2444,Miguel,2
+2445,Tinie Tempah,2
+2446,Tinlicker,2
+2447,Tommy Guerrero,2
+2448,Demonic Repossession - Paezor - Ascension Of The Beast,2
+2449,Timbaland,2
+2450,Kudasaibeats,2
+2451,Tim Ries,2
+2452,David Bromberg Band,2
+2453,Michael Bublé,2
+2454,Tim Buckley,2
+2455,Robert Johnson,2
+2456,Diana Ross,2
+2457,Mike Doughty,2
+2458,DiamondsOnMyDick,2
+2459,"Dhani Harrison, Jeff Lynne, Prince, Steve Winwood & Tom Petty",2
+2460,Tim Maia,2
+2461,Dave Brubeck,2
+2462,Mike 303,2
+2463,Pritam,2
+2464,KODYN,2
+2465,Soda Stereo,2
+2466,David Bromberg,2
+2467,Tim O'Brien and Darrell Scott,2
+2468,Babygirl,2
+2469,"Deltron 3030,Del The Funky Homosapien,Dan The Automator,Kid Koala",2
+2470,Toni Price,2
+2471,Day6,2
+2472,Michelle Branch,2
+2473,Michelle Shocked,2
+2474,Dean Blunt,2
+2475,Deafheaven,2
+2476,Bad Suns,2
+2477,Roar,2
+2478,Dead Pony,2
+2479,Mid-Air Thief,2
+2480,Delta Spirit,2
+2481,Dead Man's Bones,2
+2482,Tokyo Philharmonic Orchestra,2
+2483,Kygo,2
+2484,Tom Jones,2
+2485,"Bad Suns,PVRIS",2
+2486,DeBarge,2
+2487,Rob Zombie,2
+2488,Baha Men,2
+2489,Bad Nerves,2
+2490,Kyle Dixon & Michael Stein,2
+2491,Bad Company,2
+2492,Michael Medrano,2
+2493,Kylie Minogue,2
+2494,Bad Bad Hats,2
+2495,Michael Stuart,2
+2496,Deeper,2
+2497,Tiësto,2
+2498,Robbie Basho,2
+2499,Deeds of Honor - Skelator - Blood Empire,2
+2500,Toadies,2
+2501,Zico,2
+2502,Deb Never,2
+2503,Deathsvn,2
+2504,Deathcab For Cutie,2
+2505,Dawes,2
+2506,"Bad Bunny,Jhay Cortez",2
+2507,Diet Cig,2
+2508,Diana Ross & Tame Impala,2
+2509,BOL4,2
+2510,Melvins,2
+2511,Potty Mouth,2
+2512,Daniel Johnston,2
+2513,KT Tunstall,2
+2514,"Donny Osmond, Chorus - Mulan & Disney",2
+2515,Donny Hathaway,2
+2516,The xx,2
+2517,TheFatRat,2
+2518,Don Mclean,2
+2519,Roberta Flack,2
+2520,Don Diablo,2
+2521,BLOCK B,2
+2522,Tori Kelly,2
+2523,Sohodolls,2
+2524,Tori Amos,2
+2525,Domingo Quiñones,2
+2526,Zara Larsson,2
+2527,betcover!!,2
+2528,Melanie Martinez,2
+2529,4 Non Blondes,2
+2530,Dance Gavin Dance,2
+2531,Drab Majesty,2
+2532,L.S. Dunes,2
+2533,BEATNIK FILMSTARS -,2
+2534,Damrak - Crime of Passing - Crime of Passing,2
+2535,Dan Croll,2
+2536,Nosei Hamigbaat,2
+2537,Tove Lo,2
+2538,Doyle Bramhall,2
+2539,Project 7,2
+2540,BEN VAUGHN COMBO -,2
+2541,The West Coast Pop Art Experimental Band,2
+2542,The Whispers,2
+2543,Doubt,2
+2544,Banes World,2
+2545,binki,2
+2546,Dog Party,2
+2547,Mick Ronson,2
+2548,Sheryl Crow,2
+2549,Procol Harum,2
+2550,Metronomy,2
+2551,Thursday,2
+2552,Too Close To Touch,2
+2553,BUCKWHEAT ZYDECO -,2
+2554,Mike Posner,2
+2555,溫蒂漫步,2
+2556,Dirty Projectors,2
+2557,BUCHANAN & GOODMAN -,2
+2558,Disclosure & RAYE,2
+2559,BTOB,2
+2560,Mermen,2
+2561,Dar Williams,2
+2562,Priests,2
+2563,Tijuana No!,2
+2564,Three 6 Mafia,2
+2565,Thouxanbanfauni,2
+2566,This is the Last Time,2
+2567,bLAck pARty,2
+2568,Michael Bloomfield,2
+2569,BUTCH WILLIS -,2
+2570,TikTok,2
+2571,Soduh,2
+2572,Mental,2
+2573,Shlohmo,1
+2574,Sibylle Baier,1
+2575,Pelada,1
+2576,People Under The Stairs,1
+2577,Shuggie Otis,1
+2578,Pellegrino,1
+2579,Shaqdi,1
+2580,People Without Shoes & JazzSpastiks,1
+2581,Siouxsie and the Banshees,1
+2582,Perturbator,1
+2583,Shovels & Rope,1
+2584,Shogun,1
+2585,People Pie - Napalm Death - Resentment Is Always Seismic - A Final Throw Of Throes,1
+2586,Peter Gabriel,1
+2587,Siafan,1
+2588,Shania Twain,1
+2589,"Peter, Paul & Mary",1
+2590,Seiko Matsuda,1
+2591,Shura,1
+2592,Sharon Roter,1
+2593,Peter Fenn,1
+2594,Petey,1
+2595,Seven Lions,1
+2596,Sinéad O'Connor,1
+2597,Shy FX,1
+2598,Sinéad Harnett,1
+2599,Sex Bob-Omb,1
+2600,Shamanic Drumming Consort,1
+2601,Shane Smith & the Saints,1
+2602,Silver Jews,1
+2603,SeÃ±or Pinch,1
+2604,Sense One,1
+2605,Shadrow,1
+2606,Senti,1
+2607,Sgt Slick,1
+2608,"Shadow The Great, King Illa",1
+2609,Peter Holsapple & Chris Stamey,1
+2610,Sepehr Khalse,1
+2611,Sheena Easton,1
+2612,Sim Redmond Band,1
+2613,September 67,1
+2614,Silverstein,1
+2615,Silverchair,1
+2616,Silver Summit,1
+2617,Sheena Ringo,1
+2618,Sickboyrari,1
+2619,Shermanology,1
+2620,Peter Sarstedt,1
+2621,Pete Rock,1
+2622,Penelope Scott,1
+2623,Sigur Rós,1
+2624,Shelby Lynne & Allison Moorer,1
+2625,Sessa,1
+2626,Shelf Life,1
+2627,Siiickbrain,1
+2628,Penguin Prison,1
+2629,Peter McPoland,1
+2630,Shelly,1
+2631,"Silk City, Dua Lipa",1
+2632,Silent Drive,1
+2633,Pentagon,1
+2634,Pete Heller's Big Love,1
+2635,Pete Rock & Smoke DZA,1
+2636,Simon Doty,1
+2637,Seth MacFarlane,1
+2638,Shan,1
+2639,Pentatonix,1
+2640,Shattered Realm,1
+2641,Peruzzi,1
+2642,Sexy Pigeon,1
+2643,Shintaro Sakamoto,1
+2644,Shawlin Supreme & the Kick Back Boys,1
+2645,Peggy Gou,1
+2646,Pegboard Nerds,1
+2647,Shawn Jackson,1
+2648,Sematary,1
+2649,Sidevision,1
+2650,Seratones,1
+2651,Sidhu Moose Wala,1
+2652,Pearly Goats,1
+2653,Sematary & Ghost Mountain,1
+2654,Pet Shimmers,1
+2655,Sindy,1
+2656,Shahrum Kashani,1
+2657,Pete Wingfield,1
+2658,Shahab Tiam,1
+2659,Shawn Mendes & Justin Bieber,1
+2660,Senri Oe,1
+2661,Pedro Juan Morales,1
+2662,Shayfer James,1
+2663,Shinichi Mori,1
+2664,Pete Terrace,1
+2665,Shaggy,1
+2666,Penny & The Quarters,1
+2667,Poev Vanary,1
+2668,Petrol Girls,1
+2669,Seefeel,1
+2670,Prude,1
+2671,Riders,1
+2672,Rigo Tovar,1
+2673,Protomartyr,1
+2674,Ringo Deathstarr,1
+2675,Ringo Starr,1
+2676,Riovaz,1
+2677,Riscas,1
+2678,Professor P,1
+2679,Rita Coolidge,1
+2680,Ritchie Valens,1
+2681,Prison Affair,1
+2682,Riton,1
+2683,Ritual Howls,1
+2684,Rob Dickenson,1
+2685,Princess Nokia,1
+2686,Robben Ford,1
+2687,Prince Royce,1
+2688,Robbie Dupree,1
+2689,Prince & The Revolution,1
+2690,Robert Avellanet,1
+2691,Ricky Dillard & New G,1
+2692,Rick Wade,1
+2693,Rick Springfield,1
+2694,Psychic Mirrors,1
+2695,Pulp,1
+2696,Reuben James,1
+2697,Reuben Vaun Smith,1
+2698,Rev. Billy C. Wirtz,1
+2699,Rev. Gary Davis,1
+2700,Public Alley,1
+2701,Reverb Galaxy,1
+2702,Public Acid,1
+2703,Reverend Gary Davis,1
+2704,Rex Hobart & The Misery Boys,1
+2705,Rick James,1
+2706,Rez & ArtFluids,1
+2707,Rezz,1
+2708,Rich Brian,1
+2709,RichaadEB,1
+2710,Richard Cook,1
+2711,Richard Dawson,1
+2712,Richard Orofino,1
+2713,Richard Shindell,1
+2714,Richie Balance,1
+2715,Robert DeLong,1
+2716,Robert Ellis,1
+2717,Primordial Undermind,1
+2718,Ronny J,1
+2719,Roger Webb,1
+2720,Roger Whittaker,1
+2721,Rogue Wave,1
+2722,Rogér Fakhr,1
+2723,Rolling Stones,1
+2724,Romeo Santos & ROSALÍA,1
+2725,Romy & Fred again..,1
+2726,Ron Sexsmith,1
+2727,Porter,1
+2728,Room Corners,1
+2729,Roger Bart,1
+2730,Rooney,1
+2731,Root Boy Slim,1
+2732,Port Vale,1
+2733,Root Boy Slim & The Sex Change Band,1
+2734,Rory Webley,1
+2735,Rosa Walton & Hallie Coggins,1
+2736,Rose McDowall,1
+2737,"Rose Melberg, Masahiro Takahashi",1
+2738,Rose Royce,1
+2739,Roger Manning,1
+2740,Roedelius,1
+2741,Robert Gordon & Link Wray,1
+2742,"Roberto Diaz, Nashville Symphony & Giancarlo Guerrero",1
+2743,Robert Gordon With Link Wray,1
+2744,Primitive Blast,1
+2745,Robert Plant & Alison Krauss,1
+2746,Robert Tree Cody,1
+2747,Robert Turgeon,1
+2748,Robert Wilkins,1
+2749,Pretty Ricky,1
+2750,Roberto Anglero,1
+2751,Roberto Carlos,1
+2752,Preoccupations,1
+2753,Rodríguez,1
+2754,Precious,1
+2755,Roberto Rodriguez,1
+2756,"Post Malone, Swae Lee, Nicky Jam & Prince Royce",1
+2757,Sir Guy,1
+2758,Robot 84,1
+2759,Robyn,1
+2760,Robyn Adele Anderson,1
+2761,Post Animal,1
+2762,Rockwell,1
+2763,Retrovision,1
+2764,Retro Stefson,1
+2765,Retirement Party,1
+2766,Rammstein,1
+2767,Raffaella Carrà,1
+2768,Rage Against The Machine,1
+2769,R. Crumb And His Cheap Suit Serenaders,1
+2770,Raider Klan,1
+2771,Quiet Riot,1
+2772,Rakim,1
+2773,Ram Di Dam,1
+2774,"Rami Fortis,Berry Sakharof,Fortisakharof",1
+2775,Ramin Djawadi,1
+2776,"Quevedo,Ovy On The Drums",1
+2777,Racecar,1
+2778,Quevedo,1
+2779,Ramz,1
+2780,Quest For Fire,1
+2781,Ramón Rodríguez,1
+2782,Rana Mansour,1
+2783,Raphael Toiné,1
+2784,Raphy Leavitt Orquesta La Selecta De Puerto Rico,1
+2785,Queensway,1
+2786,Raphy Leavitt y La Selecta,1
+2787,Radio Tehran,1
+2788,Rabit & Chino Amobi,1
+2789,Rare Essence,1
+2790,RF Shannon,1
+2791,RAIGN,1
+2792,RANCID -,1
+2793,RANDY VANWARMER,1
+2794,RARE GEMS ODYSSEY -,1
+2795,RAC,1
+2796,REFECT REFECT -,1
+2797,RENEE WILSON -,1
+2798,"R3HAB, Ryan Arnold & N.F.I.",1
+2799,R3HAB & Amy Shark,1
+2800,RHOMBOIDS -,1
+2801,Raa Djarsi,1
+2802,R3HAB & A Touch of Class,1
+2803,RITCHRD,1
+2804,RL Grime,1
+2805,RM,1
+2806,ROAM,1
+2807,ROCKET SCIENTISTS -,1
+2808,ROGER WHITTAKER -,1
+2809,R.L. Burnside,1
+2810,ROSÉ,1
+2811,Raphy Leavitt y Su Orquesta La Selecta,1
+2812,Rarri Jackson,1
+2813,Pumarosa,1
+2814,Reggie and the Full Effect,1
+2815,Red Bovine,1
+2816,Red Hearse,1
+2817,Red Rider,1
+2818,Pure Mids,1
+2819,Pup,1
+2820,Redd Volkaert,1
+2821,Punctual,1
+2822,Reflection Eternal;Les Nubians,1
+2823,Refused,1
+2824,Reks,1
+2825,Red Baraat,1
+2826,Rema,1
+2827,Rema & Selena Gomez,1
+2828,Pumpkinhead,1
+2829,Renata Flores,1
+2830,Res,1
+2831,Resavoir,1
+2832,Resentment Always Simmers - Napalm Death - Resentment Is Always Seismic - A Final Throw Of Throes [EP],1
+2833,Pummel,1
+2834,Respire,1
+2835,Purple Disco Machine,1
+2836,"Red Axes,Assaf Amdursky,Ella Lee",1
+2837,Raspberries,1
+2838,QT,1
+2839,Ratt,1
+2840,Ravi B,1
+2841,Quasi,1
+2842,Ravyns,1
+2843,Quarterflash,1
+2844,Raw Brigade,1
+2845,Ray Alexander Technique,1
+2846,Ray Castro's Conjunto Clasico,1
+2847,Quality Control;Lil Baby;Kodak Black;Quavo;Moneybagg Yo,1
+2848,Rayana Jay,1
+2849,Reckless Kelly,1
+2850,Q Lazzarus,1
+2851,Q Da Fool;D-Low,1
+2852,Razorlight,1
+2853,Reaching 62 F,1
+2854,Reaction Band,1
+2855,Reason (RI),1
+2856,Pye Corner Audio,1
+2857,Rebe,1
+2858,Rebounder,1
+2859,Rosemary Clooney,1
+2860,Rosie Tucker,1
+2861,"Rowen Reecks,Alamo",1
+2862,Sam De Nef,1
+2863,Sakis Tsilikis,1
+2864,Pi'erre Bourne,1
+2865,Phum Viphurit,1
+2866,Phonk D,1
+2867,Salsa Brava,1
+2868,Salt,1
+2869,Salvia Plath,1
+2870,"Phoebe Bridgers, Maria Taylor",1
+2871,"Sam Austins,Sir Chloe",1
+2872,Sam Feldt,1
+2873,Saigon Soul Revival,1
+2874,Phish,1
+2875,Sam Mykuhl,1
+2876,Philip Glass & The Philip Glass Ensemble,1
+2877,Sam Ock,1
+2878,Sam Truth,1
+2879,Sam Wills,1
+2880,Samantha Sang,1
+2881,"Sami Beigi,DJ Amir Ghavami",1
+2882,Phil Weeks,1
+2883,Saint Levant,1
+2884,SahBabii,1
+2885,Phil Lee,1
+2886,SWV,1
+2887,SUNMI,1
+2888,SUPER JUNIOR-D&E,1
+2889,SURAN,1
+2890,SURES,1
+2891,SURF GANG,1
+2892,SURF GANG & RealYungPhil,1
+2893,SWACQ,1
+2894,Pile,1
+2895,SWIRLIES -,1
+2896,SYKO,1
+2897,Piano Kingdom,1
+2898,Pigface,1
+2899,Pigeon John,1
+2900,Sabrina Claudio,1
+2901,Sacred Tapestry,1
+2902,Sadao Watanabe,1
+2903,Sadesper Record,1
+2904,Sadistics,1
+2905,Safari,1
+2906,Safe To Say,1
+2907,Phil Lesh & Friends,1
+2908,Sammy Adams,1
+2909,SULLIVAN's FUN CLUB,1
+2910,Sea Wolf,1
+2911,School Of Fish,1
+2912,Scott Bradlee's Postmodern Jukebox,1
+2913,Scoundrels,1
+2914,Scouting for Girls,1
+2915,Scowl,1
+2916,Screamin' Rachael,1
+2917,ScubaZ,1
+2918,Se.A,1
+2919,Phantom Handshakes,1
+2920,Phantogram,1
+2921,Scaphoid,1
+2922,Seahaven,1
+2923,Seal,1
+2924,Sean Biddle,1
+2925,Sean Paul,1
+2926,Peyton,1
+2927,Sebastian Ingrosso,1
+2928,Sebastian Portillo,1
+2929,Sedona,1
+2930,Seed of Pain,1
+2931,Scary Goldings,1
+2932,"ScHoolboy Q, 2 Chainz, Saudi",1
+2933,Samo,1
+2934,Sara Vaughan,1
+2935,"Phil Harris,Bruce Reitherman",1
+2936,Sampa the Great,1
+2937,Samuel E. Wright,1
+2938,Samuel Organ,1
+2939,Sandy Gaye,1
+2940,Santa,1
+2941,Santiago Salazar,1
+2942,Phil Harris & Bruce Reitherman,1
+2943,Sara Bareilles & Ingrid Michaelson,1
+2944,Sarah Cothran,1
+2945,Saweetie & NIKI,1
+2946,Sarah Kinsley,1
+2947,Sarah Lee Guthrie,1
+2948,Pheelz & BNXN fka Buju,1
+2949,Phe Reds,1
+2950,Sasha Alex Sloan,1
+2951,Phats & Small,1
+2952,Satan's Pilgrims,1
+2953,Satanicpornocultshop,1
+2954,Pharrell Williams & Trey Parker,1
+2955,Pilot,1
+2956,Pinc Louds,1
+2957,Roy Blair,1
+2958,S Club 7,1
+2959,Ryan Adams & Beth Orton,1
+2960,Players Pole Position,1
+2961,"Ryan McCartan,Barrett Wilbert Weed,Michelle Duffy",1
+2962,Ryuichi Sakamoto & Thundercat,1
+2963,Plastic Picnic,1
+2964,"Ryuichi Sakamoto,Kazumi Watanabe",1
+2965,Ráfaga,1
+2966,Plants and Animals,1
+2967,Röyksopp,1
+2968,S. Kiyotaka & Omega Tribe,1
+2969,Rusowsky,1
+2970,S.A. Karl,1
+2971,Planning For Burial,1
+2972,S.E.S.,1
+2973,S.H.I.T.,1
+2974,"Planet 1999,DJ Lostboi",1
+2975,S.Kiyotaka & Omega Tribe,1
+2976,S.M.I.L.E.,1
+2977,S.N.U.S,1
+2978,S1mba,1
+2979,Ruth Brown,1
+2980,Pogo,1
+2981,SAM KIM,1
+2982,Rubblebucket,1
+2983,Roy Buchanan,1
+2984,Roy Davis Jr.,1
+2985,Roy Kim,1
+2986,Pomo & Harrison Brome,1
+2987,Royce da 5'9,1
+2988,Pom Pom Squad,1
+2989,Roz and The Rice Cakes,1
+2990,Rozwell Kid,1
+2991,RuPaul,1
+2992,Ruby Haunt,1
+2993,Rural Internet,1
+2994,Rubén Blades,1
+2995,Polygon Window,1
+2996,Polo & Pan,1
+2997,Polimá Westcoast & J Balvin,1
+2998,Rudimentary Peni,1
+2999,Rujen,1
+3000,Rule Them All,1
+3001,Run-DMC,1
+3002,Rupert Gregson-Williams,1
+3003,SAINt JHN,1
+3004,SAMHAIN -,1
+3005,STILLBORN CHRISTIANS -,1
+3006,"SPINALL, DJ Snake & Äyanna",1
+3007,Pipe-eye,1
+3008,SN0WCRASH,1
+3009,SOME VELVET SIDEWALK -,1
+3010,SOONSOONHEE,1
+3011,SPACE NEEDLE -,1
+3012,SPACE PHLEGM -,1
+3013,Pinoko,1
+3014,SPARKLEHORSE -,1
+3015,Pino Palladino & Blake Mills,1
+3016,SPINN,1
+3017,SKITLIV -,1
+3018,SPYDER TURNER -,1
+3019,SR,1
+3020,SRC,1
+3021,SRSQ,1
+3022,"STANY, Rema & Offset",1
+3023,Pino D'Angiò,1
+3024,Pink Guy,1
+3025,Pink Anderson,1
+3026,STEVE HILLAGE -,1
+3027,Piper,1
+3028,Placid Angles,1
+3029,"Plains,Waxahatchee,Jess Williamson",1
+3030,SEVERIN -,1
+3031,SBTRKT,1
+3032,SCATTA,1
+3033,SEB,1
+3034,SEBADOH -,1
+3035,SEBASTIAN PAUL,1
+3036,SEEING DOUBLE,1
+3037,SEGA/稲毛 謙介(TEMPEST STUDIO)/荒井 善博,1
+3038,SERVICE ANXIETY -,1
+3039,SEULGI,1
+3040,SG Lewis,1
+3041,SIX FINGER SATELLITE -,1
+3042,SHAUN,1
+3043,SHEIK VASELINO & THE ZEALOTS -,1
+3044,SHEP TULLIER -,1
+3045,SHINHWA,1
+3046,SIDEPIECE,1
+3047,SIE Sound Team,1
+3048,Plague Years - Critical Issues - S/T EP,1
+3049,SIRUP,1
+3050,SIX,1
+3051,Robin Trower,1
+3052,!!!,1
+3053,Sir Richard Bishop,1
+3054,WHOKILLEDXIX,1
+3055,WHITE TRASH DEBUTANTES SAN FRANCISCO -,1
+3056,WHAT NOW -,1
+3057,WEIRD AL YANKOVIC -,1
+3058,WEEKEND -,1
+3059,WEDNESDAY CAMPANELLA,1
+3060,WAT TYLER -,1
+3061,WARFAIR? -,1
+3062,WALK THE MOON,1
+3063,WADE DENNING & KAY LANDE -,1
+3064,Vybz Kartel,1
+3065,Vulfpeck & Vulf,1
+3066,Vulfmon,1
+3067,Voxtrot,1
+3068,Voodoos,1
+3069,Vonte* & Dylvinci,1
+3070,WHIZ KID -,1
+3071,WHORGASM -,1
+3072,Wreckless Eric,1
+3073,WICKLINE BAND FEATURING SCOTT GAVIN -,1
+3074,Walfredo em Busca da Simbiose,1
+3075,Wagon Christ,1
+3076,WZRD,1
+3077,WSTR,1
+3078,WOVEN -,1
+3079,WOODPECKER -,1
+3080,WONWOO,1
+3081,WOLVERTON  BROTHERS -,1
+3082,WOLF -,1
+3083,WISTERIA -,1
+3084,WISE,1
+3085,WINDY & CARL -,1
+3086,WILLIS,1
+3087,WILLIE & THE POOR BOYS -,1
+3088,WIG -,1
+3089,Vizion,1
+3090,Vivienne Eastwood,1
+3091,Vista Kicks,1
+3092,Virna Lindt,1
+3093,Vic Mizzy,1
+3094,Viagra Boys,1
+3095,Vertigoaway,1
+3096,Vertical Space,1
+3097,Vertical Horizon,1
+3098,Veronica Maggio,1
+3099,Venus Anon,1
+3100,Vengaboys,1
+3101,Velvet,1
+3102,Vegedream,1
+3103,Vaundy,1
+3104,Varsity,1
+3105,Vargas & Lagola,1
+3106,Vanessa Paradis,1
+3107,Vanessa Carlton,1
+3108,Victor Young,1
+3109,Victoria Monét,1
+3110,Videoclub,1
+3111,"Vince Staples, 6LACK & Mereba",1
+3112,Viratempo,1
+3113,Vinyl Theatre,1
+3114,Vincent Neil Emerson,1
+3115,Vincent Gallo,1
+3116,Vincent Blue,1
+3117,Vince Watson,1
+3118,Vince Guaraldi,1
+3119,Vieux Farka Toure,1
+3120,Vinaloop,1
+3121,Villano Antillano,1
+3122,Village People,1
+3123,Vilayat Khan,1
+3124,"Viktor Sheen, Calin, Hasan, Nik Tendo",1
+3125,Viktor Krauss,1
+3126,Walker Burroughs,1
+3127,Waltel Branco,1
+3128,Walter G,1
+3129,Who Boy,1
+3130,Wilma Vritra,1
+3131,Willis Alan Ramsey,1
+3132,Willie Rosario,1
+3133,"Willie Nelson, Lucinda Williams",1
+3134,Willie Dunn,1
+3135,Willie Dixon & Memphis Slim,1
+3136,Willie Dixon,1
+3137,Willie Bastidas,1
+3138,Williams,1
+3139,William Ross,1
+3140,Will Wood,1
+3141,Will Kimbrough & Tommy Womack present Daddy,1
+3142,Will Beeley,1
+3143,Will & The Bushmen,1
+3144,Wiley,1
+3145,Wilson Phillips,1
+3146,Windhand,1
+3147,Wine Lips,1
+3148,Wonder Girls,1
+3149,Worn-Tin,1
+3150,Worn,1
+3151,Working Men's Club,1
+3152,Woody Goss,1
+3153,Wooden Shjips,1
+3154,Wonstein,1
+3155,Wolverton Brothers,1
+3156,Wink,1
+3157,Wolfgang Amadeus Mozart,1
+3158,Wiz Khalifa,1
+3159,Witch,1
+3160,Wishbone Ash,1
+3161,Wire,1
+3162,Winter & Hatchie,1
+3163,Wild Pink & Julien Baker,1
+3164,Whitewoods,1
+3165,Walter Mitty and His Makeshift Orchestra,1
+3166,White Lung,1
+3167,Wayne Gorbea & Salsa Picante,1
+3168,Wax Tailor,1
+3169,Wax Fang,1
+3170,Wax Doctor,1
+3171,Waveshaper,1
+3172,Wau Wau Collectif,1
+3173,Watergh0st,1
+3174,Water From Your Eyes,1
+3175,WatchNWitness_Crossfire,1
+3176,Washed Out,1
+3177,Warren Hue,1
+3178,Warkrusher,1
+3179,Wang Wen,1
+3180,Wang Feng,1
+3181,Wamdue Project,1
+3182,Wayne Gorbea's Salsa Picante,1
+3183,Wayne Hancock,1
+3184,Wayne Sweeney,1
+3185,Wet,1
+3186,White Flowers,1
+3187,White Fence,1
+3188,Whiskeytown,1
+3189,Whethan,1
+3190,Wheatus,1
+3191,"Whatever, Dad",1
+3192,Westover,1
+3193,Weather Report,1
+3194,Wesley Willis,1
+3195,Wesley Joseph,1
+3196,Wes Montgomery Quartet,1
+3197,"Wendy Carlos,Rachel Elkind",1
+3198,Webb Wilder & The Beatnecks,1
+3199,Weathers,1
+3200,Van McCoy,1
+3201,Valley,1
+3202,Valentina Ploy,1
+3203,Tom T. Hall,1
+3204,Tood Snider,1
+3205,Tony Rice,1
+3206,Tony Camargo,1
+3207,Tony Bennett,1
+3208,Tonstartssbandht,1
+3209,Toni Sancho,1
+3210,Tones On Tail,1
+3211,Tone Stith,1
+3212,Tomoko Aran,1
+3213,Tommy february6,1
+3214,Tommy Womack,1
+3215,Tommy Snyder,1
+3216,Tommy Olivencia,1
+3217,Tommy Keene,1
+3218,Tommy Johnson,1
+3219,Tora-i,1
+3220,Tortoise,1
+3221,Tory Lanez,1
+3222,Trapped Under Ice,1
+3223,Trespassers William,1
+3224,Tres Chicas,1
+3225,Travis Tritt,1
+3226,Trashed,1
+3227,Trashcan Sinatras,1
+3228,Trash Boat,1
+3229,Tracey Ullman,1
+3230,Toshitaro,1
+3231,Trace Mountains,1
+3232,"Tove Lo,Doja Cat",1
+3233,Tova Gertner,1
+3234,Tourist,1
+3235,Tour-Maubourg,1
+3236,Totally Enormous Extinct Dinosaurs,1
+3237,Tommy James & The Shondells,1
+3238,Tom Russell,1
+3239,Triathalon,1
+3240,Tom Principato,1
+3241,Time and Pressure,1
+3242,Tim Meadows,1
+3243,Tim McGraw,1
+3244,Tim Hecker,1
+3245,Tim Hardin,1
+3246,"Tim Berg,Avicii",1
+3247,Tilman,1
+3248,"Tigran Hamasyan,Olivier Bogé,Sam Minaie,Jeff Ballard",1
+3249,Tiffany Day,1
+3250,Tierra Whack,1
+3251,Tia Blake,1
+3252,Thunderclap Newman,1
+3253,Thrice,1
+3254,Three1989,1
+3255,Three Dog Night,1
+3256,Timmy Regisford,1
+3257,Timothy Leary,1
+3258,Tinariwen,1
+3259,Together Pangea,1
+3260,Tom Paxton,1
+3261,Tom Odell,1
+3262,Tom Nehls,1
+3263,"Tokischa, Paulus Music & Yomel El Meloso",1
+3264,Tokischa & ROSALÍA,1
+3265,Tokenai Namae,1
+3266,Toad the Wet Sprocket,1
+3267,Tinashe,1
+3268,Tiwa Savage & Asake,1
+3269,Tito Rodríguez,1
+3270,Tito El Bambino,1
+3271,Tirakiss,1
+3272,Tion Wayne,1
+3273,Tiny Tim,1
+3274,Trey Songz,1
+3275,Tricky,1
+3276,VST & Company,1
+3277,ULTRABABYFAT -,1
+3278,Unown,1
+3279,Uncle Tupelo,1
+3280,Umphrey's McGee,1
+3281,Ulver,1
+3282,Ultimate Fakebook,1
+3283,Ulrika Spacek,1
+3284,Ui,1
+3285,URSA MINOR -,1
+3286,URBATIONS -,1
+3287,UQiYO,1
+3288,UPSAHL,1
+3289,UP10TION,1
+3290,UNKLE,1
+3291,UNCLE VIC -,1
+3292,UNCLE TUPELO -,1
+3293,Unsung Heroes,1
+3294,Unwed Sailor,1
+3295,Unwind The Clock,1
+3296,VILLIANS -,1
+3297,VROMANCE,1
+3298,VLAD -,1
+3299,VIZE & R3HAB,1
+3300,VISIONSTAIN -,1
+3301,VIOLIN,1
+3302,VINYL DEVOTION -,1
+3303,VICTORIA WILLIAMS -,1
+3304,VAMBO MARBLE EYE -,1
+3305,VIC MENSA,1
+3306,VELORE & DOUBLE-O -,1
+3307,VAULTWRAITH -,1
+3308,VARIANT CAUSE -,1
+3309,VANITY 6 -,1
+3310,VANISHING GIRL & Rosemary Fairweather,1
+3311,UNBELIEVABLE JOLLY MACHINE -,1
+3312,ULTERIOR MOTIVE -,1
+3313,Trillville,1
+3314,UGLY AMERICANS -,1
+3315,Turnpike Troubadours,1
+3316,Turnabout,1
+3317,Tulips Ballad,1
+3318,Tsehaytu Beraki,1
+3319,Truth Cult,1
+3320,Truth Club,1
+3321,Truk,1
+3322,Troye Sivan & Kacey Musgraves,1
+3323,Troy & Gabriella,1
+3324,Tropical Fuck Storm,1
+3325,Trophy Eyes,1
+3326,Trixie Mattel,1
+3327,Triv,1
+3328,"Trish Clowes,Chris Montague,Ross Stanley,James Maddren",1
+3329,Trippie Redd & PARTYNEXTDOOR,1
+3330,Twenty One Pilots,1
+3331,Twice,1
+3332,Twin Shadow,1
+3333,U.N.P.O.C.,1
+3334,UGK,1
+3335,UFO Över Lappland,1
+3336,UBANGIS -,1
+3337,UB40,1
+3338,U.S.A. for Africa,1
+3339,U.S. Christmas,1
+3340,Tyree Colion,1
+3341,Twisted Wheel,1
+3342,Tyler Childers,1
+3343,Tyler Burkhart,1
+3344,Tyler Bates,1
+3345,Tyga,1
+3346,Ty Segall,1
+3347,Two Outta Millions,1
+3348,Wound Man,1
+3349,Writhing,1
+3350,ThouxanBandFauni,1
+3351,slowthai,1
+3352,slidesta,1
+3353,skaiwater,1
+3354,simon & garfunkel,1
+3355,shy kids,1
+3356,see playlist last week,1
+3357,scruffpuppie,1
+3358,salvia palth,1
+3359,russian.girls,1
+3360,rhyu,1
+3361,rei harakami,1
+3362,redveil & Denzel Curry,1
+3363,quannnic,1
+3364,push baby,1
+3365,pizzagirl,1
+3366,pixies,1
+3367,slom,1
+3368,snowy sky,1
+3369,Wyd Benny,1
+3370,so soo bin,1
+3371,the moss,1
+3372,the magnetic fields,1
+3373,the breeders,1
+3374,the beatles,1
+3375,tg.blk,1
+3376,ted kamal,1
+3377,taylor swift,1
+3378,"takeo,tiffi",1
+3379,t.A.T.u.,1
+3380,t e l e p a t h テレパシー能力者,1
+3381,säje,1
+3382,swiftly,1
+3383,sunshine blvd.,1
+3384,"stories,Lizzy McAlpine",1
+3385,"stories,Bruno Major",1
+3386,pilotredsun,1
+3387,philharmonia orchestra,1
+3388,petitMaurice,1
+3389,partynextdoor,1
+3390,meat computer,1
+3391,matraca.net,1
+3392,masalla,1
+3393,marvelito,1
+3394,martha valez,1
+3395,mark william lewis,1
+3396,malco2m,1
+3397,maNga,1
+3398,lynrd skynrd,1
+3399,lilbootycall,1
+3400,lil ricefield,1
+3401,late night drive home,1
+3402,kyabba,1
+3403,keshi,1
+3404,keith mlevhu,1
+3405,melancholiaah,1
+3406,melanie martinz,1
+3407,mike.,1
+3408,nouns,1
+3409,pH-1,1
+3410,overpass,1
+3411,one direction,1
+3412,off the menu,1
+3413,nurnburg,1
+3414,noveltysongs,1
+3415,noguchii,1
+3416,missy sammy J,1
+3417,noche de brijas,1
+3418,musical fungus,1
+3419,musclecars,1
+3420,"mulan, lea salonga",1
+3421,mohiveer,1
+3422,mitouh,1
+3423,the push kings,1
+3424,the rolling stones,1
+3425,the zombies,1
+3426,アップルズ,1
+3427,東北新幹線,1
+3428,木田高介,1
+3429,我是機車少女,1
+3430,尼崎勝司,1
+3431,宋冬野,1
+3432,唐貓SUGARCAT,1
+3433,劉德華,1
+3434,傻子與白痴,1
+3435,今井優子,1
+3436,二手玫瑰乐队,1
+3437,二手玫瑰,1
+3438,九连真人,1
+3439,中原めいこ,1
+3440,丢火车乐队,1
+3441,ベルベラリーン,1
+3442,森園勝敏,1
+3443,横倉裕,1
+3444,溫室雜草,1
+3445,莫文蔚,1
+3446,黃品源,1
+3447,須藤 薫,1
+3448,阿冗,1
+3449,鄭宜農,1
+3450,西岡恭蔵,1
+3451,藤真利子,1
+3452,缺省,1
+3453,濱田 金吾,1
+3454,竹中直人,1
+3455,福永恵規,1
+3456,石渡マキ＆コロムビアゆりかご会,1
+3457,矢島 賢,1
+3458,片岡鶴太郎,1
+3459,無妄合作社,1
+3460,スーパー・パンプキン,1
+3461,⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ,1
+3462,"tiffi,City Girl",1
+3463,✮ 🎀 #𝐵𝑅𝒢 🎀 ✮,1
+3464,"xR, Madge & Moon Bounce",1
+3465,will.i.am,1
+3466,wide awake,1
+3467,weston koury,1
+3468,waveform*,1
+3469,veggi,1
+3470,underscores,1
+3471,"umru,Banoffee",1
+3472,umru & Cecile Believe,1
+3473,twocolors,1
+3474,tripleS,1
+3475,trauma ray,1
+3476,torr,1
+3477,tomppabeats,1
+3478,tob!,1
+3479,xaptiox,1
+3480,xyro-yro,1
+3481,young friend,1
+3482,Øresund Space Collective,1
+3483,‎,1
+3484,ً,1
+3485,פונץ׳,1
+3486,Łaszewo,1
+3487,Đen,1
+3488,úna blue & Nailbeds,1
+3489,"Ö,Nömak",1
+3490,yu jae ha,1
+3491,Étienne Daho,1
+3492,¿Téo?,1
+3493,zara larrson,1
+3494,zambia broadway quintet,1
+3495,yvngxchris,1
+3496,yunè pinku,1
+3497,keane,1
+3498,kanye west,1
+3499,k.d. lang,1
+3500,Young Knives,1
+3501,Yung Gravy,1
+3502,Yuna,1
+3503,Yumi Zouma,1
+3504,Yumi Seino,1
+3505,Yuko Ishikawa,1
+3506,Yukihiro Takahashi,1
+3507,Yuji Ohno,1
+3508,Yuji,1
+3509,Yugo Kanno,1
+3510,Yuga,1
+3511,Yucky Duster,1
+3512,Youth of Today,1
+3513,Your Neighbors,1
+3514,Your Favorite Color,1
+3515,Young Rapids,1
+3516,YungManny,1
+3517,Yura Yura Teikoku,1
+3518,YuriXkiss,1
+3519,Zac Brown Band,1
+3520,Zay Ade,1
+3521,Zauberei,1
+3522,Zapp,1
+3523,Zach Bryan,1
+3524,Zach Benson,1
+3525,"Zac Brown Band, Jimmy Buffett",1
+3526,ZUN,1
+3527,Yurie Kokubu,1
+3528,ZOOM -,1
+3529,ZAZ,1
+3530,ZANY GUYS -,1
+3531,Yvonne Elliman,1
+3532,"Yuu Miyashita, NILFRUITS",1
+3533,Yutzy,1
+3534,Young Prisms,1
+3535,Youandewan,1
+3536,Zen/it,1
+3537,You & The Explosion Band,1
+3538,YELLOWBELLY -,1
+3539,YEIN,1
+3540,YDI -,1
+3541,YASUAKI SHIMIZU,1
+3542,YAMA//SATO & Louis Culture,1
+3543,Y'all,1
+3544,XweaponX,1
+3545,Xscape,1
+3546,"Xiu Xiu,Liz Harris",1
+3547,Xinlisupreme,1
+3548,Xillions,1
+3549,Xander,1
+3550,X-Ray Spex,1
+3551,X-DREAMS -,1
+3552,X -,1
+3553,YENA,1
+3554,YOUNG FRESH FELLOWS -,1
+3555,YUKI,1
+3556,Yoe Mase,1
+3557,Yot Club,1
+3558,Yosuf,1
+3559,Yoshitaka Minami,1
+3560,Yorkston/Thorne/Khan,1
+3561,Yolanda Duke,1
+3562,Yoko Ono & Blow Up,1
+3563,Ync Capo,1
+3564,YUKIKA,1
+3565,Yiruma,1
+3566,Yim Yames,1
+3567,Yellowcard,1
+3568,Yeasayer,1
+3569,Yasuha,1
+3570,YUNGBLUD & Halsey,1
+3571,"Zedd, Maren Morris & Grey",1
+3572,Zendaya,1
+3573,k-os,1
+3574,diljit Dosajh,1
+3575,exxy44,1
+3576,ernest rareberrg,1
+3577,ericdoa,1
+3578,erasure,1
+3579,envy,1
+3580,elliotly,1
+3581,ella jane,1
+3582,egode4th,1
+3583,eevee,1
+3584,edna,1
+3585,echo,1
+3586,easyFun,1
+3587,easy life & BENEE,1
+3588,dvsn,1
+3589,dr footswitch,1
+3590,fairies in our house,1
+3591,"ford.,imagiro,Barrie",1
+3592,frog,1
+3593,i9bonsai,1
+3594,joe hisaishi,1
+3595,jennylee,1
+3596,jackson,1
+3597,iwaata,1
+3598,inhaler,1
+3599,igor stravinsky,1
+3600,healy,1
+3601,fromis_9,1
+3602,greek,1
+3603,gnash,1
+3604,georgee,1
+3605,george michael,1
+3606,"geeta zalidar, deepak dhillon, jassi X",1
+3607,gabby start,1
+3608,"dj poolboi,Su Lee",1
+3609,datfootdive,1
+3610,Zhou Xuan,1
+3611,corook,1
+3612,baby guts,1
+3613,asap ant,1
+3614,"alyona alyona,Jerry Heil,Monika LIU",1
+3615,alyona alyona,1
+3616,almost monday,1
+3617,alliance hall dixieland band,1
+3618,alice clark,1
+3619,air,1
+3620,aimyon,1
+3621,[500] Days Of Summer - Music From The Motion Picture,1
+3622,Zé Roberto,1
+3623,Zombi,1
+3624,Zlatan;Burna Boy,1
+3625,Ziúr,1
+3626,Ziad Rahbani,1
+3627,bar italia,1
+3628,bbno$,1
+3629,bbno$ & Diamond Pistols,1
+3630,callmestevieray,1
+3631,column,1
+3632,christopher montgomery,1
+3633,chris bell,1
+3634,chloe moriondo,1
+3635,carpetgarden,1
+3636,carly rae jepsen,1
+3637,bye2,1
+3638,beach house,1
+3639,burning spear,1
+3640,brb.,1
+3641,boards of canada,1
+3642,blink-182,1
+3643,blackbear,1
+3644,bella poarch,1
+3645,Thouxanbanfauni & Black Kray,1
+3646,Thornhill,1
+3647,Sir Woman,1
+3648,Sweet Home,1
+3649,Sweatson Klank,1
+3650,Sway,1
+3651,Swans,1
+3652,Swan Meat,1
+3653,Suzuki Saint,1
+3654,Suzi Wu,1
+3655,Susan Tedeschi,1
+3656,Susan Christie,1
+3657,Surfing,1
+3658,Sure Sure,1
+3659,Superstar Quamallah & DeQawn,1
+3660,Superfruit,1
+3661,Superbloom,1
+3662,SuperM,1
+3663,SupahBadd,1
+3664,Sweeping Promises,1
+3665,Sweet Honey In The Rock,1
+3666,Teen Mortgage,1
+3667,Sweet Pill,1
+3668,TEEN,1
+3669,TARANTUALA GHOUL & HER GRAVEDIGGERS -,1
+3670,TAEYANG,1
+3671,TAEIL,1
+3672,T-SQUARE,1
+3673,T Rex,1
+3674,"System 7,Derrick May",1
+3675,Syrex,1
+3676,Syd Barrett,1
+3677,SwuM & Jinsang,1
+3678,Swirlies,1
+3679,Swing Slow,1
+3680,Swet Shop Boys,1
+3681,Sweetwater,1
+3682,Sweet Thing,1
+3683,Sunset Rubdown,1
+3684,Sunny War,1
+3685,Sunny Day Service,1
+3686,Sungrazers,1
+3687,Suckafreejuice,1
+3688,Subtle Pride,1
+3689,Sub Zero Project,1
+3690,Stu Brooks,1
+3691,Strychnos,1
+3692,Strike,1
+3693,Strictly Ballroom,1
+3694,Streets of Laredo,1
+3695,Strawbs,1
+3696,Strawberry Milk Cult,1
+3697,Strange Fruit Project,1
+3698,Storyville,1
+3699,Stoop Kids,1
+3700,Stoned Cobra,1
+3701,Stone the Crows,1
+3702,Sugababes,1
+3703,Sugar Babe,1
+3704,Sugar Plant,1
+3705,Sunami,1
+3706,Sungrazer,1
+3707,Sunflower Bean,1
+3708,"Sunday Scaries,PiCKUPLiNES",1
+3709,Sundara Karma,1
+3710,Sundance Head,1
+3711,Sunbear,1
+3712,Sun Ra and His Arkestra & June Tyson,1
+3713,Sugar Ray,1
+3714,Sun Ra Quartet,1
+3715,Sun Ra & His Interplanetary Vocal Arkestra,1
+3716,Summrs,1
+3717,Sultan + Shepard,1
+3718,Suis La Lune,1
+3719,Suicide Silence,1
+3720,TEENAGE FANCLUB -,1
+3721,THE CHORDETTES -,1
+3722,THE CORVETS -,1
+3723,TRAITRS,1
+3724,Takeoff,1
+3725,Takayoshi,1
+3726,Takako Mamiya,1
+3727,Table,1
+3728,Ta-ku,1
+3729,"TWOPILOTS,De Hofnar,Kav Verhouzer",1
+3730,TV TOY -,1
+3731,TV Priest,1
+3732,TUX DENTIST -,1
+3733,TUMBLEWEED -,1
+3734,TSHA,1
+3735,TRUMANS WATER -,1
+3736,TROUBLE FUNK -,1
+3737,TRIO -,1
+3738,TRIO,1
+3739,Takuya Eguchi,1
+3740,Talk Talk,1
+3741,Tamaryn,1
+3742,Team U.S.A.,1
+3743,Teedra Moses & KAYTRANADA,1
+3744,Tee Grizzley,1
+3745,Teddy & The Rough Riders,1
+3746,Ted Nugent,1
+3747,"Tears For Fears,Dave Bascombe",1
+3748,TeamTaj,1
+3749,Team Sleep,1
+3750,Tammi Terrell & Marvin Gaye,1
+3751,Team Mekano,1
+3752,Taylor Dayne,1
+3753,Tasha Cobbs Leonard,1
+3754,Tash Sultana,1
+3755,"Tapes,Milo Gore,FARE",1
+3756,Tanya Tucker,1
+3757,TRESHINO,1
+3758,TOOL,1
+3759,THE CRAVATS -,1
+3760,TONY JOE WHITE -,1
+3761,THE TRANS MEGETTI -,1
+3762,THE SUGARGLIDERS -,1
+3763,THE SQUARE,1
+3764,THE ROCKET SCIENTIST -,1
+3765,THE RICHARD WOLFE CHILDREN'S CHOIR -,1
+3766,THE RECEPTIONISTS -,1
+3767,THE PASTELS -,1
+3768,THE NEED -,1
+3769,THE FROGS -,1
+3770,"THE DRIVER ERA, Ross Lynch & Rocky",1
+3771,THE DRIVER ERA,1
+3772,THE DESCENDANTS OF MIKE AND PHOEBE,1
+3773,THE DARKEST FUTURE,1
+3774,THE CUFF LINKS -,1
+3775,THE CROWNHATE RUIN -,1
+3776,THE TROJAN PONIES -,1
+3777,THE TWEEDS -,1
+3778,THE TWEETS -,1
+3779,THE WLDLFE,1
+3780,TOKYOPILL,1
+3781,TNS,1
+3782,THRONEUM -,1
+3783,THE ZANY GUYS -,1
+3784,THE YOUNG RASCALS -,1
+3785,THE YARD SALE -,1
+3786,THE WHITE OUTS -,1
+3787,THE VAN PELT -,1
+3788,THE WEREFROGS -,1
+3789,THE VSS -,1
+3790,THE VOGUES -,1
+3791,THE VIOLETS -,1
+3792,THE VIBROSONICS -,1
+3793,THE VARIATIONS -,1
+3794,"Sting, Shaggy",1
+3795,Still Corners,1
+3796,Stiff Dylans,1
+3797,Slint,1
+3798,Snazzback,1
+3799,Snakehips,1
+3800,Smushie,1
+3801,Smooth Hound Smith,1
+3802,Smokey Robinson & The Miracles,1
+3803,Smoke Club,1
+3804,Smoke City,1
+3805,Smog,1
+3806,Smithereens,1
+3807,"Smino, JID & Kenny Beats",1
+3808,Smino & Kal Banx,1
+3809,Small Forward,1
+3810,Small Black,1
+3811,Slow Jams,1
+3812,Slothrust,1
+3813,Sneaker Pimps,1
+3814,Sneaks,1
+3815,Snoh Aalegra,1
+3816,SoSo!,1
+3817,Soft Blue Shimmer,1
+3818,Soft Blade,1
+3819,Sofia Carson,1
+3820,Sodikken,1
+3821,Soap,1
+3822,Soaked Oats,1
+3823,So Soo Bin,1
+3824,"Snoop Dogg,Charlie Wilson",1
+3825,"So Much Hope, Buried.",1
+3826,So Long Surfer,1
+3827,Snöleoparden,1
+3828,Snõõper,1
+3829,Snowpoet,1
+3830,Snoop Dogg/Jay-Z/Nate Dogg,1
+3831,Sloppy Jane,1
+3832,Sleigh Bells,1
+3833,Solid Groove,1
+3834,Sleepy Brown,1
+3835,Skyzoo,1
+3836,Sky Larkin,1
+3837,Skusta Clee,1
+3838,Skip & Flip,1
+3839,Skinnned Teen,1
+3840,Skinned Teen,1
+3841,Skiifall & BADBADNOTGOOD,1
+3842,Skepta,1
+3843,Skee-Lo,1
+3844,Skate Stance,1
+3845,Skankin' Pickle,1
+3846,Sk-Hall,1
+3847,Size,1
+3848,Sixpence None the Richer,1
+3849,Sissy Goodhouse,1
+3850,Skyzoo & 9th Wonder,1
+3851,Slant 6,1
+3852,Slaves,1
+3853,Sleater-Kinney & The Linda Lindas,1
+3854,Sleeping With Sirens,1
+3855,Sleeping Dogs,1
+3856,Sleep Walker,1
+3857,Sleater-Kinney & Wilco,1
+3858,Sleater-Kinney & Tyler Cole,1
+3859,Sleater-Kinney & Tunde Adebimpe,1
+3860,Sleater-Kinney & St. Vincent,1
+3861,Slayyyter,1
+3862,Sleater-Kinney & Self Esteem,1
+3863,Sleater-Kinney & NNAMDÏ,1
+3864,Sleater-Kinney & Low,1
+3865,Sleater-Kinney & Jason Isbell and the 400 Unit,1
+3866,Sleater-Kinney & Black Belt Eagle Scout,1
+3867,Sleater-Kinney & Big Joanie,1
+3868,Soichi Terada,1
+3869,Solji,1
+3870,Sticky Fingers,1
+3871,Square One,1
+3872,Statik Selektah,1
+3873,State Champs,1
+3874,Stardust,1
+3875,Starcadian,1
+3876,Standly,1
+3877,Stand Atlantic,1
+3878,Stan Getz & João Gilberto Quartet,1
+3879,Stan Getz & João Gilberto,1
+3880,Stan Getz & Bill Evans,1
+3881,Stan Getz,1
+3882,Stacey Ryan,1
+3883,St. Paul & The Broken Bones,1
+3884,St. Lucia,1
+3885,Squirrel Nut Zippers,1
+3886,Squid,1
+3887,Status Quo,1
+3888,StaySolidRocky,1
+3889,Steely Dan & Tom Scott,1
+3890,Steve Kimock Band,1
+3891,Stevie Dinner,1
+3892,Steve Winwood,1
+3893,Steve Waltner,1
+3894,Steve Reich,1
+3895,Steve Martin and The Toot Uncommons,1
+3896,"Steve Lacy,Fousheé",1
+3897,Steve Earle & The V-Roys,1
+3898,Step,1
+3899,Steve Earle & The Dukes,1
+3900,Steve Aoki,1
+3901,Sterling Knight & Stubby,1
+3902,Stephen Bishop,1
+3903,Stephen Barton & Gordy Haab,1
+3904,Stepdad,1
+3905,Squeeze,1
+3906,Spyres,1
+3907,Son House,1
+3908,Spot,1
+3909,Soul Capsule,1
+3910,Sordid Blade,1
+3911,Sorcha Richardson,1
+3912,Sopwith Camel,1
+3913,Sophie Faith,1
+3914,Sophia James,1
+3915,Sonu Nigam,1
+3916,Sonny Sharrock,1
+3917,Sonny Boy Wiliamson II,1
+3918,Sonna,1
+3919,Sonic Boom & Spectrum,1
+3920,Sonic Blume,1
+3921,Son of Cloud,1
+3922,Son Lux & Moses Sumney,1
+3923,Son Little,1
+3924,Souls of Mischief,1
+3925,Sound of Ceres,1
+3926,Southern Belle Recordings,1
+3927,Speedy Ortiz,1
+3928,Sports Coach,1
+3929,Sports,1
+3930,SpongeBob SquarePants,1
+3931,"Spira me, With3r & Sg37",1
+3932,Spira me,1
+3933,Spinal Tap,1
+3934,Speedometer,1
+3935,Sovelenzz,1
+3936,Specifics,1
+3937,Sparks,1
+3938,Spaceface & Wizaard,1
+3939,Spaceface,1
+3940,SpaceGhostPurrp,1
+3941,Soviet Suprem,1
+3942,Teejayx6,1
+3943,Teenage Priest,1
+3944,Thomas Newman,1
+3945,The Orielles,1
+3946,The Octopus Project,1
+3947,The Nychillharmonic,1
+3948,The Nude Party,1
+3949,The Nor'easters,1
+3950,The New Keys,1
+3951,The New Duncan Imperials,1
+3952,The Nerves,1
+3953,The Mothers of Invention,1
+3954,The Monks,1
+3955,The Modern Jazz Quartet,1
+3956,The Mod Fun,1
+3957,The Miracle Workers,1
+3958,The Millennial Club,1
+3959,The Midnight,1
+3960,The Meters,1
+3961,The Olympians,1
+3962,The Outsiders,1
+3963,Teezo Touchdown,1
+3964,The PC's Ltd,1
+3965,The Raconteurs,1
+3966,The Purple Sun,1
+3967,The Public,1
+3968,The Protomen,1
+3969,The Promise Ring,1
+3970,The Prodigy,1
+3971,The Ponderosa Twins Plus One,1
+3972,The Polyphonic Spree,1
+3973,The Pogues,1
+3974,The Pleasure Seekers,1
+3975,The Pink Stones,1
+3976,The Pietasters,1
+3977,The Pied Pipers,1
+3978,The Paranoyds,1
+3979,The Pandoras,1
+3980,The Menstrual Cramps,1
+3981,The Melody Mates,1
+3982,The Mastersons,1
+3983,The Mars Volta,1
+3984,The Kingston Springs,1
+3985,The Kings Of Frog Island,1
+3986,The King Tones & Marie,1
+3987,The Kills,1
+3988,The Kennedy's,1
+3989,The Julie Ruin,1
+3990,The Juan MacLean,1
+3991,The Jim Yoshii Pile-Up,1
+3992,The Jesus and Mary Chain,1
+3993,The Jackets,1
+3994,The J.B.,1
+3995,The J. Geils Band,1
+3996,The Intruders,1
+3997,The Icemen,1
+3998,The Hush Sound,1
+3999,"The Koreatown Oddity, Baby Rose & C.S. Armstrong",1
+4000,The Last Picture Show,1
+4001,The Last Shadow Puppets,1
+4002,The Lost Patrol,1
+4003,The Marcus King Band,1
+4004,The Maine,1
+4005,The Main Ingredient,1
+4006,The Maccabees,1
+4007,The Luka State,1
+4008,The Lucksmiths,1
+4009,The Longest Johns,1
+4010,The Lazy Eyes,1
+4011,The Long Winters,1
+4012,The Locust,1
+4013,The Lively Ones,1
+4014,The Limiñanas,1
+4015,The Lemon Pipers,1
+4016,The Lebron Brothers,1
+4017,The Radio Dept.,1
+4018,The Rare Occasions,1
+4019,The Raveonettes,1
+4020,The Temper Trap,1
+4021,The Voices of East Harlem,1
+4022,The Vipers,1
+4023,The Verve,1
+4024,The Veronicas,1
+4025,The Velveteens,1
+4026,The Vaughan Brothers,1
+4027,The Vamps,1
+4028,The V-Roys,1
+4029,The Universals,1
+4030,The Unicorns,1
+4031,The Underground Set,1
+4032,The Ultimate Spinach,1
+4033,The Twilight Sad,1
+4034,The Tubs,1
+4035,The Traveling Wilburys,1
+4036,The Wailin' Jennys,1
+4037,The Walker Brothers,1
+4038,The Wanktones,1
+4039,Thea Gilmore And Mike Cave,1
+4040,This Mortal Coil,1
+4041,Third World,1
+4042,Thieves Brigade,1
+4043,Thievery Corporation,1
+4044,Thick,1
+4045,Thee Mighty Caesars,1
+4046,The Young Veins,1
+4047,The Washington Squares,1
+4048,The Wrens,1
+4049,The Woggles,1
+4050,The Winstons,1
+4051,The Whirlings,1
+4052,The Weather Girls,1
+4053,The Waterboys,1
+4054,The Third Mind,1
+4055,The Teeth,1
+4056,The Re-Stoned,1
+4057,The Technicolors,1
+4058,The Sequence,1
+4059,The Sensations,1
+4060,The Secret Sisters,1
+4061,The Searchers,1
+4062,The Script,1
+4063,The Scofflaws,1
+4064,The Rustavi Choir,1
+4065,The Rumour,1
+4066,The Ruiners,1
+4067,The Rondelles,1
+4068,The Romantics,1
+4069,The Rick Ray Band,1
+4070,The Reytons,1
+4071,The Reese Project,1
+4072,The Record Company,1
+4073,The Shakes,1
+4074,The Sheepdogs,1
+4075,The Shirelles,1
+4076,The Squids,1
+4077,The Symposium,1
+4078,The Swimming Pool Q's,1
+4079,The Surf Trio,1
+4080,The Sunshine Underground,1
+4081,The Strikers,1
+4082,The Stone Roses,1
+4083,The Square,1
+4084,The Signal - Parius - The Signal Heard Throughout Space,1
+4085,The Specials,1
+4086,The Soundcarriers,1
+4087,The Soul Syndicate,1
+4088,The Smithereens,1
+4089,The Slip,1
+4090,The Silver Field,1
+4091,The Human League,1
+4092,The Hooters,1
+4093,The Hoosiers,1
+4094,The Atomic Fireballs,1
+4095,The Blind Spots,1
+4096,The Blacks,1
+4097,The Black Skirts,1
+4098,The Black Lips,1
+4099,The Black Canyon Gang,1
+4100,The Bird and the Bee,1
+4101,The Big Pink,1
+4102,The Beta Band,1
+4103,The Besnard Lakes,1
+4104,The Beau Brummels,1
+4105,The Bats,1
+4106,The Barefoot Movement,1
+4107,The Barden Bellas,1
+4108,The Band of an Garda Síochána,1
+4109,The Bakerton Group,1
+4110,The Blog (Digitally Remastered),1
+4111,The Blues Brothers,1
+4112,The Blues Project,1
+4113,Pearl and the Beard,1
+4114,The Chemical Brothers,1
+4115,The Chameleons,1
+4116,The Chainsmokers,1
+4117,"The Cast of High School Musical, Zac Efron, Lucas Grabeel & Olesya Rulin",1
+4118,The Buzzin' Cousins,1
+4119,The Burden,1
+4120,The Buffalo Bunch,1
+4121,The Boomtown Rats,1
+4122,The Buckinghams,1
+4123,The Brothers Johnson,1
+4124,The Brook & The Bluff,1
+4125,The Brobecks,1
+4126,The Boy Least Likely To,1
+4127,The Bottle Rockets,1
+4128,The Aubreys,1
+4129,The Aquabats!,1
+4130,The Chicken Chokers,1
+4131,The Antlers,1
+4132,Terry Callier,1
+4133,Terry Anderson,1
+4134,Terry Allen,1
+4135,Terror Jr,1
+4136,Teriyaki Boyz,1
+4137,Tera Melos,1
+4138,Tenniscoats,1
+4139,"Tenderness, Dave Lee",1
+4140,Ten East,1
+4141,Tems,1
+4142,Temple of the Dog,1
+4143,Television,1
+4144,Telepath,1
+4145,Tekle Tesfa-ezghi,1
+4146,Tego Calderón,1
+4147,Terry Presume,1
+4148,Terry Reid,1
+4149,Tesfa-Maryam Kidane,1
+4150,The Alpha Band,1
+4151,The Analogue Cops,1
+4152,The Anabolics,1
+4153,The Amps,1
+4154,The Amazons,1
+4155,The Amazing Devil,1
+4156,The Altogether,1
+4157,The Aislers Set,1
+4158,Test Icicles,1
+4159,The Agnes Circle,1
+4160,The Abyssinians,1
+4161,The 5.6.7.8's,1
+4162,That Dog.,1
+4163,Thao & The Get Down Stay Down,1
+4164,Texako & RewindRaps,1
+4165,The Chemistry Set,1
+4166,The Chipmunks,1
+4167,The Honeysticks & Ricky Montgomery,1
+4168,The Field Mice,1
+4169,The Garifuna Collective,1
+4170,The Garcia Brothers,1
+4171,The Gap Band,1
+4172,"The Game,50 Cent",1
+4173,The Futureheads,1
+4174,The Future Sound of London,1
+4175,The Fuss,1
+4176,The Fun Company,1
+4177,The Froys,1
+4178,The Frigid Pink,1
+4179,The Folksmen,1
+4180,The Flying Lizards,1
+4181,The Flying Burrito Brothers,1
+4182,The Fleetwoods,1
+4183,The Flamingos,1
+4184,The Gathering,1
+4185,The Gil Evans Orchestra,1
+4186,The Go Go's,1
+4187,The Help,1
+4188,The Honey Drippers,1
+4189,The Holydrug Couple,1
+4190,The Hollies,1
+4191,The Hold Steady,1
+4192,The Hippos,1
+4193,The High Curbs,1
+4194,The Heavy Heavy,1
+4195,The Golden Dawn,1
+4196,The Heavy,1
+4197,The Head And The Heart,1
+4198,The HU,1
+4199,The Guess Who,1
+4200,The Gruesomes,1
+4201,The Goo Goo Dolls,1
+4202,The Firesign Theatre,1
+4203,The Feminine Complex,1
+4204,The Chordettes,1
+4205,The Fabulous Flames,1
+4206,The Deep Dark Woods,1
+4207,The Dears,1
+4208,The Dead Milkmen,1
+4209,The Dave Brubeck Quartet,1
+4210,The Dark Aether Project,1
+4211,The Crest Four Singers,1
+4212,The Crane Wives,1
+4213,The Cows,1
+4214,The Coward's Way - In The Woods... - Diversum,1
+4215,The Courtneys,1
+4216,The Comet Is Coming,1
+4217,The Clovers,1
+4218,The Cleaners From Venus,1
+4219,The Civil Wars,1
+4220,The Church,1
+4221,The Deli,1
+4222,The Deslondes,1
+4223,The Diamondheads,1
+4224,The Dubliners,1
+4225,The Escorts,1
+4226,The Enemy,1
+4227,The Emotions,1
+4228,The Electric Peanut Butter Company,1
+4229,The Edgar Winter Group,1
+4230,The Dunts,1
+4231,The Drifters,1
+4232,The Diamonds,1
+4233,The Dream Syndicate,1
+4234,The Doorbeen,1
+4235,The Distillers,1
+4236,The Dip,1
+4237,The Dimensions,1
+4238,The Diddys; Paige Douglas,1
+4239,The Buoys,1
+4240,MY FAVORITE -,1
+4241,Peaness,1
+4242,Dinah Washington,1
+4243,Dimension,1
+4244,Diljit Dosanjh,1
+4245,Digital Underground,1
+4246,Different Heaven,1
+4247,Dido,1
+4248,Diddy - Dirty Money & Skylar Grey,1
+4249,Dick Dale,1
+4250,"Diane Cluck,Jeffrey Lewis",1
+4251,Diane Cluck,1
+4252,Dexter Gordon,1
+4253,Dew,1
+4254,Devonte Hynes,1
+4255,Devon Again,1
+4256,Devon,1
+4257,Devo,1
+4258,Devil Doll,1
+4259,Devan,1
+4260,"Dimension, Culture Shock & Billy Lockett",1
+4261,"Ding Dong, Stadic & Jonny Blaze",1
+4262,Desperate Measures,1
+4263,Dino Valente,1
+4264,Dominic,1
+4265,Dolphy Kick Bebop,1
+4266,"Dolly Parton, Kenny Rogers",1
+4267,Doctor Avalanche - Falling Colossus - Funeral Mixtape,1
+4268,Doc Watson,1
+4269,Djoko,1
+4270,Dj Billybool,1
+4271,Dizzy K.,1
+4272,"Dizzy Gillespie, Sonny Rollins & Sonny Stitt",1
+4273,Dizzy Gillespie and His Sextet,1
+4274,Dissolve,1
+4275,Disperser CA,1
+4276,Disney,1
+4277,Discoholic,1
+4278,Disclosure,1
+4279,Dirk Brossé & Flemish Radio Orchestra,1
+4280,Diplo,1
+4281,Destruction Song - Earthride - Something Wicked,1
+4282,Descendents,1
+4283,Clams Casino,1
+4284,Dear and the Headlights,1
+4285,Deap Vally,1
+4286,Deante' Hitchcock,1
+4287,Dean Martin,1
+4288,Dead End Cowboys,1
+4289,DeVotchKa,1
+4290,DePrime,1
+4291,De La Soul,1
+4292,De Hofnar & Giocatori,1
+4293,Dazy,1
+4294,Dazey and the Scouts,1
+4295,Dayzed,1
+4296,Daydream Twins,1
+4297,Daya,1
+4298,Day Wave,1
+4299,Day One,1
+4300,David Wilcox,1
+4301,David Scott,1
+4302,Dear Nora,1
+4303,Death In Vegas,1
+4304,Derrick May,1
+4305,Debbie Taylor,1
+4306,Derek and The Dominoes,1
+4307,Dennis Wilson,1
+4308,Dennis Brown,1
+4309,Dengue Fever,1
+4310,Delv,1
+4311,Delta Heavy,1
+4312,Delano Smith,1
+4313,Del The Funky Homosapien,1
+4314,Del Amitri,1
+4315,Dehiscent - Faceless Burial - At The Foothills Of Deliration,1
+4316,Deer Tick,1
+4317,Deepspacepilots,1
+4318,Deep Sleep Ops,1
+4319,Deep Sea Peach Tree,1
+4320,Deep Blue Something,1
+4321,Declan Welsh and The Decadent West,1
+4322,Decepticonz,1
+4323,Dominica,1
+4324,Domo,1
+4325,Dompe,1
+4326,ERRA,1
+4327,"ELIO,Charli XCX",1
+4328,"ELIO,Adam Melchor",1
+4329,ELEVATION RHYTHM,1
+4330,Dylan Earl,1
+4331,Dwellings,1
+4332,Dwayne Johnson,1
+4333,Dvnots,1
+4334,Dutchmassive,1
+4335,Dusty Springfield,1
+4336,Durand Jones & The Indications,1
+4337,"Dur-Dur Band,Sahra Dawo",1
+4338,Duo Los Compadres,1
+4339,Dukes of Dixieland,1
+4340,Duke Ellington & Louis Armstrong,1
+4341,Duke Ellington & His Famous Orchestra,1
+4342,Duffy Power,1
+4343,Dudu Tassa,1
+4344,ENON -,1
+4345,ESG,1
+4346,Don Caballero,1
+4347,ESPRIT 空想 & George Clanton,1
+4348,Ed Sanders,1
+4349,Ed Patrick,1
+4350,Ed Lincoln,1
+4351,Echo Record,1
+4352,Echo & the Bunnymen,1
+4353,Echo,1
+4354,Ebrahim,1
+4355,Ebo Taylor,1
+4356,Ebi,1
+4357,Easy Life,1
+4358,Earwig,1
+4359,Earl Hooker,1
+4360,Eagle-Eye Cherry,1
+4361,EXO-SC,1
+4362,EXO-CBX,1
+4363,EVIL ANGEL -,1
+4364,EVABOY,1
+4365,DubVision,1
+4366,Dua Lipa; Dimitri From Paris; Moodymann,1
+4367,Dua Lipa & Angèle,1
+4368,Dryft,1
+4369,Doug Hammond,1
+4370,Double Trouble,1
+4371,Double N,1
+4372,Douaa,1
+4373,Dot Da Genius,1
+4374,Doss,1
+4375,Dos Monos,1
+4376,Dori Valentine,1
+4377,Donovan Wolfington,1
+4378,Donna Missal,1
+4379,Donatella Viggiano,1
+4380,Donald Fagen,1
+4381,Don Omar & Lucenzo,1
+4382,Don Omar,1
+4383,Don Medardo y Sus Players,1
+4384,Don Hinson & The Rigamorticians,1
+4385,Don Carlos,1
+4386,Douglas Spotted Eagle,1
+4387,Dove Cameron,1
+4388,Downhill2k01,1
+4389,Dream Ceremony,1
+4390,Dry Bread,1
+4391,Dru Hill,1
+4392,Dred Scott,1
+4393,Dreamville & Cozz,1
+4394,"Dream, Ivory",1
+4395,Dream Wife,1
+4396,Dream Nails,1
+4397,Dream,1
+4398,Downpresser,1
+4399,Dread Zeppelin,1
+4400,Dram,1
+4401,DragonForce,1
+4402,"Dr. John, Aaron Neville",1
+4403,Dr. Hook & The Medicine Show,1
+4404,Dr. Hook,1
+4405,Dozer & Drainhead Macintosh,1
+4406,David Pabon,1
+4407,David Olney & Anana Kaye,1
+4408,David Lynch & Alan Splet,1
+4409,Crazy Design,1
+4410,Cracker,1
+4411,Cowgirl Clue,1
+4412,Cousin Simple,1
+4413,Courtney Marie Andrews,1
+4414,Country Joe McDonald & The Bevis Frond,1
+4415,Country Joe & The Fish,1
+4416,Counterparts,1
+4417,Count Five,1
+4418,Couch,1
+4419,Cosmo's Midnight,1
+4420,Cory Branan,1
+4421,Corridor,1
+4422,Cornelius Link,1
+4423,Cornelius,1
+4424,Cornelia Murr,1
+4425,Corinne West & Kelly Joe Phelps,1
+4426,Coralie Clément,1
+4427,Crafter,1
+4428,Cris Cab,1
+4429,DANDELION FIRE -,1
+4430,Critical Issues,1
+4431,D. Savage,1
+4432,Cup of Joe,1
+4433,Culturist - Auto-da-fé - Culturist / On Artist - Split,1
+4434,Culture Shock,1
+4435,Culprate,1
+4436,Cullen Omori,1
+4437,Cuco Valoy,1
+4438,Cub Koda,1
+4439,Cub,1
+4440,Crybaby,1
+4441,Crushing the Pearly Gates - Deathhammer - Electric Warfare,1
+4442,Cruel Santino,1
+4443,Croy and the Boys,1
+4444,Crowning,1
+4445,Crown the Empire,1
+4446,Crowd Control & DJ Atlance,1
+4447,Crossbones,1
+4448,Cooking Class,1
+4449,Cookin Soul,1
+4450,Cookiee Kawaii,1
+4451,Connie Francis,1
+4452,Cody Fry,1
+4453,CocoRosie,1
+4454,Coco Jones,1
+4455,Coby Petricone-Berg,1
+4456,Cobra Man,1
+4457,Cobra Killer,1
+4458,Coast Modern,1
+4459,Club 8,1
+4460,Clouds Floating Low - Hello Meteor - Welcome To New Cascade,1
+4461,Cloakroom,1
+4462,Claude Debussy,1
+4463,Classified,1
+4464,Classics IV,1
+4465,Clark,1
+4466,Clarissa,1
+4467,"Clarence ""Gatemouth"" Brown",1
+4468,Clare Fischer,1
+4469,Cohen@Mushon,1
+4470,Colby Acuff,1
+4471,Cold Hart,1
+4472,Colonia,1
+4473,Connan Mockasin,1
+4474,Conjunto Clasico,1
+4475,Company of Thieves,1
+4476,Common,1
+4477,Coming Right Up,1
+4478,Combust,1
+4479,Colony House,1
+4480,Collage,1
+4481,Cold Showers,1
+4482,Colin Stetson,1
+4483,Colin Newman,1
+4484,Colin Hay,1
+4485,Colin Hare,1
+4486,Colin Farrell & Jeff Bridges,1
+4487,"Coleman Hawkins, Ben Webster & Oscar Peterson",1
+4488,Coleman Hawkins,1
+4489,D.R. Hooker,1
+4490,DANGERDOOM,1
+4491,David Lindley And El Rayo-X,1
+4492,Dantalian's Chariot,1
+4493,Danny Nad The Fat boys,1
+4494,Danny L Harle,1
+4495,Danny Gatton,1
+4496,Danny Click,1
+4497,Dannii Minogue,1
+4498,Daniel Powter,1
+4499,Daniel Pemberton,1
+4500,Daniel O'Sullivan,1
+4501,Daniel Lanois,1
+4502,Daniel Dimbas,1
+4503,Danger Mouse & Black Thought,1
+4504,Danger Mouse,1
+4505,Dancing On Tables,1
+4506,Dana Vicci,1
+4507,Dan Pickett,1
+4508,Dan Nicholls,1
+4509,Dan Hartman,1
+4510,Danny Tenaglia,1
+4511,Danzig,1
+4512,DATE BAIT -,1
+4513,Dark,1
+4514,David Kauffman,1
+4515,"David Guetta,Becky Hill,Ella Henderson",1
+4516,David Grissom,1
+4517,David Cedeno & His Orchestra,1
+4518,"David Byrne, Fatboy Slim, Alice Russell",1
+4519,Dave Matthews Band,1
+4520,Dave Grusin,1
+4521,Dave Bixby,1
+4522,Dave Berry,1
+4523,Dave Alvin And The Guilty Women,1
+4524,Dave Alvin,1
+4525,Daughters,1
+4526,Datach'i,1
+4527,Dasychira,1
+4528,"Das Sound Machine, Tone Hangers, The Barden Bellas, Green Bay Packers & The Treblemakers",1
+4529,Darude,1
+4530,Darren Morze,1
+4531,Dan England & John Ford Coley,1
+4532,Damnatio Memoriae - Deathsvn - Until the Light Wake Us,1
+4533,Damien Rice,1
+4534,Damaged Bug,1
+4535,DJ Sabrina The Teenage DJ,1
+4536,DJ Premier,1
+4537,DJ LIFELINE,1
+4538,DJ Kuroneko,1
+4539,DJ Khaled,1
+4540,DJ Flex,1
+4541,DJ Difficult,1
+4542,DJ Counselling,1
+4543,DJ Babu,1
+4544,DJ 809,1
+4545,DIONNE WARWICK -,1
+4546,DEIPHAGO -,1
+4547,DEADBOLT -,1
+4548,DC Project,1
+4549,DC & emil,1
+4550,DAVID WERTMAN -,1
+4551,DAVID WERTMAN & LYNNE MERYL -,1
+4552,DJ Snake,1
+4553,"DJ Snake,Rick Ross,Rich Brian",1
+4554,DJ Taye,1
+4555,Da Yoopers,1
+4556,Dalida,1
+4557,Daisuke Tanabe,1
+4558,"Daft Punk,Pharrell Williams,Nile Rodgers",1
+4559,Daddy Yankee,1
+4560,Dabeull & Jordan Lee,1
+4561,Dabeull & Holybrune,1
+4562,DaDa1k,1
+4563,Da Slammin' Phrogz,1
+4564,DJ Vitamin D,1
+4565,DWEEZIL ZAPPA -,1
+4566,"DUDE, MY DUDE",1
+4567,DUCKWRTH & Syd,1
+4568,DPR CREAM,1
+4569,DOPE LEMON,1
+4570,DOGSTAR,1
+4571,DMA'S,1
+4572,Ed's Redeeming Qualities,1
+4573,Edan,1
+4574,Eddie Benjamin,1
+4575,GAPESEED -,1
+4576,G-Pol,1
+4577,G-DRAGON,1
+4578,G a t e w a y ゲートウェイ,1
+4579,G Herbo,1
+4580,G Flip,1
+4581,Fábio Caramuru,1
+4582,Funky Cowboys,1
+4583,Funk Leblanc,1
+4584,Funeral Attire,1
+4585,Fuming Mouth,1
+4586,"Fugees,Ms. Lauryn Hill",1
+4587,Fugees & Lauryn Hill,1
+4588,Fréhel,1
+4589,"Frédéric Chopin,Sebastian Di Bin",1
+4590,Frou Frou,1
+4591,Froogle,1
+4592,Fripps & Fripps,1
+4593,G. Love & Special Sauce,1
+4594,GENE HARRIS -,1
+4595,Gang of Four,1
+4596,GERLING -,1
+4597,Gandalf,1
+4598,Gammer,1
+4599,Galen Tipton,1
+4600,Galaxie 500,1
+4601,Gal Costa,1
+4602,Gaho,1
+4603,Gag,1
+4604,Gaffa Tape Sandy,1
+4605,"Gabry Ponte, R3HAB & Timmy Trumpet",1
+4606,Gabrielle Aplin,1
+4607,Gabby Barrett,1
+4608,Gab Bouchard,1
+4609,GRANDIOSE MALICE -,1
+4610,GOSTBIT -,1
+4611,GODHEADSILO -,1
+4612,GFRIEND,1
+4613,GFOTY,1
+4614,Friko,1
+4615,Frijid Pink,1
+4616,Frightened Rabbit,1
+4617,Friendship,1
+4618,Frankie and the Witch Fingers,1
+4619,Frankie Valli & The Four Seasons,1
+4620,Frankie Valli,1
+4621,Frankie Ruiz,1
+4622,Frankie Knuckles,1
+4623,Frankie Cosmos,1
+4624,Frank Zappa & The Mothers Of Invention,1
+4625,Frank Zappa,1
+4626,Frank Turner,1
+4627,Frank Roberts and his Orchestra,1
+4628,Frank Ricotti,1
+4629,Francis and the Lights,1
+4630,Francis Bebey,1
+4631,Frances Forever,1
+4632,Fraction,1
+4633,"Fozzie, Kermit",1
+4634,Four Tops,1
+4635,"Franz Liszt,André Laplante",1
+4636,"Franz Liszt,Claudio Arrau",1
+4637,Franz Schubert,1
+4638,French Montana,1
+4639,Friendly Fires,1
+4640,Friday Pilots Club,1
+4641,Friday Night,1
+4642,Fresh Blueberry Pancake,1
+4643,Fresh,1
+4644,Frente Cumbiero,1
+4645,Frenesi,1
+4646,French Frith Kaiser Thompson,1
+4647,Françoise Hardy,1
+4648,French Cassettes,1
+4649,Free Range,1
+4650,Free Cake For Every Creature,1
+4651,Fred Neil,1
+4652,Freak Slug,1
+4653,Frazier Chorus,1
+4654,Fraxiom,1
+4655,Gang Starr,1
+4656,Garageland,1
+4657,Foster the People,1
+4658,Goblin,1
+4659,Gnoomes,1
+4660,Glue Trip,1
+4661,Gloria Trevi,1
+4662,Gloria Jones,1
+4663,Gloria Estefan,1
+4664,Gloria Barnes,1
+4665,Global Communication,1
+4666,Gleemer,1
+4667,Gledd,1
+4668,Glass Petals,1
+4669,Glass Beach,1
+4670,Glare,1
+4671,Glance,1
+4672,Gladys Knight & The Pips,1
+4673,Glaascats,1
+4674,Giuliano Sorgini,1
+4675,Girma Hadgu,1
+4676,Go! Child,1
+4677,God Complex,1
+4678,"Garrett Saracho,Adrian Younge,Ali Shaheed Muhammad",1
+4679,Godspeed You! Black Emperor,1
+4680,Gossip,1
+4681,"Gorillaz,ScHoolboy Q",1
+4682,Gorilla Biscuits,1
+4683,Goreshit,1
+4684,Gordon Lightfoot,1
+4685,Googoosh,1
+4686,Good Shoes,1
+4687,Good Sad Happy Bad,1
+4688,Good Morning,1
+4689,Good Dog,1
+4690,Good Day to Die - Skelator - Blood Empire,1
+4691,Gomer Pyle,1
+4692,Golpes Bajos,1
+4693,Golden Boy,1
+4694,GoldLink x Hare Squead,1
+4695,"Gold 88,Kate Aster",1
+4696,Gold,1
+4697,Girma Beyene,1
+4698,Girls Aloud,1
+4699,Girlhood,1
+4700,Girl In a Coma,1
+4701,George Thorogood & The Destroyers,1
+4702,George Strait,1
+4703,George Shearing,1
+4704,George McGregor & The Bronzettes,1
+4705,George McCrae,1
+4706,George Fenton,1
+4707,George Brigman,1
+4708,Genevieve Stokes,1
+4709,Genesis Owusu,1
+4710,Gene Sikora,1
+4711,Gender Roles,1
+4712,"Gemini Rising, Tensnake & Fiora",1
+4713,Gayle,1
+4714,Gay Meat,1
+4715,Gates,1
+4716,Gary's Gang,1
+4717,Garth Knox,1
+4718,Georgia,1
+4719,Georgie James,1
+4720,Gerry Mulligan & Johnny Hodges,1
+4721,Gift,1
+4722,Giorgio Moroder & David Bowie,1
+4723,Giorgio Moroder,1
+4724,Gino Soccio,1
+4725,Gingiot,1
+4726,Gina Young,1
+4727,Gilberto Santa Rosa,1
+4728,Gil Scott Heron,1
+4729,Ghostface Killah,1
+4730,Gertrude Berg & Dan Greenburg,1
+4731,"Ghost of Vroom, Mike Doughty & Andrew Livingston",1
+4732,Ghost Town,1
+4733,Ghost Key,1
+4734,Ghost,1
+4735,Ghetto Brothers,1
+4736,Ghais Guevara & Dazegxd,1
+4737,Get Scared,1
+4738,Fountains Of Wayne,1
+4739,Formulatin Fathers,1
+4740,Eddie Palmieri,1
+4741,Erasure,1
+4742,Eraldo Palmero,1
+4743,Eola,1
+4744,Enya,1
+4745,Enumclaw,1
+4746,Enter the Haggis,1
+4747,Enter Shikari & WARGASM (UK),1
+4748,Enter Shikari,1
+4749,Enrique Iglesias,1
+4750,Enny,1
+4751,Enjoy,1
+4752,Enji,1
+4753,Engelbert Humperdinck,1
+4754,Emoi,1
+4755,Emma Wernig & Albert Cano Smit,1
+4756,Emma Stone,1
+4757,Emily Watts,1
+4758,Emily Nenni,1
+4759,"Erasmo Carlos,Marisa Fossa",1
+4760,Eric B. & Rakim,1
+4761,Everglow,1
+4762,Eric Burdon & The Animals,1
+4763,"Eurythmics, Annie Lennox & Dave Stewart",1
+4764,Europe,1
+4765,Eugène,1
+4766,Etta Baker,1
+4767,Ethereal,1
+4768,Ethan Fields,1
+4769,Estrons,1
+4770,Esthero,1
+4771,"Estelle, Kanye West",1
+4772,Esma Redzepova,1
+4773,Escuela Grind,1
+4774,Erik Satie,1
+4775,Erica Freas,1
+4776,Eric Nam,1
+4777,Eric Mercury,1
+4778,Eric Gales,1
+4779,Eric Carmen,1
+4780,Emile Pandolfi,1
+4781,"Emerson, Lake & Palmer",1
+4782,Emei,1
+4783,Emapea & Kid Abstrakt,1
+4784,Ela Minus & DJ Python,1
+4785,El Último Vecino,1
+4786,El Gran Combo Y Gilberto Santa Rosa,1
+4787,El Fother,1
+4788,El Da Sensei,1
+4789,Eko Roosevelt,1
+4790,Eiko Ishibashi,1
+4791,Ehaam,1
+4792,Egschiglen,1
+4793,EggPlantEgg,1
+4794,Eem Triplin,1
+4795,Eels,1
+4796,Edwin Starr,1
+4797,Edward Sharpe and the Magnetic Zeros,1
+4798,Edith Peters,1
+4799,Edgar Joel,1
+4800,Eddie from Ohio,1
+4801,Electron Sheep,1
+4802,ElementD,1
+4803,Elephant Gym,1
+4804,Elle King,1
+4805,Emanon,1
+4806,Em Beihold,1
+4807,Elvis Depressedly,1
+4808,Elusin,1
+4809,Elton John & Leon Russell,1
+4810,Elmer Bernstein,1
+4811,Ellis Paul,1
+4812,"Ella Henderson,Roger Sanchez",1
+4813,Elettra Lamborghini,1
+4814,Ella Fitzgerald,1
+4815,Elkka,1
+4816,Elizabeth Cotten and Brenda Evans,1
+4817,Eliza Gilkyson,1
+4818,Eliel Krispil,1
+4819,Elias Rahbani,1
+4820,Elf Power,1
+4821,Evan & Jaron,1
+4822,Everybody Luv Black,1
+4823,Forests,1
+4824,Fleeting Joys,1
+4825,Flea,1
+4826,Flax,1
+4827,Five Iron Frenzy,1
+4828,Five Deez,1
+4829,Fitz and The Tantrums,1
+4830,Fit for a King,1
+4831,Fishdoll,1
+4832,Fishbone,1
+4833,First Aid Kit,1
+4834,Fireballs,1
+4835,Fire-Toolz,1
+4836,Fire Sign Theatre,1
+4837,Fiona Apple & Jon Brion,1
+4838,Finn Foxell,1
+4839,Fine Young Cannibals,1
+4840,Film Noir,1
+4841,Filanos,1
+4842,Fleece,1
+4843,Flip Wilson,1
+4844,Everything But The Girl,1
+4845,Flo & Eddie,1
+4846,Foreal People,1
+4847,Force of Nature,1
+4848,Folly Group,1
+4849,Folk Implosion,1
+4850,Folamour,1
+4851,Fm Forest,1
+4852,"Flying Lotus,Kendrick Lamar",1
+4853,Flux Pavilion,1
+4854,Flowers For The Dead,1
+4855,Floreyyyy,1
+4856,Florante,1
+4857,Floating Points & Pharoah Sanders,1
+4858,Floating Action,1
+4859,Floatie,1
+4860,FloFilz,1
+4861,"Flo Rida, T-Pain",1
+4862,Flo Milli,1
+4863,Field Medic,1
+4864,Fidde,1
+4865,Fever the Ghost,1
+4866,Fernando Chevere Zubiria,1
+4867,Faceplant,1
+4868,"Fabich, Pastel & Jafunk",1
+4869,Fabian Mendoza,1
+4870,FUCKED UP -,1
+4871,FUCK -,1
+4872,FRR FONK,1
+4873,FR:EDEN,1
+4874,FLIN FLON -,1
+4875,FLEMMING,1
+4876,FISHER,1
+4877,FIDLAR,1
+4878,Ezrael,1
+4879,Ezra Furman,1
+4880,Ezra Collins,1
+4881,Exuma,1
+4882,Experimental Audio Research,1
+4883,Evinha,1
+4884,Fadoul,1
+4885,Fake Fruit,1
+4886,Falle Nioke,1
+4887,Farrah Abraham,1
+4888,Fergie,1
+4889,Felix da Housecat,1
+4890,Feed Me Jack,1
+4891,Feed Me & Kill the Noise,1
+4892,Federico D'Alessio,1
+4893,Fearing,1
+4894,Fats Waller,1
+4895,Faraquet,1
+4896,Family,1
+4897,Far East Movement,1
+4898,Far Caspian,1
+4899,Fantasia featuring Big Boi,1
+4900,Fania All-Stars & Celia Cruz,1
+4901,Fania All-Stars,1
+4902,Fandubs Jose,1
+4903,Family Force 5,1
+4904,Clara Rockmore,1
+4905,Claire Rosinkranz,1
+4906,Peachy!,1
+4907,Atomic Vulture,1
+4908,Assaf Amdursky,1
+4909,Asking Alexandria,1
+4910,Ashnikko,1
+4911,Ashley McBryde & Benjy Davis,1
+4912,Ashley Eriksson,1
+4913,Ashlee Simpson,1
+4914,Asheru & Blue Black Of The Unspoken Heard,1
+4915,Ashen Throne - Mythosphere - Pathological,1
+4916,Ashe,1
+4917,As It Is,1
+4918,As December Falls,1
+4919,As Bodies Collapse - Begrime Exemious - Rotting in the Aftermath,1
+4920,Arşivplak,1
+4921,Ary Barroso,1
+4922,Arvey,1
+4923,ArtOfficial,1
+4924,ArrDee,1
+4925,Astra King,1
+4926,Atta Boy,1
+4927,Armin van Buuren & R3HAB,1
+4928,Attarazat Addahabia,1
+4929,Awon & Phoniks,1
+4930,Avu-chan,1
+4931,Avril Jensen,1
+4932,Aviva,1
+4933,"Avishai Cohen,Elchin Shirinov,Roni Kaspi",1
+4934,Avenue Beat,1
+4935,Aventura,1
+4936,Ave Sangria,1
+4937,"Ava Max,David Penn",1
+4938,Autumn!,1
+4939,Autoheart,1
+4940,Autoclave,1
+4941,Austra,1
+4942,Austin Butler,1
+4943,Audiobaton,1
+4944,Audien,1
+4945,Au/Ra,1
+4946,Arp,1
+4947,Armin Nosrati,1
+4948,City of Caterpillar,1
+4949,Annette Hanshaw,1
+4950,Anna Wise,1
+4951,Anklebiter,1
+4952,Animal Ghosts,1
+4953,Anima & Ennui,1
+4954,AniLifts,1
+4955,Ani DiFranco,1
+4956,Angus Maude,1
+4957,Angus & Julia Stone,1
+4958,Angelique Kidjo,1
+4959,Anew - Lamentations - Passion Of Depression,1
+4960,Andy Montañez,1
+4961,Andy Leon,1
+4962,Andy Gibb,1
+4963,André Previn & London Symphony Orchestra,1
+4964,"Andro Kotula, Emam, Mary Youngblood & Quiltman",1
+4965,Andres,1
+4966,And So I Watch You From Afar,1
+4967,Anne McCue,1
+4968,Annihilation of Hell - Ä.I.D.S. - The Road To Nuclear Holocaust MLP,1
+4969,Armani White,1
+4970,Anthony Colon,1
+4971,Arlo Mac,1
+4972,Arlo Guthrie & Pete Seeger,1
+4973,Ark Patrol,1
+4974,Arijit Singh,1
+4975,Ari Lennox & Summer Walker,1
+4976,Arenna,1
+4977,Archers of Loaf,1
+4978,"Arca,SOPHIE",1
+4979,Arawak & Black,1
+4980,Arash,1
+4981,Arandel,1
+4982,Apparel Wax,1
+4983,Apparat,1
+4984,Apink CHOBOM,1
+4985,Anyi,1
+4986,Anya Taylor-Joy,1
+4987,Anuel AA,1
+4988,Aye Nako,1
+4989,B.J. Thomas,1
+4990,B.o.B,1
+4991,Bawo,1
+4992,BashfortheWorld,1
+4993,BasedPrince,1
+4994,Bartees Strange,1
+4995,Barry White,1
+4996,Barrett Strong,1
+4997,Baroness,1
+4998,Barbecue Bob,1
+4999,Baptists,1
+5000,Banhana,1
+5001,Bandit,1
+5002,Band of Horses,1
+5003,Band Aid,1
+5004,Baltra,1
+5005,Baked Shrimp,1
+5006,Bakar,1
+5007,Baka G,1
+5008,Baird,1
+5009,Baths,1
+5010,Baxter Dury,1
+5011,"B.o.B, Hayley Williams",1
+5012,Bayka,1
+5013,Bedside Kites,1
+5014,Bedlocked,1
+5015,Bedemon,1
+5016,Bebe Rexha,1
+5017,Beau Jordan,1
+5018,Beast Coast,1
+5019,Bear's Den,1
+5020,Bear McCreary,1
+5021,Beans,1
+5022,Beacon Street Union,1
+5023,Beach Weather,1
+5024,Beach Riot,1
+5025,Beach Fossils,1
+5026,Beach Comber,1
+5027,Beach Bunny,1
+5028,Be Your Own Pet,1
+5029,Bby Eco,1
+5030,Baerd,1
+5031,BadBoyHalo,1
+5032,Bad English,1
+5033,Bad Bunny & The Marías,1
+5034,BLACK TAMBOURINE -,1
+5035,BLACK REBEL MOTORCYCLE CLUB -,1
+5036,BLACK HEAT -,1
+5037,BIZ MARKIE -,1
+5038,BIXBY,1
+5039,BILL COSBY -,1
+5040,BIGONE,1
+5041,BIBI,1
+5042,BENEE,1
+5043,BEAT CRUSADERS,1
+5044,BANKS,1
+5045,BAND-MAID,1
+5046,BAMBARA,1
+5047,BAM BAM -,1
+5048,BAEKHYUN,1
+5049,BADBADNOTGOOD,1
+5050,B2K,1
+5051,BNOT,1
+5052,BOAN,1
+5053,BRONCHO,1
+5054,Baby Keem,1
+5055,Backtrack,1
+5056,Back in the Alps,1
+5057,Back Door Slam,1
+5058,Babyxsosa,1
+5059,Babyface Ray,1
+5060,BabyTron,1
+5061,Baby Storme,1
+5062,Baby Got Back Talk,1
+5063,"BTTRFLY Quintet,Dominic Lalli,Adam Deitch,Eric Benny Bloom,Borahm Lee,Hunter Roberts",1
+5064,Baby Bash,1
+5065,Babel Wallace - spotlight on,1
+5066,Babel,1
+5067,Babehoven,1
+5068,Babe Rainbow,1
+5069,Baban,1
+5070,Baba,1
+5071,"Anamanaguchi, Hatsune Miku",1
+5072,Anadol,1
+5073,An Luu,1
+5074,Aaron May,1
+5075,AWOLNATION,1
+5076,AVAION,1
+5077,AUDREY NUNA & Deb Never,1
+5078,ASHWARYA,1
+5079,AREA21,1
+5080,APRIL,1
+5081,ANOHNI,1
+5082,ANAIT,1
+5083,AN21,1
+5084,AM/WAS,1
+5085,ALI,1
+5086,AKITSA -,1
+5087,AG,1
+5088,ADAM WEST -,1
+5089,ACTION PATROL -,1
+5090,ABHOMINE -,1
+5091,A.R.T Wilson,1
+5092,Aaron Dessner,1
+5093,Aaron Neville,1
+5094,"Adventure Time, Ashley Eriksson",1
+5095,Abhi The Nomad,1
+5096,"Adult Swim Smalls, Jack Stauber's Micropop",1
+5097,Adora,1
+5098,Ado,1
+5099,Adina Howard,1
+5100,Adiescar Chase,1
+5101,"Adam Melchor,Emily Warren",1
+5102,Adam Green,1
+5103,Actress,1
+5104,Action Bronson,1
+5105,"Aceyalone,DJ Fat Jack,Allana Morgan",1
+5106,Ace of Base,1
+5107,Ace Spectrum,1
+5108,Ace,1
+5109,Access to Arasaka,1
+5110,Ac Flow,1
+5111,Absinthe Father,1
+5112,Abraskadabra,1
+5113,A-WA,1
+5114,A$AP Ferg,1
+5115,A$AP ANT & A$AP Rocky,1
+5116,A Touch of Gold,1
+5117,3mouth,1
+5118,3LI,1
+5119,38 Special,1
+5120,35007,1
+5121,2562,1
+5122,24thankyou,1
+5123,24kGoldn,1
+5124,22° Halo,1
+5125,1up,1
+5126,1oneam,1
+5127,1986 OMEGA TRIBE,1
+5128,1915,1
+5129,18 Carat Affair,1
+5130,16 Horsepower,1
+5131,"100 gecs,Laura Les,Dylan Brady",1
+5132,"100 gecs, Laura Les, Dylan Brady",1
+5133,"""Weird Al"" Yankovic",1
+5134,4*TOWN (From Disney and Pixar’s Turning Red),1
+5135,415,1
+5136,5admin,1
+5137,99 Tales,1
+5138,A Taste of Honey,1
+5139,A Shrewdness of Apes,1
+5140,A Projection,1
+5141,A Boogie wit da Hoodie,1
+5142,9th Wonder & Kaze,1
+5143,9th Wonder,1
+5144,99jakes,1
+5145,8Ball,1
+5146,60 juno,1
+5147,"88rising, Joji & NIKI",1
+5148,88rising & NIKI,1
+5149,87dance,1
+5150,8485,1
+5151,777villain,1
+5152,71 Digits & Flo Rida,1
+5153,60 wrong sausages,1
+5154,Advance Base,1
+5155,Africa,1
+5156,Amy Reid,1
+5157,Alvin Lee,1
+5158,Altin Gün,1
+5159,Alternative,1
+5160,Alsa,1
+5161,Alphaville,1
+5162,Alpha Wolf,1
+5163,Almendra,1
+5164,Allo Darlin',1
+5165,Allison Crutchfield,1
+5166,Alleguez Son,1
+5167,All Them Witches,1
+5168,All The People,1
+5169,All Natural,1
+5170,Alkaline Trio,1
+5171,Alison Wonderland,1
+5172,Alina Baraz,1
+5173,Alien Ant Farm,1
+5174,Alice et Moi,1
+5175,Alto Arc,1
+5176,Aly & AJ,1
+5177,Against All Logic,1
+5178,Ama Lou,1
+5179,Amy Macdonald,1
+5180,Amy Allen,1
+5181,Amy,1
+5182,Amindi,1
+5183,Amii Stewart,1
+5184,Amigo the Devil,1
+5185,Amie Doherty & MARVEL,1
+5186,Amerie,1
+5187,American Pleasure Club,1
+5188,American Football,1
+5189,Amen Dunes,1
+5190,Amber Ryann,1
+5191,Amber Mark,1
+5192,Amanda Shires,1
+5193,Amanaz,1
+5194,Amaia,1
+5195,AmaLee,1
+5196,Alice Longyu Gao,1
+5197,Alice Kristiansen,1
+5198,Alice Glass,1
+5199,Algernon Cadwallader,1
+5200,Alaina Castillo,1
+5201,Alabama Shakes,1
+5202,Al Hirt,1
+5203,Akron/Family,1
+5204,Akira Ishikawa & Count Buffaloes,1
+5205,Akira Fuse,1
+5206,Akina Nakamori,1
+5207,Akiko Wada,1
+5208,Ak4:20,1
+5209,"Aiyo,PHOCO,Willow",1
+5210,Airiel,1
+5211,Air Traffic,1
+5212,Air & Beth Hirsch,1
+5213,Aint Afraid,1
+5214,Ahmed Fakroun,1
+5215,Ahmad Jamal Trio,1
+5216,Agent Stereo,1
+5217,Alan Hull,1
+5218,Alan Jackson,1
+5219,Alan Menken,1
+5220,Alejandro Escovedo,1
+5221,Alfonzo Hunter,1
+5222,Alfa mist;Kaya Thomas-Dyke,1
+5223,Alex Kunda,1
+5224,Alex Jeremy,1
+5225,Alex Ebert,1
+5226,Alesso,1
+5227,Alessi Brothers,1
+5228,Ale Cominotti,1
+5229,Alan Munson,1
+5230,Aldn,1
+5231,Alaska y Dinarama,1
+5232,Alaska Thunderfuck,1
+5233,Alas The Sun,1
+5234,Alan Walker,1
+5235,"Alan Silvestri, Billy F Gibbons, Dusty Hill & Frank Beard",1
+5236,Alan Silvestri,1
+5237,Beenie Man;Janet Jackson,1
+5238,Beers,1
+5239,Bei Ru,1
+5240,Carlos Garcia,1
+5241,Carla Bruni,1
+5242,Carl Douglas,1
+5243,Carissa's Wierd,1
+5244,Caribou,1
+5245,Carbon Leaf,1
+5246,Carb on Carb,1
+5247,Caramella Girls,1
+5248,Carabalí,1
+5249,CaptainSparklez,1
+5250,Captain Beefheart & His Magic Band,1
+5251,Cape Weather,1
+5252,Cantoma,1
+5253,Cannons,1
+5254,"Canibus,Biz Markie",1
+5255,Candy,1
+5256,Cam’ron,1
+5257,Camper Van Beethoven,1
+5258,Carlos Bertonatti,1
+5259,Carlos Mojica,1
+5260,Catatonia,1
+5261,Carlotta Cosials,1
+5262,Cat Clyde & Jeremie Albino,1
+5263,Castrator - Forsaken and Deprived - Castrator,1
+5264,Castaway,1
+5265,Cassius,1
+5266,Casper Mcfadden,1
+5267,Carver Commodore,1
+5268,Cartoon,1
+5269,Cartier'GOD,1
+5270,Carthago,1
+5271,Carry On,1
+5272,Carousel Kings,1
+5273,Carolyn Wonderland,1
+5274,Caroline Loveglow,1
+5275,Carolina Liar,1
+5276,"Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto - Cast",1
+5277,Carol Anderson,1
+5278,"Carmella Gross & Wagner,Eran Tzur",1
+5279,Camille,1
+5280,Calm,1
+5281,"Calle 13, Totó La Momposina, Susana Baca, Maria Rita",1
+5282,Cali Aleman,1
+5283,CC Dust,1
+5284,CBMC,1
+5285,CAST OF SESAME STREET -,1
+5286,CARPATHIAN FOREST -,1
+5287,C.V. Jørgensen,1
+5288,C.H.A.Y.,1
+5289,BØRNS,1
+5290,Byard Lancaster,1
+5291,Buzzcocks,1
+5292,Buzz Compass,1
+5293,Busted,1
+5294,Busta Rhymes,1
+5295,Burning Lord,1
+5296,Burl Ives,1
+5297,Buraka Som Sistema,1
+5298,Bullant,1
+5299,Bukka White,1
+5300,CCB (Critical Condition Band),1
+5301,CCFX,1
+5302,CFCF,1
+5303,Caetano Veloso,1
+5304,Calexico,1
+5305,Caleb Stine And The Revelations,1
+5306,Caleb Stine And The Brakemen,1
+5307,Caleb McLaughlin,1
+5308,Caleb Hyles,1
+5309,Cal Tjader & Eddie Palmieri,1
+5310,Café Tacvba,1
+5311,Cadallaca,1
+5312,CHERNEY BERG -,1
+5313,CRITTER,1
+5314,COUNT VIGLIONE'S LOVE AND FLAME FEATURING LADY CAROLYN -,1
+5315,COBRA KILLER -,1
+5316,CL,1
+5317,CHUNG HA,1
+5318,CHOI YOOJUNG,1
+5319,CHILDCARE,1
+5320,Cat's Meow,1
+5321,Catbite,1
+5322,Buddy Guy & Mavis Staples,1
+5323,Chris Isaak,1
+5324,Chris Coco,1
+5325,Chris Bell,1
+5326,Chop Daily,1
+5327,Choice to Make,1
+5328,Chocolate Watch Band,1
+5329,Chocolate,1
+5330,Chloe Frances,1
+5331,Chiroptera - Algebra - Chiroptera,1
+5332,Chip Plays,1
+5333,Chinese Football,1
+5334,"Childish Gambino,Azealia Banks",1
+5335,Chief Keef;Rick Ross,1
+5336,Chiddy Bang,1
+5337,ChickenShack,1
+5338,Chicano Batman,1
+5339,Chicago Gangsters,1
+5340,Chestnut Bakery,1
+5341,Chris Garneau,1
+5342,Chris Kevin,1
+5343,Catch 22,1
+5344,Chris Lake,1
+5345,Cities Aviv,1
+5346,Circus,1
+5347,Circleain,1
+5348,Cinthie,1
+5349,Cindy Lee Berryhill,1
+5350,Cindy Lee,1
+5351,Cilla Black,1
+5352,Ciccone Youth,1
+5353,Chyi Chin,1
+5354,Chuckii Booker,1
+5355,Chubby and the Gang,1
+5356,"Chubb Rock, Lil' Dap, Edo G. & Paw Duke",1
+5357,Christy Ogbah,1
+5358,Christopher O'Riley,1
+5359,Christoph De Babalon,1
+5360,Christie,1
+5361,Chris Whitley,1
+5362,Cherub Tree,1
+5363,Cherub,1
+5364,Cherry Glazerr,1
+5365,Cher & Beavis and Butt-Head,1
+5366,Chamaco Rivera Y Su Orquesta,1
+5367,Chamaco Rivera,1
+5368,Chaka Khan,1
+5369,Chad VanGaalen,1
+5370,Central Cee,1
+5371,Celia Cruz,1
+5372,Celeste,1
+5373,Ceephax Acid Crew,1
+5374,CeeLo Green,1
+5375,Cecilia Gault,1
+5376,Cecile Believe,1
+5377,Cecil Alexander,1
+5378,CeCe Peniston,1
+5379,Cayucas,1
+5380,Cautious Clay,1
+5381,Causa Sui,1
+5382,Caterina Caselli,1
+5383,Chance Thrash,1
+5384,Chandler Juliet,1
+5385,Chanel Beads,1
+5386,Charlotte Gainsbourg,1
+5387,Cheo Feliciano,1
+5388,Cheb Mami & Sting,1
+5389,Cheat Codes,1
+5390,Chayanne,1
+5391,Chavez,1
+5392,Chase Atlantic,1
+5393,Charmer,1
+5394,Charlotte Adigéry,1
+5395,Chaos In the CBD,1
+5396,Charlie Puth & Jung Kook,1
+5397,Charlie Cruz,1
+5398,Charlie Cardona,1
+5399,Charley Pride,1
+5400,Charley Patton,1
+5401,Charles Gerhardt & National Philharmonic Orchestra,1
+5402,Charles Bradley,1
+5403,Buffalo,1
+5404,Buckshot & oscar18,1
+5405,Beirut,1
+5406,Bilmuri,1
+5407,Billy Ray Cyrus,1
+5408,Billy Paul,1
+5409,Billy Garner,1
+5410,Billy Bragg,1
+5411,Billo's Caracas Boys,1
+5412,Billianne,1
+5413,Bill Medley & Jennifer Warnes,1
+5414,Bill Kirchen,1
+5415,Bill Haley and His Comets,1
+5416,Bileo,1
+5417,Biig Piig,1
+5418,Big Shaq,1
+5419,Big Scenic Nowhere,1
+5420,Big Pun,1
+5421,Big Joanie,1
+5422,Big Daddy Love,1
+5423,Big D and the Kids Table,1
+5424,Billy Taylor and the Teardrops,1
+5425,Binky Griptite,1
+5426,Blakey,1
+5427,Birdy,1
+5428,Blake Mills,1
+5429,Blake Babies,1
+5430,"Bladee,Ecco2k",1
+5431,Bladee & Mechatok,1
+5432,Blackfoot,1
+5433,BlackWaters,1
+5434,Black Tie Event,1
+5435,Black Star,1
+5436,Black Polish,1
+5437,Black Mountain,1
+5438,Black Kids,1
+5439,Black Dresses,1
+5440,Black Box Recorder,1
+5441,Björk Mit Funkstorung,1
+5442,"Bizarrap,Quevedo",1
+5443,Bizarrap & Villano Antillano,1
+5444,Bizarrap & Ptazeta,1
+5445,Big City Bumpus,1
+5446,Big Cheese,1
+5447,Big Brother & The Holding Company,1
+5448,Big Boy,1
+5449,Benzz,1
+5450,Bent Blue,1
+5451,Benoît Pioulard,1
+5452,Benny Sings,1
+5453,"Benny Benassi, The Biz",1
+5454,Benjamin Tod,1
+5455,Benjamin Gibbard,1
+5456,Benjamin Bratt,1
+5457,Ben Von Wildenhaus,1
+5458,Ben Platt,1
+5459,Ben Lee,1
+5460,Ben Folds,1
+5461,Ben E. King,1
+5462,Beloved,1
+5463,Belly,1
+5464,Belinda Carlisle,1
+5465,Belaganas,1
+5466,Bepo,1
+5467,Berklee Bruno Mars Ensemble,1
+5468,Berlin,1
+5469,Beth Orton,1
+5470,Beulah,1
+5471,Between You & Me,1
+5472,Between Thorns,1
+5473,Bettye Swann,1
+5474,Better Oblivion Community Center,1
+5475,Betsy Brye,1
+5476,"Bethel Music, Jenn Johnson",1
+5477,Beth Hart & Joe Bonamassa,1
+5478,Berlin Philharmonic & Herbert von Karajan,1
+5479,Beth Hart,1
+5480,"Beth Blankenship, Judy Kuhn & Mandy Gonzalez",1
+5481,Beta Max,1
+5482,Best Coast,1
+5483,"Bernie Worrell, Chops Horns",1
+5484,Bernardo Mota,1
+5485,Berlin Philharmonic & Sir Simon Rattle,1
+5486,Blake Shelton,1
+5487,Blanco Y Negro,1
+5488,Bryann,1
+5489,Bridging Electricity - Lost Legion - Bridging Electricity,1
+5490,Brian Crain,1
+5491,Brett Dennen,1
+5492,Brenda Lee,1
+5493,Brenda Devlin,1
+5494,Bren Joy,1
+5495,Bree Runway,1
+5496,Bread & Butter,1
+5497,Brandy & Monica,1
+5498,Brand 307,1
+5499,Brainstorm,1
+5500,Brady,1
+5501,Brad stank,1
+5502,Brad Paisley,1
+5503,Brad Goodall,1
+5504,Bracewar,1
+5505,Boyz II Men,1
+5506,Boyz & Girl,1
+5507,Brian Wilson,1
+5508,Bridgit Mendler,1
+5509,Bleached,1
+5510,Brijs,1
+5511,Bryan Adams,1
+5512,"Bruno Coulais, Mathilde Pellegrini, Laurent Petitgirard, Hungrarian Symphony Orchestra Budapest, HÃ©lÃ¨ne Breschand",1
+5513,Bruiser and Bicycle,1
+5514,Bruiser,1
+5515,Bruce Wall,1
+5516,Bruce McCulloch,1
+5517,Bruce Lee Band,1
+5518,Bruce Ditmas,1
+5519,Bruce Adler,1
+5520,Bru-C,1
+5521,Brothertiger,1
+5522,Brook Benton,1
+5523,Bronze,1
+5524,Bronski Beat,1
+5525,Broken Heroes - Mystic Force - The Eternal Quest,1
+5526,Broadside,1
+5527,Bring Me The Horizon,1
+5528,Boyscott,1
+5529,Boys Under the Moon,1
+5530,Botnek,1
+5531,Botch,1
+5532,Blurt,1
+5533,Blues Traveler,1
+5534,Blueboy,1
+5535,Blue Dahlia,1
+5536,Bloxx,1
+5537,Bloom,1
+5538,Bloodz Boi & Quit Life,1
+5539,Bloodwine - Skelator - Blood Empire,1
+5540,Bloodhound Gang,1
+5541,Blitzen Trapper,1
+5542,Blinkie,1
+5543,Blind Willie Johnson,1
+5544,Blind Pilot,1
+5545,Blind Lemon Jefferson,1
+5546,Blind Boy Fuller,1
+5547,Blind Blake,1
+5548,Blend,1
+5549,BoDeans,1
+5550,Bob Dylan & Johnny Cash,1
+5551,"Bobby ""Boris"" Pickett, The Crypt-Kickers",1
+5552,Bon Jovi & Jennifer Nettles,1
+5553,Boston Manor,1
+5554,Bootychaaain,1
+5555,Book of Love,1
+5556,Bonny Doon,1
+5557,Bonnie Tyler,1
+5558,Bonnie Kemplay,1
+5559,Bone Slim & droppedmilk,1
+5560,Bon Jovi,1
+5561,Bobby Bear,1
+5562,Bombay Bicycle Club,1
+5563,Bolla Afrikan Basement,1
+5564,Bogdan Raczynski,1
+5565,Bobby Womack,1
+5566,Bobby Weir & Wolf Bros,1
+5567,Bobby V.; Ludacris,1
+5568,Bobby Shmurda,1
+5569,Goth Babe,1
+5570,Gotts Street Park,1
+5571,"Grace City,Kenzie McGinnis",1
+5572,Marion Raw,1
+5573,Marine Girls,1
+5574,Marina & The Diamonds,1
+5575,Mariko Tone,1
+5576,Marika Hackman,1
+5577,Marijata,1
+5578,Marietta,1
+5579,Marianas Trench,1
+5580,"Marialy Pacheco,Sebastian Nickoll",1
+5581,"Marialy Pacheco,Nils Wülker",1
+5582,Mariah the Scientist,1
+5583,Mariah,1
+5584,Maria Muldaur,1
+5585,Maria Chiara Argirò,1
+5586,Margaritas Podridas,1
+5587,Mareux,1
+5588,Marcus D,1
+5589,Marcos Valle,1
+5590,Marion McPherson,1
+5591,Mark Korven,1
+5592,Marc Benjamin,1
+5593,Mark Ronson & Amy Winehouse,1
+5594,Mathematik,1
+5595,Matchbox Twenty,1
+5596,Master KG,1
+5597,Masta Ace,1
+5598,Mashrou' Leila,1
+5599,Masayoshi Soken,1
+5600,Masataka Matsutoya,1
+5601,Masakatsu Takagi,1
+5602,Masahito Arai,1
+5603,María Isabel,1
+5604,Maryanne Ito,1
+5605,Martin O'Donnell,1
+5606,Martin Luther King Jr.,1
+5607,Martin Jones,1
+5608,Martin Denny,1
+5609,Marko,1
+5610,Mark Ronson featuring Amy Winehouse,1
+5611,Marco Beltrami,1
+5612,Many Voices Speak,1
+5613,Grace Ives,1
+5614,Maggie Lindemann,1
+5615,Mae Muller,1
+5616,"Madvillain, Madlib & MF DOOM",1
+5617,"Madonna, Adamant",1
+5618,Madlib,1
+5619,Madcon,1
+5620,Mad Zoo,1
+5621,Macseal,1
+5622,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz",1
+5623,Macklemore & Ryan Lewis,1
+5624,Macklemore,1
+5625,Macintosh Plus,1
+5626,Machine Gun Kelly,1
+5627,"Mabel,Tiesto",1
+5628,Maasho,1
+5629,MaHa,1
+5630,"""Blue"" Gene Tyranny",1
+5631,MUTEMATH,1
+5632,"Maffio, La Perversa & Yomel El Meloso",1
+5633,Magic Man,1
+5634,Mantra Machine,1
+5635,Magic Tramps,1
+5636,Manian,1
+5637,Maniac,1
+5638,Manfred Mann's Earth Band,1
+5639,Mandy Moore,1
+5640,Man of Leisure,1
+5641,Mamoru Miyano,1
+5642,Malvina Reynolds,1
+5643,Malo Malo Band,1
+5644,Malibu,1
+5645,Malarkey,1
+5646,Makám,1
+5647,"Maky Lavender, DJ UNPIER & Kenan Belzner",1
+5648,"Makar,Tiesto",1
+5649,Major Lazer,1
+5650,"Mahmoud Ahmed,Imperial Bodyguard Band",1
+5651,Magnolia Park,1
+5652,Magnapop,1
+5653,Matisyahu,1
+5654,Matt Berninger,1
+5655,Matt Champion,1
+5656,Milk,1
+5657,Miles Davis Quintet,1
+5658,Mildlife,1
+5659,Mike Krol,1
+5660,Mike,1
+5661,Miharu Koshi,1
+5662,Migos,1
+5663,Midtown,1
+5664,Midland,1
+5665,Mickey Taveras,1
+5666,Mick Jagger & John Lennon,1
+5667,Michigander,1
+5668,Michelle,1
+5669,Michael Yonkers,1
+5670,Michael Sembello,1
+5671,Michael Joncas,1
+5672,Michael Hedges,1
+5673,Michael Gray,1
+5674,"Miles Davis, Robert Glasper & Bilal",1
+5675,Milky Chance,1
+5676,Matt Costa,1
+5677,Millenium,1
+5678,Mirovia,1
+5679,Miriam Makeba,1
+5680,Miranda Lambert,1
+5681,Mirah & Ginger Brooks Takahashi,1
+5682,Miracle Workers,1
+5683,Mira Calix,1
+5684,Mioko Yamaguchi,1
+5685,Mio,1
+5686,Mint Green,1
+5687,Minor Threat,1
+5688,Minnie Riperton,1
+5689,Miniature Tigers,1
+5690,Minhwi Lee,1
+5691,Mineral,1
+5692,Mind’s Eye,1
+5693,Mindchatter,1
+5694,Milton Nascimento,1
+5695,Michael Giacchino,1
+5696,Michael Galasso,1
+5697,"Michael Franti & Spearhead, Cherine Tanya Anderson",1
+5698,Michael Farneti,1
+5699,McFadden & Whitehead,1
+5700,McBusted,1
+5701,Mc Teuzin PV,1
+5702,Mayorkun,1
+5703,Maylee Todd,1
+5704,Maya Delilah,1
+5705,Max Torres,1
+5706,Max Frost,1
+5707,Max Elto,1
+5708,Max Cooper,1
+5709,Maurice McGee,1
+5710,Maul,1
+5711,Mattilo,1
+5712,Matthew Sweet,1
+5713,Matt Martians,1
+5714,Matt Maltese,1
+5715,Matt Maeson,1
+5716,McFly,1
+5717,Mdou Moctar,1
+5718,Mean Red Spiders,1
+5719,Men Without Hats,1
+5720,"Michael Calfan,Martin Solveig,KREAM",1
+5721,Miami Horror,1
+5722,Metro Station,1
+5723,Metro Boomin,1
+5724,Merle Travis,1
+5725,Merchant Ships,1
+5726,Menahan Street Band,1
+5727,Memphis Soul,1
+5728,Meeco,1
+5729,Memphis Minnie,1
+5730,Melt,1
+5731,Melodiesinfonie,1
+5732,Mellow & Sleazy,1
+5733,Meitei,1
+5734,Meiko,1
+5735,Meek Mill,1
+5736,MUNA,1
+5737,MRLD,1
+5738,MOTORHEAD -,1
+5739,Lil Peep,1
+5740,Lil Lo,1
+5741,Lil Keed,1
+5742,Lil Dicky,1
+5743,Lightspeed Champion,1
+5744,Lightning Bug,1
+5745,Life's Question,1
+5746,Life in Sweatpants,1
+5747,Life Without Buildings,1
+5748,Life,1
+5749,Lianne La Havas,1
+5750,Liam Kazar,1
+5751,Leyla McCalla,1
+5752,Ley Alejandro,1
+5753,Lewis Del Mar,1
+5754,Leven Kali,1
+5755,Lester Young,1
+5756,Les Misérables Cast,1
+5757,Lil Mz. 313,1
+5758,Lil Wayne,1
+5759,Liza Anne,1
+5760,"Lilacs.,Lizzy McAlpine",1
+5761,Live Wire,1
+5762,Little Teeth,1
+5763,Little Richard & Don Covay,1
+5764,Little Mix,1
+5765,Little Eva,1
+5766,Little Dragon,1
+5767,Lisa Prank,1
+5768,Lis Sarroca,1
+5769,Lipps Inc.,1
+5770,Lion of Judah,1
+5771,Lindstrøm & Christabelle,1
+5772,Lindsey Lomis,1
+5773,Linda Perhacs,1
+5774,Linda Ballentine,1
+5775,Limoblaze,1
+5776,Lime Cordiale,1
+5777,"Lillias White, Cheryl Freeman, LaChanze, Roz Ryan, Vaneese Thomas & Tawatha Agee",1
+5778,Les Choc Stars du Zaire,1
+5779,Leroy Anderson,1
+5780,Leonard Cohen,1
+5781,Leon Thomas,1
+5782,Lavender Country,1
+5783,Laurie Anderson,1
+5784,Laurence Guy,1
+5785,Laurel Halo,1
+5786,Lauran Hibberd,1
+5787,Laura Zocca,1
+5788,Laura Marling,1
+5789,Laura Les,1
+5790,Launder,1
+5791,"Laufey, dodie",1
+5792,Las Ketchup,1
+5793,Larry Verne,1
+5794,Larry Jon Wilson,1
+5795,Larkins,1
+5796,Largo,1
+5797,Laraaji,1
+5798,Langston & French,1
+5799,Lawrence,1
+5800,Le Babar,1
+5801,Le Futur Pompiste,1
+5802,Lee Morgan,1
+5803,Leon Bridges,1
+5804,Leo Dan,1
+5805,Lenka,1
+5806,Leif Ove Andsnes & Mahler Chamber Orchestra,1
+5807,Legião Urbana,1
+5808,"Left at London, Dominique ""SonicFox"" McLean, SungWon Cho",1
+5809,Left at London,1
+5810,Lee Gamble,1
+5811,Le Roxy Pro,1
+5812,Lee Cabrera,1
+5813,Lecrae & Andy Mineo,1
+5814,Leaving Records,1
+5815,Leah Dou,1
+5816,League of Legends,1
+5817,Lead Belly,1
+5818,Lea Salonga & Brad Kane,1
+5819,Liz B,1
+5820,Liù,1
+5821,MOTHXR,1
+5822,M. Tosikaz,1
+5823,Lynsey De Paul,1
+5824,Lyle Lovett & His Large Band,1
+5825,Lvl1,1
+5826,Luxury In Deceit - Venom Vampires - Luxury In Deceit,1
+5827,Luther Davis Group,1
+5828,Lurk,1
+5829,Luniz,1
+5830,Lukey,1
+5831,Luke Gibson,1
+5832,Luke Combs,1
+5833,Luiz Bonfá,1
+5834,Luisito Rey Y Su Orquesta,1
+5835,Luisito Ayala,1
+5836,Luis Miguel,1
+5837,Luis Bacalov,1
+5838,Luigi Ceccarelli,1
+5839,Ludwig Göransson,1
+5840,Lèmma Dèmissèw,1
+5841,M.A.G.S.,1
+5842,Loathe,1
+5843,MAGIC!,1
+5844,MOTHICA,1
+5845,MOOND4WG,1
+5846,MONSTERS FROM THE SURF -,1
+5847,MONO,1
+5848,MKTO,1
+5849,MIMIDEATH,1
+5850,MIKE WATT -,1
+5851,"MICHELLE,Arlo Parks",1
+5852,MICHELLE,1
+5853,MAXIMUM THE HORMONE,1
+5854,MAX,1
+5855,MAUREEN TUCKER & FRIENDS -,1
+5856,MARK E -,1
+5857,MANUAL SCAN -,1
+5858,MAN WITH A MISSION,1
+5859,MAMAMOO,1
+5860,MAJORITY RULE -,1
+5861,Ludwig A.F.,1
+5862,Ludovico Einaudi,1
+5863,Lucky Twice,1
+5864,Lucid Express,1
+5865,Los Iniciados,1
+5866,Los Hermanos,1
+5867,Los Bunkers,1
+5868,Lorna,1
+5869,"Lorde,Chromeo",1
+5870,Loote,1
+5871,Loop,1
+5872,Loods,1
+5873,Lonnie Mack,1
+5874,Lonnie Johnson,1
+5875,Longhair,1
+5876,London Festival Orchestra,1
+5877,Loleatta Holloway,1
+5878,Lola Amour,1
+5879,Logic,1
+5880,Local H,1
+5881,Lobby Boxer,1
+5882,Los Peyotes,1
+5883,Los Retros,1
+5884,Los Rtrwck de Elbert Moguel,1
+5885,Love Spirals Downwards,1
+5886,Luce,1
+5887,"Loyle Carner, Wesley Joseph & Athian Akec",1
+5888,Lowell,1
+5889,Loving Caliber,1
+5890,Loving,1
+5891,Loverboy,1
+5892,Love Tractor,1
+5893,"Love Regenerator, Steve Lacy, Calvin Harris",1
+5894,Los Saicos,1
+5895,Louis Armstrong and His All Stars,1
+5896,Louis Armstrong,1
+5897,Louie Ramirez Y Su Orquesta,1
+5898,Loud Luxury,1
+5899,Lou Ragland,1
+5900,Lou Phelps,1
+5901,Lost Boyz,1
+5902,"Misrak Mammo,Tchista Band",1
+5903,Missing Persons,1
+5904,Mission of Burma,1
+5905,Only Sun,1
+5906,On Video,1
+5907,On My Skin - SilentLie - Equilibrium,1
+5908,Omniverse,1
+5909,Omarion,1
+5910,Omah Lay,1
+5911,Olivier Verhaeghe,1
+5912,Olivia Dean,1
+5913,"Oliver Leith,Matt Copson,Caroline Polachek,12 Ensemble",1
+5914,Oliver Hazard,1
+5915,Olde Pine,1
+5916,Old Crow Medicine Show,1
+5917,Ola Strandh,1
+5918,Ol' Dirty Bastard,1
+5919,Okey Dokey,1
+5920,Okean Elzy,1
+5921,Oh He Dead,1
+5922,Ogbert the Nerd,1
+5923,One More Change With You,1
+5924,Oracle Sisters,1
+5925,Otoboke Beaver,1
+5926,Orange Juice,1
+5927,Osunlade,1
+5928,Oso Oso,1
+5929,Oscar Lang,1
+5930,Orrquesta Son Del Saman,1
+5931,Orquesta la Solución,1
+5932,Orquesta del Rey de Puerto Rico,1
+5933,Orquesta Pérez Prado,1
+5934,Orquesta Internacional Los Niches,1
+5935,Orquesta Gipsy,1
+5936,Orlando Julius,1
+5937,Orgel Sound J-Pop,1
+5938,Organ Tapes,1
+5939,Orchid,1
+5940,Orchestre Symphonique De Montreal & Charles Dutoit,1
+5941,Orchester der Vereinigten Bühnen Wien,1
+5942,Orchards,1
+5943,Orangutang,1
+5944,Offonoff,1
+5945,Of Montreal,1
+5946,Odie Leigh,1
+5947,Odetta,1
+5948,Nosfell,1
+5949,North Sea Radio Orchestra,1
+5950,Norman Greenbaum,1
+5951,Nora Brown,1
+5952,Nope,1
+5953,Noname,1
+5954,"Noizu,Disciples,MOYA",1
+5955,Noche de Brujas,1
+5956,Nobuo Ariga,1
+5957,Noah Guy,1
+5958,Noah Cyrus,1
+5959,NoSo,1
+5960,NoMBe,1
+5961,No Savage,1
+5962,No Rome,1
+5963,No Pressure,1
+5964,Nitty Gritty Dirt Band,1
+5965,Nosgov,1
+5966,Not Agree,1
+5967,Nothing,1
+5968,ONUKA,1
+5969,Odessa,1
+5970,Odeal,1
+5971,October Country,1
+5972,Octi & Wintercastle,1
+5973,Ocean Wisdom,1
+5974,Ocean Alley,1
+5975,ORSON WELLES W/ RAY CHARLES SINGERS & NICK PERITO ORCHESTRA -,1
+5976,OMC,1
+5977,Nothing But Thieves,1
+5978,ODESZA,1
+5979,Numcha,1
+5980,Nuffer,1
+5981,Nuclear Tomb,1
+5982,Nowadays,1
+5983,Novidade,1
+5984,Nova Twins,1
+5985,Otis The 3rd,1
+5986,Otyken,1
+5987,Niphkeys,1
+5988,Patience & Prudence,1
+5989,Pat Metheny,1
+5990,Pat Carroll,1
+5991,Pat Ament,1
+5992,Pastel Ghost,1
+5993,Pasteboard,1
+5994,Partner,1
+5995,Part Time,1
+5996,Parsley Sound,1
+5997,Parov Stelar,1
+5998,"Parks, Squares and Alleys",1
+5999,Parkineos & Rojuu,1
+6000,Park Hyo Shin,1
+6001,Paranoia - Blemish - Blemish,1
+6002,Parade Ground,1
+6003,Paquita Salas,1
+6004,Papir,1
+6005,Papa M,1
+6006,Patawawa,1
+6007,Patrick Porter,1
+6008,Ought,1
+6009,Patsy Cline,1
+6010,Peach Luffe,1
+6011,Peach Illusion,1
+6012,Peach Club,1
+6013,"PdL, Skusta Clee & Yuri",1
+6014,Paula Abdul,1
+6015,Paul Williams,1
+6016,Paul Partohap,1
+6017,Paul Neubauer & Margo Garrett,1
+6018,Paul McCartney & Wings,1
+6019,Paul McCartney & Linda McCartney,1
+6020,Paul Martin,1
+6021,Paul Kelly,1
+6022,Paul Darey,1
+6023,Patty Waters,1
+6024,Patty Larkin,1
+6025,Patty Griffin,1
+6026,Patti LaBelle,1
+6027,Pan Sonic,1
+6028,Pan American,1
+6029,Pamungkas,1
+6030,Palmistry & Bladee,1
+6031,PENOMECO,1
+6032,PC Music & Hannah Diamond,1
+6033,PAZZ,1
+6034,P.S. Eliot,1
+6035,P.H.F.,1
+6036,P-Square,1
+6037,P!nk,1
+6038,Ozzy Osbourne,1
+6039,Ozric Tentalces,1
+6040,OverDoz.,1
+6041,"Over the Garden Wall, The Blasting Company, Jack Jones",1
+6042,Over The Garden Wall & The Blasting Company,1
+6043,Our Last Night,1
+6044,Our Flagship Product - microwaves - Discomfiture Atlas,1
+6045,Our Flagship Product - Microwaves - Discomfiture Atlas,1
+6046,Oumou Sangaré,1
+6047,Ouiness,1
+6048,PERVERSOR -,1
+6049,PJ Morton,1
+6050,PORTER WAGONER AND DOLLY PARTON -,1
+6051,Pain of Truth,1
+6052,Palmistry,1
+6053,Pale Waves,1
+6054,Palastic,1
+6055,Palamino,1
+6056,Palais,1
+6057,Pais Tropical,1
+6058,Painter,1
+6059,Paavoharju,1
+6060,POiSON GiRL FRiEND,1
+6061,PYLON -,1
+6062,PUSH,1
+6063,PURPLE KISS,1
+6064,PSY,1
+6065,PROFANATICA -,1
+6066,PRISTIN V,1
+6067,PRETTYMUCH,1
+6068,Nissim Black,1
+6069,Ninja Sex Party,1
+6070,Mississippi John Hurt,1
+6071,Musi-O-Tunya & Rikki Ililonga,1
+6072,Muro,1
+6073,Murder By Death,1
+6074,"Mura Masa, Pa Salieu, Skillibeng & Kali Uchis",1
+6075,Mumm-Ra,1
+6076,Mumford & Sons,1
+6077,Mukimukimanmansu,1
+6078,Mudd & Pollard,1
+6079,Mrld,1
+6080,Moxie,1
+6081,Mouse and Level,1
+6082,Mounties,1
+6083,Mount Kimbie,1
+6084,Mount Eerie,1
+6085,Mott the Hoople,1
+6086,Motoyoshi Iwasaki & Windy,1
+6087,Motorama,1
+6088,Motionless In White,1
+6089,Murs,1
+6090,Mustafa,1
+6091,NNHMN,1
+6092,My Iron Lung,1
+6093,NLE Choppa,1
+6094,NICK RIFF,1
+6095,NIAGARA TRIANGLE,1
+6096,NGHTMRE,1
+6097,NEIKED,1
+6098,NCT DREAM & HRVY,1
+6099,NCT,1
+6100,NAV,1
+6101,NAUSEATOR -,1
+6102,NANORAY,1
+6103,N4C,1
+6104,N.W.A.,1
+6105,Ménélik,1
+6106,Måns Glaeser,1
+6107,Måneskin,1
+6108,Mysteryboy,1
+6109,My Morning Jacket,1
+6110,Motherfolk,1
+6111,Motel Radio,1
+6112,Moss,1
+6113,Moses Gunn Collective,1
+6114,Molly Parden,1
+6115,Moksi,1
+6116,Mohsen Yeganeh,1
+6117,Mofa Haarnavot Shel Dr. Kasper,1
+6118,Moein,1
+6119,Modjo,1
+6120,Modeselektor,1
+6121,Modern English,1
+6122,Model First Orchestra of the USSR Defence Ministry & Nikolai Nazarov,1
+6123,Moby Grape,1
+6124,Moby,1
+6125,Mo-Dettes,1
+6126,Mk.gee,1
+6127,Miura Jam,1
+6128,Mithridatum,1
+6129,Mitch & Mikey,1
+6130,MisterWives,1
+6131,Mommy Long Legs,1
+6132,MoneyMarr,1
+6133,Mono the Ghost,1
+6134,"Mora,Jhay Cortez",1
+6135,Morteza Pashaei,1
+6136,Mort Garson,1
+6137,Morrissey,1
+6138,Morris Day,1
+6139,Morningsiders,1
+6140,Morgan Wallen,1
+6141,Morgan Delt,1
+6142,Moondog,1
+6143,Monolithic Extinction - Writhing - Of Earth & Flesh,1
+6144,Moonchild,1
+6145,Moon Walker,1
+6146,Moon Sisters,1
+6147,Mood Beach,1
+6148,Montego Bay,1
+6149,Monta & Brothers,1
+6150,Monster High,1
+6151,NMIXX,1
+6152,NO LABELS -,1
+6153,Ninety,1
+6154,Nick Jonas,1
+6155,Nick Garrie,1
+6156,Nick De Caro,1
+6157,Nick Cave & The Bad Seeds,1
+6158,Nicholas Greenwood,1
+6159,Nicholas Britell,1
+6160,Nice As Fuck,1
+6161,Nic D,1
+6162,Niagara CM Stars,1
+6163,Ngozi Family,1
+6164,Newtown,1
+6165,Newgrounds Death Rugby,1
+6166,Newfound Interest in Connecticut,1
+6167,NewDad,1
+6168,New World Vulture,1
+6169,New West,1
+6170,New Edition,1
+6171,Nessa Barrett,1
+6172,Nick Holder,1
+6173,Nick Riffs' Freak Element,1
+6174,"NOAHFINNCE, Hot Mulligan & Extra Large Holiday Card",1
+6175,"Nick Wilkins, Adonai Melodías & meka maraschino",1
+6176,Nine Treasures,1
+6177,Nilüfer Yanya,1
+6178,Nils Lofgren,1
+6179,Nile Rodgers & Chic,1
+6180,Nikita Warren,1
+6181,Nik Turner,1
+6182,Nigo Chanel,1
+6183,Nigo,1
+6184,Nightly,1
+6185,Nightcore & Nightcore Anime,1
+6186,Night Sins,1
+6187,Night Lovell,1
+6188,Night Club,1
+6189,Nicotine,1
+6190,Nicole Dollanganger,1
+6191,Nico Play,1
+6192,"Nicki Minaj, Maluma & Myriam Fares",1
+6193,Nero,1
+6194,Nelly,1
+6195,Neko Case & The Sadies,1
+6196,Neil Young & Crazy Horse,1
+6197,Naomi Maki,1
+6198,Naomi Akimoto,1
+6199,Naoko Gushima,1
+6200,Nanpa Básico,1
+6201,Nani Wolfgramm,1
+6202,Nancy Wilson,1
+6203,Nancy Sinatra & Lee Hazlewood,1
+6204,Nana Grizol,1
+6205,Namewee,1
+6206,Naked Eyes,1
+6207,Naima Bock,1
+6208,Naeleck,1
+6209,NYOGTHAEBLISZ -,1
+6210,NY*AK,1
+6211,NU’EST W,1
+6212,NRBQ,1
+6213,NOTD & Quinn XCII,1
+6214,Napoleon XIV,1
+6215,Natalie Jane,1
+6216,Natalie Merchant,1
+6217,Navy Blue,1
+6218,Neil Diamond,1
+6219,Negativland,1
+6220,Negative XP,1
+6221,Need For Speed,1
+6222,Nebraska,1
+6223,Ne-Yo,1
+6224,Naïka,1
+6225,Navajo,1
+6226,Natasha Bedingfield,1
+6227,Nature TV,1
+6228,Native American Music World,1
+6229,Nathaniel Rateliff & The Night Sweats,1
+6230,"Nathan Lane, Ernie Sabella, Jason Weaver & Joseph Williams",1
+6231,Nate Scheible,1
+6232,Nate Heller,1
+6233,Nate Dogg,1
+6234,Lancey Foux,1
+6235,Lalo Rodríguez,1
+6236,Lakizo Entertainment & Joeboy,1
+6237,"Ivan Gough,Feenixpawl,Georgi Kay,Axwell",1
+6238,Issei Okamoto,1
+6239,Israel Kamakawiwo'ole,1
+6240,Isao Tomita,1
+6241,Isadora,1
+6242,Iron Maiden,1
+6243,Iron Claw,1
+6244,Iron & Wine,1
+6245,Irene Cara,1
+6246,Inuit Jargon,1
+6247,Into The Nightcore,1
+6248,Instupendo,1
+6249,Insight,1
+6250,Insect Ark,1
+6251,Injury Reserve,1
+6252,Injun Joe,1
+6253,Inhavit,1
+6254,Influent Filth - Crusher Conveyor - Sludge Digester,1
+6255,Ivan Ave,1
+6256,Ivo's Group,1
+6257,JJ Lin,1
+6258,Ivy,1
+6259,JINJIN&ROCKY,1
+6260,JIN,1
+6261,JIMMY WALTON & HIS BAND -,1
+6262,JILL & MICHAEL GALLINA -,1
+6263,JEON SOMI,1
+6264,JENNIE,1
+6265,"JAY-Z,Kanye West,Frank Ocean",1
+6266,JAWNZA,1
+6267,JAEHYUN,1
+6268,J090,1
+6269,"J.J. Ipsen, Liam Wright",1
+6270,"J.J. Ipsen, Jim Croft",1
+6271,J. Geils Band,1
+6272,J. Cole & Bas,1
+6273,J. Cobis,1
+6274,Izzy Bardot,1
+6275,Izumi Kobayashi,1
+6276,Indiana Evans,1
+6277,Imprecation - Ars Goetia - In Nomine Diaboli,1
+6278,Imprecation,1
+6279,Imperial Porcelain,1
+6280,IV Of Spades,1
+6281,ITZY,1
+6282,IShowSpeed,1
+6283,INJI,1
+6284,IDK,1
+6285,ICYTWAT,1
+6286,IC3PEAK,1
+6287,IAMX,1
+6288,I.O.I,1
+6289,I'd Love To Change The World,1
+6290,I Prevail,1
+6291,I DONT KNOW HOW BUT THEY FOUND ME,1
+6292,Hüsker Dü,1
+6293,"HydroDalek, Daft Punk, HHGregg",1
+6294,Husky,1
+6295,Human Factor,1
+6296,Hugo Montenegro,1
+6297,Iah,1
+6298,Ian Hunter & The Rant Band,1
+6299,Ibibio Sound Machine,1
+6300,Illiterate Light,1
+6301,Imogen Heap,1
+6302,Immortal Technique,1
+6303,Imanbek,1
+6304,"Imagine Dragons, JID",1
+6305,Imagination,1
+6306,Illya Kuryaki & The Valderramas,1
+6307,Illuminate,1
+6308,Iliona,1
+6309,Iceboy Violet,1
+6310,Ikon,1
+6311,Ike Willis,1
+6312,Iglooghost,1
+6313,Idan Raichel,1
+6314,Ida Mae,1
+6315,Ida Cox & Coleman Hawkins Quintet,1
+6316,Ichiko Aoba,1
+6317,JINUSEAN,1
+6318,JLS,1
+6319,Huang Pinyuan,1
+6320,Javonntte,1
+6321,"Jauz,ROUXN",1
+6322,Jaswiry Morel,1
+6323,Jass Manak & Guri,1
+6324,"Jason Weaver, Rowan Atkinson & Laura Williams",1
+6325,Jason Ringenberg & BR549,1
+6326,"Jason Molina,Will Johnson",1
+6327,Jason Isbell and the 400 Unit,1
+6328,Jason Isbell & The 400 Unit,1
+6329,Jasmine Thompson,1
+6330,Jarvis Cocker,1
+6331,Japancakes,1
+6332,Jany Green,1
+6333,Janus,1
+6334,Janko Nilovic & The Soul Surfers,1
+6335,Jang-Yoon Ju,1
+6336,"Janelle MonÃ¡e, Erykah Badu",1
+6337,Jane Child,1
+6338,Javier Batiz,1
+6339,Jax,1
+6340,JO YURI,1
+6341,Jay Bezzy,1
+6342,Jeezy,1
+6343,Jeanne Moreau,1
+6344,Jeanette,1
+6345,Jean Luc Ponty,1
+6346,Jean Dawson,1
+6347,Jealous of the Birds,1
+6348,Jazzy Eyewear,1
+6349,Jazzanova,1
+6350,Jazz Spastiks & Rebels To The Grain,1
+6351,"Jaz Dhami, The kidd",1
+6352,Jaymay,1
+6353,Jay Som,1
+6354,Jay Rock,1
+6355,Jay Robinson & Penny & The Quarters,1
+6356,Jay Prince,1
+6357,Jay Gunning,1
+6358,Jay Electronica,1
+6359,Jana Horn,1
+6360,Jan Jelinek,1
+6361,Jamie Foxx,1
+6362,James Reid,1
+6363,Jackie Shane,1
+6364,Jackie Lin & Par Avion,1
+6365,Jack de Quidt,1
+6366,Jack Stauber's Micropop,1
+6367,Jack Kittel,1
+6368,Jack Harlow,1
+6369,Jack Hardy,1
+6370,Jace Everett,1
+6371,Jacco Gardner,1
+6372,Ja Rule,1
+6373,JUNNY,1
+6374,JUDAS ISCARIOT -,1
+6375,JP Harris,1
+6376,JOONY,1
+6377,"JOHNNY ""GUITAR"" WATSON -",1
+6378,JOE WOOD -,1
+6379,JOE WALSH -,1
+6380,Jackson Lundy,1
+6381,Jackson Yee,1
+6382,Jacob Collier,1
+6383,Jake Scott,1
+6384,James Marsters & Orchestra,1
+6385,James Ivy,1
+6386,James Horner,1
+6387,James Gardin,1
+6388,James Blunt,1
+6389,"Jakob Bro,Joe Lovano,Larry Grenadier,Thomas Morgan,Anders Christensen,Joey Baron,Jorge Rossy",1
+6390,Jake Zyrus,1
+6391,Jake Bugg,1
+6392,Jacob Daley,1
+6393,Jak Lizard,1
+6394,Jai Paul,1
+6395,Jaheim,1
+6396,Jah Wobble,1
+6397,Jadu Heart,1
+6398,Jacques Dutronc,1
+6399,Jacqueline Taïeb,1
+6400,Hudson Mohawke,1
+6401,Howard Tate,1
+6402,Jeff Draco,1
+6403,Hailu Mergia & Dahlak Band,1
+6404,Hail the Sun,1
+6405,HahaRoddDropThatBeat,1
+6406,Hadag Nahash,1
+6407,"Habib Koité,Bamada",1
+6408,Habe,1
+6409,HYUKOH & Sunset Rollercoaster,1
+6410,HUMAN PART,1
+6411,HOUSE OF LARGE SIZES -,1
+6412,HORRIFIC -,1
+6413,HONEYMOAN,1
+6414,HOMESHAKE,1
+6415,HOLYCHILD,1
+6416,HELL CAN WAIT,1
+6417,HDSN,1
+6418,HAVOHEJ -,1
+6419,HARDY & Lainey Wilson,1
+6420,HARDSTYLE BRAH,1
+6421,Hailu Mergia,1
+6422,Hair Ensemble,1
+6423,Harold Budd,1
+6424,Haki R. Madhubuti,1
+6425,Harmless,1
+6426,Hard-FI,1
+6427,Happy Mondays,1
+6428,Happy End,1
+6429,Happy Doghouse,1
+6430,Hank Williams,1
+6431,Hanggai,1
+6432,Handsome Furs,1
+6433,Handsome Boy Modeling School,1
+6434,Hands Off Gretel,1
+6435,Hand Habits,1
+6436,Hana Vu,1
+6437,Hammock,1
+6438,Hamell on Trial,1
+6439,Hallucinogen,1
+6440,Half Past Two,1
+6441,Hakushi Hasegawa,1
+6442,HAP PALMER & MARTHA CHENEY -,1
+6443,"HANK WILLIAMS, JR. -",1
+6444,HALOGEN -,1
+6445,HAIL/SNAIL -,1
+6446,Group Anmataff,1
+6447,Grin,1
+6448,Gretel Hänlyn,1
+6449,Greta Van Fleet,1
+6450,Gregory and The Hawk,1
+6451,Gregory Alan Isakov,1
+6452,Greg Philinganes,1
+6453,Greg Laswell,1
+6454,Greentea Peng,1
+6455,Grayscale,1
+6456,Grandmas House,1
+6457,Granddaddy,1
+6458,Gramatik,1
+6459,Graham Parker,1
+6460,Graham Nash,1
+6461,Grace Kelly,1
+6462,Grace Jones,1
+6463,Growing Pains,1
+6464,Grupo Hechizo,1
+6465,Grupo Niche,1
+6466,Gunk,1
+6467,H.M. Queen Elizabeth II,1
+6468,"Gyorgy Ligeti, Kim Kashkashian",1
+6469,Gwenno,1
+6470,"Gwen, Bertrand Dupart",1
+6471,Gwen & Bertrand Dupart,1
+6472,Gwazi,1
+6473,Gustavo Santaolalla,1
+6474,Gunda Merced Y Su Salsa Fever,1
+6475,Grupo Pregon,1
+6476,GummibÃ¤r,1
+6477,Gum,1
+6478,Guerilla Toss & Neu!,1
+6479,Guaynaa,1
+6480,Guayacán Orquesta,1
+6481,Guapdad 4000,1
+6482,Gryffin,1
+6483,"Harmonia, Brian Eno",1
+6484,"Harold Faltermeyer,Steve Stevens",1
+6485,Howard Roberts,1
+6486,Homesafe,1
+6487,Holy Wars,1
+6488,Holy Motors,1
+6489,Holy Fawn,1
+6490,Holo,1
+6491,Hollywood Classics,1
+6492,Hold On - Bleakness - Life at a Standstill,1
+6493,Hoko Sounds,1
+6494,Hohnen Ford,1
+6495,Hogar,1
+6496,Hitomi Tohyama,1
+6497,Hitchhiker - Macabre - Dahmer [Remastered],1
+6498,Hiroyuki Namba,1
+6499,Hiroshima,1
+6500,Hiroshi Yoshimura,1
+6501,Hiroshi Saeki,1
+6502,Himiko Kikuchi,1
+6503,Himera,1
+6504,Home,1
+6505,Homixide Gang,1
+6506,Harold Melvin & The Blue Notes,1
+6507,Honey,1
+6508,Housing Co.,1
+6509,House of Pain,1
+6510,Hott 22,1
+6511,Hotmood,1
+6512,Hotel Ugly,1
+6513,Hot Tuna,1
+6514,Hot Hot Heat,1
+6515,Hot Flash Heat Wave,1
+6516,Hot Chocolate,1
+6517,Hot Chelle Rae,1
+6518,Horsey & King Krule,1
+6519,Horsegirl,1
+6520,Hop Along,1
+6521,Hooverphonic,1
+6522,Hoody,1
+6523,HoodRich Pablo Juan,1
+6524,Honey Moon,1
+6525,Hilton Felton,1
+6526,Hillsong Worship,1
+6527,Higher Brothers,1
+6528,High Highs,1
+6529,Heather Eatman,1
+6530,Heartless Bastards,1
+6531,Heart Attack Man,1
+6532,Head Over Heels,1
+6533,Head & The Hares,1
+6534,Haywood,1
+6535,Have a Nice Day!,1
+6536,Have Heart,1
+6537,Hatsumi Shibata,1
+6538,Hatchie,1
+6539,Haska,1
+6540,"Haruomi Hosono,イエロー・マジック・バンド",1
+6541,Harry Nillson,1
+6542,"Harry Connick, Jr.",1
+6543,Harrison,1
+6544,Harris Rudman,1
+6545,Harriette,1
+6546,Heavn,1
+6547,Hector Pichie Perez,1
+6548,Helica,1
+6549,Here It Is & Bill Frisell,1
+6550,Hideki Taniuchi,1
+6551,Hideki Saijo,1
+6552,Heywood,1
+6553,Heroes Del Silencio,1
+6554,Herman's Hermits,1
+6555,Herencia  Rumbera,1
+6556,Here It Is & Norah Jones,1
+6557,Herbcraft,1
+6558,Helium,1
+6559,Her Noise Is Violence,1
+6560,Henry Solomon,1
+6561,Henry Kaiser And Wadada Leo Smith,1
+6562,Henry Jamison,1
+6563,Henjila,1
+6564,Hello Mary,1
+6565,Hellberg,1
+6566,Jeff Beck,1
+6567,Jeff Lang,1
+6568,Laika,1
+6569,Kenny Larkin,1
+6570,Kenny Bobien,1
+6571,Kenji Bunch,1
+6572,Kenichiro Nishihara,1
+6573,"Kendrick Lamar, SZA",1
+6574,Kendra Smith,1
+6575,Kenaniah,1
+6576,Ken Kobayashi,1
+6577,Kelvyn Boy,1
+6578,Kelvin Mockingbird,1
+6579,Kelsey Lu,1
+6580,Kelly Hogan & The Sadies,1
+6581,Kelly Hogan & The Mellowcremes,1
+6582,Kelis,1
+6583,Keith Urban,1
+6584,Keith Jarrett,1
+6585,Keith Ape,1
+6586,Keepsake,1
+6587,Kenny G,1
+6588,KennyHoopla,1
+6589,Kid Sistr,1
+6590,Kenta Dedachi,1
+6591,Kid Abelha,1
+6592,Kiana Ledé,1
+6593,Khruangbin & Leon Bridges,1
+6594,Khruangbin,1
+6595,"Khalid, Swae Lee",1
+6596,Kevin Ross,1
+6597,Kevin Morby,1
+6598,Kevin McKay & Lee Cabrera,1
+6599,Kevin Kaarl,1
+6600,Kevin Johansen,1
+6601,Kevin Atwater,1
+6602,Kevin Abstract,1
+6603,"Kero Uno,Kelsey Bulkin",1
+6604,Kermit the Creator,1
+6605,Kepi Ghoulie,1
+6606,Kep1er,1
+6607,Kenta204,1
+6608,Keep for Cheap,1
+6609,Keep,1
+6610,Kazumi Watanabe,1
+6611,Kazuhito Murata,1
+6612,Kamikazee,1
+6613,Kamasi Washington,1
+6614,Kali,1
+6615,Kaleidoscope,1
+6616,Kalapana,1
+6617,Kalafina,1
+6618,Kajagoogoo,1
+6619,Kaiser Chiefs,1
+6620,Kahvas Jute,1
+6621,Kaho Shimada,1
+6622,Kah-Lo,1
+6623,Kaelin Ellis,1
+6624,Kaede,1
+6625,KURUPT FM,1
+6626,KSHMR,1
+6627,KR3TURE,1
+6628,KOYO,1
+6629,Kang,1
+6630,"Kanye West, Retrovision",1
+6631,Kapt. Kopter & The Fabulous Twirlybirds,1
+6632,Katherine Torrivilla,1
+6633,Kay Starr,1
+6634,Katrina and the Waves,1
+6635,Katrina (Katrina and the Waves),1
+6636,Katie Pruitt,1
+6637,Kathy McCarty,1
+6638,Kathy Heideman,1
+6639,Kathleen Edwards,1
+6640,Kate Fagan,1
+6641,Kard,1
+6642,Kate Bollinger,1
+6643,Kate & Anna McGarrigle,1
+6644,Katana,1
+6645,Kasor,1
+6646,Karoshi - AUTO - Hardcore 2022 Demo Cassette,1
+6647,Karizma,1
+6648,Karen O and the Kids,1
+6649,Kid Silver,1
+6650,Kid Travis,1
+6651,KINNIE STARR -,1
+6652,"LIUFO,Kian O'Gorman",1
+6653,LEE YOUNG JI,1
+6654,LEE CHAE YEON,1
+6655,LAVA LA RUE,1
+6656,LAURY WEBB -,1
+6657,LAUNDRY DAY,1
+6658,LA WITCH,1
+6659,L7,1
+6660,L-SEVEN -,1
+6661,L'Orchestra Cinematque,1
+6662,L'Arc〜en〜Ciel,1
+6663,Kíla,1
+6664,Kyu Sakamoto,1
+6665,Kyle Dion,1
+6666,Kwon Eun Bi,1
+6667,Kungens Män,1
+6668,Ku One Chan,1
+6669,Kristin Chenoweth,1
+6670,LF SYSTEM,1
+6671,LL Cool J,1
+6672,Kidd Kenn,1
+6673,"LMFAO, Lauren Bennett, GoonRock",1
+6674,"Lady Gaga, Elton John, Chester Lockhart, Mood Killer & Lil Texas",1
+6675,Lady Gaga & Ariana Grande,1
+6676,Lady Bird,1
+6677,Lady A,1
+6678,Laddio Bolocko,1
+6679,Lach,1
+6680,Labrinth,1
+6681,La Unión,1
+6682,La Rondallita,1
+6683,La India,1
+6684,LVNDSCAPE,1
+6685,LVL UP,1
+6686,LP Giobbi,1
+6687,LP,1
+6688,LOST GENERATION -,1
+6689,LOONA / ODD EYE CIRCLE,1
+6690,LOOK MUM NO COMPUTER,1
+6691,Kristiane,1
+6692,Kristeen Young,1
+6693,Krisma,1
+6694,Kota the Friend,1
+6695,Kinkead,1
+6696,Kinito Mendez,1
+6697,King Princess,1
+6698,King Nun,1
+6699,King Geedorah,1
+6700,King Django,1
+6701,King Buffalo,1
+6702,Kin$oul,1
+6703,Kim Wilde,1
+6704,Kim Sun,1
+6705,Kim Kashkashian & Robert Levin,1
+6706,Kim Jung Mi,1
+6707,Kim Gordon,1
+6708,Kim De Los Santos,1
+6709,Kim Areum,1
+6710,Kiki Dee & The Kiki Dee Band,1
+6711,Kidsmoke,1
+6712,Kinneret,1
+6713,Kip Addotta,1
+6714,Kiran Leonard,1
+6715,Kiyoshi Sugimoto,1
+6716,Kokoro Disco-San,1
+6717,Kojo Funds,1
+6718,Kojaque,1
+6719,Knxwledge,1
+6720,Klubbhuset,1
+6721,Klein,1
+6722,Klaus Badelt,1
+6723,Kitty Sucker,1
+6724,Kirby,1
+6725,Kitty,1
+6726,Kitten Forever,1
+6727,Kit Sebastian,1
+6728,Kississippi,1
+6729,Kirouac,1
+6730,Kirk Franklin,1
+6731,Kiriae Crucible,1
+6732,KMFDM,1
+6733,KIM JAE HYUNG,1
+6734,Jeff Parker,1
+6735,John Cephas & Phil Wiggins,1
+6736,John Andrews & The Yawns,1
+6737,John + Jane Q. Public,1
+6738,Johannes Linstead,1
+6739,"Johannes Brahms,Mischa Maisky,Pavel Gililov",1
+6740,Johanna Warren,1
+6741,Johann Strauss Orchestra,1
+6742,Johan Söderqvist,1
+6743,Joey Scarbury,1
+6744,Joel Vandroogenbroeck,1
+6745,Joe Webb,1
+6746,Joe P,1
+6747,Joe Lewandowski,1
+6748,Joe Jackson,1
+6749,Joe Hertler & The Rainbow Seekers,1
+6750,Joe Deninzon & Stratospheerius,1
+6751,Joe Byrd & The Field Hippies,1
+6752,Jodie Foster,1
+6753,John Campbell,1
+6754,John Coltrane and Thelonious Monk,1
+6755,Johnny Rivera,1
+6756,John Cougar Mellencamp,1
+6757,Johnny Pacheco,1
+6758,Johnny Orlando,1
+6759,Johnny Fuller,1
+6760,"John Williams, Yo-Yo Ma, Itzhak Perlman & Memoirs of a Geisha Original Soundtrack Orchestra",1
+6761,John Vanderslice,1
+6762,John Newman,1
+6763,John Morris,1
+6764,John Mellencamp,1
+6765,John Mayer Trio,1
+6766,"John Lennon, Yoko Ono",1
+6767,John Legend & WENDY,1
+6768,John Legend,1
+6769,John Jackson,1
+6770,John Hiatt & Jerry Douglas,1
+6771,John Gazoo,1
+6772,John Frusciante,1
+6773,John Fogerty,1
+6774,Jodeci,1
+6775,Jocelyn & Chris Arndt,1
+6776,Joanna Newsom,1
+6777,JoJo,1
+6778,Jessica Darrow,1
+6779,Jesse Malin & Bruce Springsteen,1
+6780,Jessamine,1
+6781,Jesper Kyd,1
+6782,Jerry Rivera,1
+6783,Jerry Garcia,1
+6784,Jerry Folk & FENGSEL,1
+6785,Jerry Douglas,1
+6786,Jeremy Zucker,1
+6787,Jeremy Soule,1
+6788,"Jeremy Irons, Whoopi Goldberg, Cheech Marin & Jim Cummings",1
+6789,Jereena Montemayor,1
+6790,Jenny Hval,1
+6791,Jennifer Warnes,1
+6792,Jennifer Saunders,1
+6793,Jenevieve,1
+6794,Jeffrey Osborne,1
+6795,Jessie J,1
+6796,Jesus Enriquez,1
+6797,Jesús Pagán y Su Orquesta,1
+6798,Jim Ransom,1
+6799,Jme,1
+6800,Jivaro,1
+6801,Jimmy Sabater,1
+6802,Jimmy Cross,1
+6803,Jimmy Carter and Dallas County Green,1
+6804,Jim Sullivan,1
+6805,Jim Schoenfeld,1
+6806,Jim Morrison,1
+6807,Jethro Tull,1
+6808,Jim Lawless,1
+6809,Jim Lauderdale,1
+6810,Jim Ford,1
+6811,Jill Andrews,1
+6812,Jewel,1
+6813,Jettingham,1
+6814,Jets to Brazil,1
+6815,Johnny Ray Salsa Con Clase,1
+6816,Johnny Ventura,1
+6817,KILLY,1
+6818,Justicia,1
+6819,Juniore,1
+6820,Junior Jack,1
+6821,Jung Seung Hwan & Seungwon Kang,1
+6822,June,1
+6823,Jumbo,1
+6824,Julio Castro y Su Orquesta La Masacre,1
+6825,Julio Albino y Su Orquesta Secreto a Voces,1
+6826,Julien Baker,1
+6827,Julie,1
+6828,Julianno Sosa,1
+6829,Juliana Hatfield,1
+6830,Julian Wa,1
+6831,Julian Rolton & Martin Outram,1
+6832,Julian Lage,1
+6833,Julian Cope,1
+6834,Julian Casablancas,1
+6835,Julia Michaels,1
+6836,Jurassic 5,1
+6837,"Justin Bieber,Nicki Minaj",1
+6838,Johnny Vicious,1
+6839,Justin Paul,1
+6840,KH,1
+6841,KEY,1
+6842,KEPONE -,1
+6843,KENNY YOUNG & THE EGGPLANTS -,1
+6844,KARRAS -,1
+6845,KARATE -,1
+6846,KALI,1
+6847,KAI,1
+6848,K/DA,1
+6849,K.I.D,1
+6850,K.Flay,1
+6851,K. Michelle,1
+6852,K-Narias,1
+6853,K-GROUP/OMIT -,1
+6854,K'naan,1
+6855,"K Suave,Trippie Redd",1
+6856,Justin Townes Earle,1
+6857,Julee Cruise,1
+6858,Jujubee,1
+6859,Juice WRLD,1
+6860,Judy Collins,1
+6861,Joris Voorn,1
+6862,Jordan Ward & Joony,1
+6863,Jordan Smith,1
+6864,Jordan Rakei,1
+6865,Jordan Occasionally,1
+6866,Jordan Mackampa,1
+6867,Jordan Alexander,1
+6868,Joony,1
+6869,Jookabox,1
+6870,Jonell,1
+6871,"Jonathan Richman,The Modern Lovers",1
+6872,Jonathan Richman & The Modern Lovers,1
+6873,Jon Vinyl,1
+6874,Jon Pardi,1
+6875,Jon Hopkins,1
+6876,Jomarijan,1
+6877,Johnny Winter,1
+6878,Jose Fajardo Jr,1
+6879,"Jose Fajardo, Jr.",1
+6880,Jose Peña Suazo,1
+6881,Joy Orbison & Overmono,1
+6882,Judee Sill,1
+6883,Jude Cole,1
+6884,Juanes,1
+6885,Juana Molina,1
+6886,Juan Cavero,1
+6887,Jr Corduroy,1
+6888,Joywave,1
+6889,Joy Again,1
+6890,"Joseph Williams, Sally Dworsky, Nathan Lane, Ernie Sabella & Kristle Edwards",1
+6891,José José,1
+6892,"José Alberto ""El Canario""",1
+6893,Jossie Esteban,1
+6894,Josie Man,1
+6895,Josh White,1
+6896,Josh Hodges,1
+6897,Josh Gad,1
+6898,🫂,1
