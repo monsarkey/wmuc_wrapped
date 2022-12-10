@@ -6,7 +6,7 @@ from show import Show
 if __name__ == "__main__":
 
     # placeholder
-    csv = "spin_data/spins_8mo_11-17-22.csv"
+    csv = "spin_data/spins_8mo_12-09-22.csv"
 
     # reading in csv, changing column headers
     df = pd.read_csv(csv, header=0, names=['date', 'show_title', 'dj_id', 'dj_name', 'date2', 'artist', 'song', \
@@ -34,6 +34,11 @@ if __name__ == "__main__":
     df = df[valid_channels]
     # df = df.reset_index()
     # df = df.drop(columns=['index'])
+
+    # extracting all artists
+    artists = df.groupby(['artist'])['song'].count().reset_index(name='Count')\
+        .sort_values(['Count'], ascending=False) .reset_index().drop(columns='index')
+    artists.to_csv('genre_scraper/artist_list.csv')
 
     # for now, we are just using one example show for analysis but we could uncomment this.
 
