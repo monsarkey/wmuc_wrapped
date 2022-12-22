@@ -29,7 +29,7 @@ percent_encoding = {
 
 class Show:
 
-    def __init__(self, data: pd.DataFrame):
+    def __init__(self, data: pd.DataFrame, fill_data: bool = False):
 
         self.token = None
 
@@ -40,6 +40,10 @@ class Show:
 
         self.spin_count = len(data)
         self.df = data
+
+        if fill_data:
+            self.fill_spotify()
+            self.get_genres()
 
     @staticmethod
     def _get_token() -> str:
@@ -112,8 +116,15 @@ class Show:
 
         # if our first entry wasn't found, then we replace it with the next one
         # TODO: if the first two entries are null, this doesn't help. Maybe a while loop?
-        if ids[0] is None:
-            ids[0] = ids[1]
+        # if ids[0] is None:
+        #     ids[0] = ids[1]
+
+        i = 0
+        while i < len(ids) and ids[i] is None:
+            i += 1
+
+        for j in range(i):
+            ids[j] = ids[i]
 
         self.df['id'] = ids
 
@@ -159,6 +170,24 @@ class Show:
             features_df = features_df[required_features]
 
             self.df = pd.concat([self.df, features_df], axis=1)
+
+    def get_genres(self):
+
+        genre_LUT = pd.read_csv('genre_scraper/genre_LUT_final.csv', dtype='str', encoding='utf-8')
+        genre_LUT = genre_LUT.to_dict(orient='split')
+        genre_LUT = dict(genre_LUT['data'])
+
+        def genres(artist):
+            genre_split = genre_LUT[artist].split('/') if genre_LUT[artist] is not None else None
+
+            if genre_split:
+                return genre_split[0], \
+                    genre_split[1] if len(genre_split) > 1 else "Not Found", \
+                    genre_split[2] if len(genre_split) > 2 else "Not Found"
+            else:
+                return "Not Found", "Not Found", "Not Found"
+
+        self.df['genre_1'], self.df['genre_2'], self.df['genre_3'] = zip(*self.df['artist'].map(genres))
 
     def to_csv(self, filepath: str = None):
         if filepath:

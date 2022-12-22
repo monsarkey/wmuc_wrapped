@@ -62,8 +62,6 @@ if __name__ == "__main__":
 
     shows = []
 
-    show_dfs = [show_dfs[0]]
-
     for show in show_dfs:
 
         # we are only including shows with more than 20 spins
@@ -79,8 +77,7 @@ if __name__ == "__main__":
                 new_show = Show.from_csv(filepath)
                 shows.append(new_show)
             else:
-                new_show = Show(show)
-                new_show.fill_spotify()
+                new_show = Show(show, fill_data=True)
                 new_show.to_csv(filepath)
 
                 shows.append(new_show)
