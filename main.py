@@ -3,6 +3,13 @@ import numpy as np
 
 from show import Show
 
+
+def extract_artists():
+    artists = df.groupby(['artist'])['song'].count().reset_index(name='Count') \
+        .sort_values(['Count'], ascending=False).reset_index().drop(columns='index')
+    artists.to_csv('genre_scraper/artist_list.csv')
+
+
 if __name__ == "__main__":
 
     # placeholder
@@ -35,27 +42,37 @@ if __name__ == "__main__":
     # df = df.reset_index()
     # df = df.drop(columns=['index'])
 
-    # extracting all artists
-    artists = df.groupby(['artist'])['song'].count().reset_index(name='Count')\
-        .sort_values(['Count'], ascending=False) .reset_index().drop(columns='index')
-    artists.to_csv('genre_scraper/artist_list.csv')
+    # we make some manual edits to make sure 5 shows have their correct name
+    df['show_title'] = df['show_title'].replace('the deep genre dive (piedmont blues)', 'the deep genre dive')
+    df['show_title'] = df['show_title'].replace('Everything Reminds Me of Her- numbers', 'Everything Reminds Me of Her')
+    df['show_title'] = df['show_title'].replace(' To the Top Floor <Ep. 1>', 'To the Top Floor')
+    df['show_title'] = df['show_title'].replace('The Strip EP. 2', 'The Strip')
+    df['show_title'] = df['show_title'].replace('The New Indie Canon 2022.11.22', 'The New Indie Canon')
 
-    # for now, we are just using one example show for analysis but we could uncomment this.
+    show_dfs = [x for _, x in df.groupby(by='dj_id')]
 
-    # show_dfs = [x for _, x in df.groupby(by='show_title')]
+    for show in show_dfs:
+        title = show['show_title'].mode()[0].strip()
+        show['show_title'] = title
+        print(f"show {title} is of length {len(show)}")
 
-    # for show_df in show_dfs:
-    #     title = list(set(show_df.show_title))[0]
-    #     print(f"show {title} is of length {len(show_df)}")
+    df = pd.concat(show_dfs)
+    show_dfs = [x for _, x in df.groupby(by='show_title')]
 
-    example_df = df[df['show_title'] == "insufferable art house cinema soundtrack"]
-    example_df = example_df.reset_index()
-    example_df = example_df.drop(columns=['index'])
+    for show in show_dfs:
+        pass
 
-    example_show = Show(example_df)
-    example_show.fill_spotify()
 
-    example_show.to_csv()
-    test = Show.from_csv("show_out/test-show.csv")
-    pass
+
+
+    # example_df = df[df['show_title'] == "insufferable art house cinema soundtrack"]
+    # example_df = example_df.reset_index()
+    # example_df = example_df.drop(columns=['index'])
+    #
+    # example_show = Show(example_df)
+    # example_show.fill_spotify()
+    #
+    # example_show.to_csv()
+    # test = Show.from_csv("show_out/test-show.csv")
+    # pass
     # print(df)
