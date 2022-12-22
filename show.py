@@ -34,9 +34,10 @@ class Show:
         self.token = None
 
         self.title = data['show_title'].mode()[0]
-        self.dj_name = data['dj_name'].mode()[0]
-        self.dj_id = data['dj_id'].mode()[0]
+        self.dj_name = data['dj_name'].mode()[0] if not data['dj_name'].mode().empty else ""
+        self.dj_id = data['dj_id'].mode()[0] if not data['dj_id'].mode().empty else ""
         self.channel = data['channel'].mode()[0]
+
         self.spin_count = len(data)
         self.df = data
 
@@ -114,7 +115,7 @@ class Show:
         if ids[0] is None:
             ids[0] = ids[1]
 
-        self.df['id'] = pd.Series(ids)
+        self.df['id'] = ids
 
         # get audio features if required
         if include_stats:
@@ -159,8 +160,11 @@ class Show:
 
             self.df = pd.concat([self.df, features_df], axis=1)
 
-    def to_csv(self, filepath: str = "show_out/test-show.csv"):
-        self.df.to_csv(filepath)
+    def to_csv(self, filepath: str = None):
+        if filepath:
+            self.df.to_csv(filepath)
+        else:
+            self.df.to_csv(f"show_out/{self.title.replace(' ', '_')}.csv")
 
     def __str__(self) -> str:
         return f"{self.title} on {self.channel}, presented by {self.dj_name}: {self.spin_count} total spins."

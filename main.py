@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+import os
+
 from show import Show
 
 
@@ -54,13 +56,36 @@ if __name__ == "__main__":
     for show in show_dfs:
         title = show['show_title'].mode()[0].strip()
         show['show_title'] = title
-        print(f"show {title} is of length {len(show)}")
 
     df = pd.concat(show_dfs)
     show_dfs = [x for _, x in df.groupby(by='show_title')]
 
+    shows = []
+
+    show_dfs = [show_dfs[0]]
+
     for show in show_dfs:
-        pass
+
+        # we are only including shows with more than 20 spins
+        if len(show) > 20:
+
+            title = show['show_title'].mode()[0]
+            show = show.reset_index()
+            show = show.drop(columns=['index'])
+
+            filepath = f"show_out/{title.replace(' ', '_')}.csv"
+
+            if os.path.isfile(filepath):
+                new_show = Show.from_csv(filepath)
+                shows.append(new_show)
+            else:
+                new_show = Show(show)
+                new_show.fill_spotify()
+                new_show.to_csv(filepath)
+
+                shows.append(new_show)
+
+    pass
 
 
 
