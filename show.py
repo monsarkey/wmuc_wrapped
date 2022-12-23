@@ -155,7 +155,10 @@ class Show:
 
                 if response.status_code == 200:  # continue as normal
                     json_response = response.json()
-                    dfs.append(pd.DataFrame(json_response['audio_features']))
+                    audio_features = json_response['audio_features']
+                    audio_features = [x if x is not None else audio_features[i - 1] for i, x in
+                                      enumerate(audio_features)]
+                    dfs.append(pd.DataFrame(audio_features))
                 elif response.status_code == 401:  # authentication failed, get new token
                     self.token = self._get_token()
                 elif response.status_code == 429:  # rate limited, wait and try again
@@ -193,7 +196,7 @@ class Show:
         if filepath:
             self.df.to_csv(filepath)
         else:
-            self.df.to_csv(f"show_out/{self.title.replace(' ', '_')}.csv")
+            self.df.to_csv(f"show_out/{self.title.replace(' ', '_').replace('/', '_').replace('?', '_')}.csv")
 
     def __str__(self) -> str:
         return f"{self.title} on {self.channel}, presented by {self.dj_name}: {self.spin_count} total spins."

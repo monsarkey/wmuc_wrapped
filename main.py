@@ -4,6 +4,7 @@ import numpy as np
 import os
 
 from show import Show
+from station import Station
 
 
 def extract_artists():
@@ -71,7 +72,7 @@ if __name__ == "__main__":
             show = show.reset_index()
             show = show.drop(columns=['index'])
 
-            filepath = f"show_out/{title.replace(' ', '_')}.csv"
+            filepath = f"show_out/{title.replace(' ', '_').replace('/', '_').replace('?', '_')}.csv"
 
             if os.path.isfile(filepath):
                 new_show = Show.from_csv(filepath)
@@ -82,9 +83,7 @@ if __name__ == "__main__":
 
                 shows.append(new_show)
 
-    pass
-
-
+    station = Station(shows)
 
 
     # example_df = df[df['show_title'] == "insufferable art house cinema soundtrack"]

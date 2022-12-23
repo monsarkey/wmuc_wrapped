@@ -3,4 +3,4 @@ secrets.py
 *.xml
 .cache
 .idea/
-
+show_out/*
