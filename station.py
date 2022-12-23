@@ -24,6 +24,11 @@ class Station:
 
         df = pd.DataFrame(show_details, columns=["title", "dj_name", "dj_id", "spins"])
 
+        # show_stats = [show.get_stats() for show in self.shows]
+        show_genres = [show.get_genres() for show in self.shows]
+        show_genres = pd.DataFrame(show_genres, columns=["genre_1", 'genre_2', "genre_3"])
+
+        df = pd.concat([df, show_genres], axis=1)
         pass
 
     def __str__(self):

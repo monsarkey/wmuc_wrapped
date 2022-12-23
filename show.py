@@ -3,6 +3,7 @@ from __future__ import annotations
 import os.path
 
 import pandas as pd
+import numpy as np
 import requests
 import json
 import time
@@ -43,7 +44,7 @@ class Show:
 
         if fill_data:
             self.fill_spotify()
-            self.get_genres()
+            self.fill_genres()
 
     @staticmethod
     def _get_token() -> str:
@@ -174,7 +175,7 @@ class Show:
 
             self.df = pd.concat([self.df, features_df], axis=1)
 
-    def get_genres(self):
+    def fill_genres(self):
 
         genre_LUT = pd.read_csv('genre_scraper/genre_LUT_final.csv', dtype='str', encoding='utf-8')
         genre_LUT = genre_LUT.to_dict(orient='split')
@@ -191,6 +192,45 @@ class Show:
                 return "Not Found", "Not Found", "Not Found"
 
         self.df['genre_1'], self.df['genre_2'], self.df['genre_3'] = zip(*self.df['artist'].map(genres))
+
+    # gets top three genres associated with this show
+    def get_genres(self) -> [str]:
+
+        genres = self.df[['genre_1', 'genre_2', 'genre_3']]
+        genres = list(zip(genres['genre_1'].values, genres['genre_2'].values, genres['genre_3'].values))
+
+        genre_dict = {}
+
+        for top_3 in genres:
+
+            valid = np.sum([1 if x != "Not Found" else 0 for x in top_3])
+
+            if valid == 0:
+                continue
+
+            for genre in top_3:
+                if genre != "Not Found":
+                    if genre in genre_dict.keys():
+                        genre_dict[genre] += (valid / 3)
+                    else:
+                        genre_dict[genre] = (valid / 3)
+
+        genre, points = zip(*genre_dict.items())
+
+        genres = pd.DataFrame({"genre": genre, "points": points})
+        genres = genres.sort_values(by="points", ascending=False)
+
+        final_top = genres['genre'].values[0:3]
+        if len(final_top) == 3:
+            return list(final_top)
+        else:
+            if len(final_top) == 0:
+                return ["_", "_", "_"]
+            elif len(final_top) == 1:
+                return list(final_top).append("_").append("_")
+            else:
+                return list(final_top).append("_")
+
 
     def to_csv(self, filepath: str = None):
         if filepath:
