@@ -84,6 +84,7 @@ if __name__ == "__main__":
                 shows.append(new_show)
 
     station = Station(shows)
+    station.to_csv()
 
 
     # example_df = df[df['show_title'] == "insufferable art house cinema soundtrack"]

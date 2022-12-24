@@ -32,6 +32,10 @@ class Show:
 
     def __init__(self, data: pd.DataFrame, fill_data: bool = False):
 
+        # change which audio features we're looking for here
+        self.required_features = ['danceability', 'energy', 'loudness', 'acousticness', 'instrumentalness',
+                             'valence', 'tempo', 'duration_ms', 'time_signature']
+
         self.token = None
 
         self.title = data['show_title'].mode()[0]
@@ -132,10 +136,6 @@ class Show:
         # get audio features if required
         if include_stats:
 
-            # change which audio features we're looking for here
-            required_features = ['danceability', 'energy', 'loudness', 'acousticness', 'instrumentalness',
-                                 'valence', 'tempo', 'duration_ms', 'time_signature']
-
             # we can request track info in batches of 100
             num_requests = (num_tracks // 100) + 1
 
@@ -171,7 +171,7 @@ class Show:
 
             # join request DataFrames into one
             features_df = pd.concat(dfs).reset_index().drop(columns='index')
-            features_df = features_df[required_features]
+            features_df = features_df[self.required_features]
 
             self.df = pd.concat([self.df, features_df], axis=1)
 
@@ -231,6 +231,8 @@ class Show:
             else:
                 return list(final_top).append("_")
 
+    def get_stats(self) -> [float]:
+        return list(self.df[self.required_features].mean().values)
 
     def to_csv(self, filepath: str = None):
         if filepath:
